@@ -1,1886 +1,1896 @@
-A4,A4,
-Access Token,גישת אסימון,
-Accounts Manager,מנהל חשבונות,
-Accounts User,חשבונות משתמשים,
-Action,פעולה,
-Actions,פעולות,
-Active,פעיל,
-Add,להוסיף,
-Add Comment,הוסף תגובה,
-Address,כתובת,
-Address Line 2,שורת כתובת 2,
-Address Title,כותרת כתובת,
-Address Type,סוג הכתובת,
-Administrator,מנהל,
-All Day,כל היום,
-Allow Delete,לאפשר מחיקה,
-Amended From,תוקן מ,
-Amount,הסכום,
-Applicable For,ישים ל,
-Approval Status,סטטוס אישור,
-Assign,להקצות,
-Assign To,להקצות ל,
-Attachment,קובץ מצורף,
-Attachments,קבצים מצורפים,
-Based On,המבוסס על,
-Billing,חיוב,
-Cancel,לבטל,
-Category,קָטֵגוֹרִיָה,
-Category Name,שם קטגוריה,
-City,עיר,
-City/Town,עיר / יישוב,
-Client,הלקוח,
-Closed,סגור,
-Code,קוד,
-Color,צבע,
-Company Name,שם חברה,
-Condition,מצב,
-Contact,צור קשר עם,
-Contact Details,פרטי,
-Content,תוכן,
-Content Type,סוג תוכן,
-Create,צור,
-Created By,נוצר על-ידי,
-Custom HTML,המותאם אישית HTML,
-Custom?,מותאם אישית?,
-Date Format,פורמט תאריך,
-Datetime,Datetime,
-Day,יְוֹם,
-Default Letter Head,ברירת מחדל מכתב ראש,
-Defaults,ברירות מחדל,
-Delivery Status,סטטוס משלוח,
-Department,מחלקה,
-Details,פרטים,
-Document Name,שם מסמך,
-Document Status,סטטוס מסמך,
-Document Type,סוג המסמך,
-Domain,תחום,
-Domains,תחומים,
-Email Account,"חשבון דוא""ל",
-Email Sent,"דוא""ל שנשלח",
-Enable,אפשר,
-Enabled,מופעל,
-End Date,תאריך סיום,
-Event,אירוע,
-Failed,נכשל,
-Fax,פקס,
-Feedback,משוב,
-Female,נקבה,
-Field Name,שם שדה,
-Fieldname,Fieldname,
-Fields,שדות,
-First Name,שם פרטים,
-Frequency,תֶדֶר,
-Friday,יום שישי,
-From,מ,
-Full Name,שם מלא,
-Further nodes can be only created under 'Group' type nodes,צמתים נוספים ניתן ליצור אך ורק תחת צמתים הסוג 'הקבוצה',
-Gender,מין,
-Guest,אורח,
-Half Day,חצי יום,
-Half Yearly,חצי שנתי,
-High,גבוה,
-Image,תמונה,
-Image View,צפה בתמונה,
-Import Log,יבוא יומן,
-Insert,הכנס,
-Introduction,מבוא,
-Is Active,האם Active,
-Is Default,האם ברירת מחדל,
-Label,תווית,
-Last Name,שם משפחה,
-Letter Head,מכתב ראש,
-Level,רמה,
-Limit,לְהַגבִּיל,
-Logs,יומנים,
-Low,נמוך,
-Maintenance Manager,מנהל אחזקה,
-Maintenance User,משתמש תחזוקה,
-Male,זכר,
-Mandatory,חובה,
-Medium,בינוני,
-Message Examples,דוגמאות הודעה,
-Method,שיטה,
-Middle Name,שם אמצעי,
-Middle Name (Optional),שם התיכון (אופציונאלי),
-Monday,יום שני,
-Monthly,חודשי,
-More,יותר,
-More Information,מידע נוסף,
-Move,מהלך,
-My Account,החשבון שלי,
-Next,הבא,
-No Data,אין נתונים,
-Not Permitted,לא מורשה,
-Not active,לא פעיל,
-Notes,הערות,
-Operation,מבצע,
-Options,אפשרויות,
-Other,אחר,
-Owner,בעלים,
-Page Missing or Moved,דף חסר או עבר,
-Parameter,פרמטר,
-Password,סיסמא,
-Payment Gateway,תשלום Gateway,
-Payments,תשלומים,
-Period,תקופה,
-Pincode,Pincode,
-Please enable pop-ups,אנא אפשר חלונות קופצים,
-Please select Company,אנא בחר חברה,
-Portal,שַׁעַר,
-Portal Settings,הגדרות Portal,
-Preview,תצוגה מקדימה,
-Primary,עיקרי,
-Print Format,פורמט הדפסה,
-Print Settings,הגדרות הדפסה,
-Private,פרטי,
-Property,נכס,
-Public,ציבור,
-Published,פורסם,
-Purchase Manager,מנהל רכש,
-Purchase Master Manager,רכישת Master מנהל,
-Purchase User,משתמש רכישה,
-Query Options,שאילתא אפשרויות,
-Received,קיבלתי,
-Recipients,מקבלי,
-Redirect URL,כתובת אתר להפניה מחדש,
-Reference,התייחסות,
-Reference Date,תאריך התייחסות,
-Reference Document,מסמך ההפניה,
-Reference Document Type,התייחסות סוג המסמך,
-Reference Owner,בעלי ההפניה,
-Reference Type,סוג ההתייחסות,
-Region,אזור,
-Rejected,נדחה,
-Reopen,פתח מחדש,
-Replied,ענה,
-Report,"דו""ח",
-Report Builder,Report Builder,
-Report Type,סוג הדוח,
-Reports,דיווחים,
-Response,תגובה,
-Role,תפקיד,
-Route,מַסלוּל,
-Sales Manager,מנהל מכירות,
-Sales Master Manager,מנהל המכירות Master,
-Sales User,משתמש מכירות,
-Salutation,שְׁאֵילָה,
-Sample,לדוגמא,
-Saturday,יום שבת,
-Saved,הציל,
-Scheduled,מתוכנן,
-Search,חיפוש,
-Select,בחר,
-Select DocType,DOCTYPE בחר,
-Send Now,שלח עכשיו,
-Sent,נשלח,
-Series {0} already used in {1},סדרת {0} כבר בשימוש {1},
-Service,שירות,
-Settings,הגדרות,
-Shipping,משלוח,
-Short Name,שם קצר,
-Slideshow,מצגת,
-Source,מקור,
-Standard,סטנדרטי,
-Start Date,תאריך ההתחלה,
-Stopped,נעצר,
-Subject,נושא,
-Submit,שלח,
-Sunday,יום ראשון,
-System Manager,מנהל מערכת,
-Target,יעד,
-Task,משימה,
-Test,מבחן,
-Thank you,תודה לך,
-To Date,לתאריך,
-Tools,כלים,
-Traceback,להתחקות,
-URL,כתובת האתר,
-Unsubscribed,רישום בוטל,
-User ID,זיהוי משתמש,
-Users,משתמשים,
-Validity,תוקף,
-Warning,אזהרה,
-Website,אתר,
-Website Manager,מנהל אתר,
-Website Settings,הגדרות אתר,
-Wednesday,יום רביעי,
-Weekly,שבועי,
-Welcome email sent,דואר אלקטרוני שנשלח ברוכים הבאים,
-Workflow,זרימת עבודה,
-old_parent,old_parent,
-{0} is mandatory,{0} הוא חובה,
-"""Company History""","""היסטוריה של חברה""",
-"""Parent"" signifies the parent table in which this row must be added","""הורה"" מסמל את שולחן ההורה שבו יש להוסיף את השורה הזו",
-"""Team Members"" or ""Management""","""חברי צוות"" או ""ניהול""",
-&lt;head&gt; HTML,&lt;ראש&gt; HTML,
-'In List View' not allowed for type {0} in row {1},"""ברשימת צפייה 'לא אפשר לסוג {0} בשורת {1}",
-(Ctrl + G),(Ctrl + G),
-** Failed: {0} to {1}: {2},** נכשל: {0} {1}: {2},
-**Currency** Master,** ** מטבע ראשי,
-0 - Draft; 1 - Submitted; 2 - Cancelled,0 - טיוטה; 1 - נשלח; 2 - בוטל,
-0 is highest,0 הוא גבוהה ביותר,
-1 Currency = [?] Fraction\nFor e.g. 1 USD = 100 Cent,מטבע 1 = [?] שבר לUSD 1 לדוגמא = 100 סנט,
-1 comment,1 תגובה,
-1 hour ago,לפני שעה 1,
-1 minute ago,לפני דקה 1,
-"<h4>Default Template</h4>\n<p>Uses <a href=""http://jinja.pocoo.org/docs/templates/"">Jinja Templating</a> and all the fields of Address (including Custom Fields if any) will be available</p>\n<pre><code>{{ address_line1 }}&lt;br&gt;\n{% if address_line2 %}{{ address_line2 }}&lt;br&gt;{% endif -%}\n{{ city }}&lt;br&gt;\n{% if state %}{{ state }}&lt;br&gt;{% endif -%}\n{% if pincode %} PIN:  {{ pincode }}&lt;br&gt;{% endif -%}\n{{ country }}&lt;br&gt;\n{% if phone %}Phone: {{ phone }}&lt;br&gt;{% endif -%}\n{% if fax %}Fax: {{ fax }}&lt;br&gt;{% endif -%}\n{% if email_id %}Email: {{ email_id }}&lt;br&gt;{% endif -%}\n</code></pre>","<h4> תבנית ברירת מחדל <!-- h4--> <p> שימושים  <a href=""http://jinja.pocoo.org/docs/templates/""> ג'ינג'ה בניית תבנית וכל תחומי כתובת (כוללים שדות מותאמים אישית אם בכלל) יהיה זמין <!-- p--> </a></p><pre><a href=""http://jinja.pocoo.org/docs/templates/""> <code> {{}} address_line1 &amp; lt; br &amp; gt; {% אם address_line2%} {{}} address_line2 &amp; lt; br &amp; gt; {% endif -%} {{העיר}} &amp; lt; br &amp; gt; {% אם% מדינת} {{המדינה}} &amp; lt; br &amp; gt; {% endif -%} {% אם% pincode} PIN: {{pincode}} &amp; lt; br &amp; gt; {% endif -%} {{ארץ}} &amp; lt ; Br &amp; gt; {% אם% טלפון} טלפון: {{טלפון}} &amp; lt; br &amp; gt; {% endif -%} {% אם פקס%} פקס: {{פקס}} &amp; lt; br &amp; gt; {% endif -%} {% אם email_id % דוא""ל}: {{}} email_id &amp; lt; br &amp; gt; {endif% -%} <!-- code--> <!-- pre--></code></a></pre></h4>",
-A log of request errors,יומן של שגיאות בקשה,
-A new account has been created for you at {0},חשבון חדש נוצר עבורך {0},
-A symbol for this currency. For e.g. $,סימן של מטבע זה. לדוגמה: $$,
-A word by itself is easy to guess.,מילה בפני עצמה קל לנחש.,
-ASC,ASC,
-About,אודות,
-About Us Settings,אודות הגדרות קשר,
-About Us Team Member,אודות חבר צוות,
-Action Failed,הפעולה נכשלה,
-"Actions for workflow (e.g. Approve, Cancel).","פעולות לעבודה (לדוגמא לאשר, לבטל).",
-Activity Log,יומן פעילות,
-Activity log of all users.,יומן פעילות של כל המשתמשים.,
-Add A New Rule,הוספת של חוק חדש,
-Add Another Comment,להוסיף עוד הערה,
-Add Column,להוסיף טור,
-Add Filter,הוסף מסנן,
-Add Google Analytics ID: eg. UA-89XXX57-1. Please search help on Google Analytics for more information.,הוספת זיהוי של Google Analytics: למשל. UA-89XXX57-1. אנא עזרה החיפוש ב- Google Analytics לקבלת מידע נוספת.,
-Add New Permission Rule,הוסף כלל אישורים והיתרים חדשים,
-Add Signature,להוסיף את החתימה,
-Add Subscribers,להוסיף מנויים,
-Add Total Row,"להוסיף סה""כ Row",
-Add a New Role,הוסף תפקיד חדש,
-Add a comment,הוסף ביקורת,
-Add all roles,הוסף את כל התפקידים,
-Add code as &lt;script&gt;,הוסף את הקוד כ& lt; תסריט & gt;,
-Add custom forms.,להוסיף צורות מותאמות אישית.,
-Add custom javascript to forms.,להוסיף מותאם אישית JavaScript לצורות.,
-Add fields to forms.,הוספת שדות לצורות.,
-Add to To Do,הוסף ללעשות,
-Add your own translations,הוספת תרגומים משלך,
-"Added HTML in the &lt;head&gt; section of the web page, primarily used for website verification and SEO","HTML הוסיף ב&lt; head&gt; של דף האינטרנט, המשמש בעיקר לאימות אתר וקידום אתרים",
-Adding System Manager to this User as there must be atleast one System Manager,הוספת מנהל מערכת למשתמש זה כמו שיש חייבת להיות atleast מנהל מערכת אחת,
-Additional Permissions,הרשאות נוספות,
-Address Template,תבנית כתובת,
-Address Title is mandatory.,כותרת כתובת היא חובה.,
-Address and other legal information you may want to put in the footer.,כתובת ומידע משפטי אחר שאולי כדאי לשים בכותרת התחתונה.,
-Adds a custom field to a DocType,מוסיף שדה מותאם אישית לDOCTYPE,
-Administrator Logged In,מנהל מחובר,
-Administrator accessed {0} on {1} via IP Address {2}.,מנהל נצפה {0} על {1} באמצעות כתובת IP {2}.,
-Advanced,מתקדם,
-Advanced Search,חיפוש מתקדם,
-All customizations will be removed. Please confirm.,כל ההתאמות האישיות יוסרו. אנא אשר.,
-"All possible Workflow States and roles of the workflow. Docstatus Options: 0 is""Saved"", 1 is ""Submitted"" and 2 is ""Cancelled""","כל זרימת העבודה הברית האפשרית והתפקידים של זרימת העבודה. Docstatus אפשרויות: 0 היא &quot;הציל&quot;, 1 &quot;נשלח&quot; ו2 &quot;בוטלו&quot;",
-All-uppercase is almost as easy to guess as all-lowercase.,All-רישיות הוא כמעט כמו קל לנחש כמו כל-הקטנה.,
-Allocated To,שהוקצה ל,
-Allow Comments,אפשר הערות,
-Allow Dropbox Access,אפשר גישה Dropbox,
-Allow Edit,לאפשר עריכה,
-Allow Multiple,לאפשר מרובה,
-Allow Print for Cancelled,אפשר הדפסה עבור בוטל,
-Allow Print for Draft,אפשר הדפסה עבור טיוטה,
-Allow Rename,לאפשר שינוי שם,
-Allow on Submit,לאפשר בשלח,
-Allow only one session per user,אפשר רק פגישה אחת לכל משתמש,
-Allow user to login only after this hour (0-24),אפשר למשתמש להתחבר רק לאחר שעה זו (0-24),
-Allow user to login only before this hour (0-24),אפשר למשתמש להתחבר רק לפני שעה זו (0-24),
-Allowed,מחמד,
-"Allowing DocType, DocType. Be careful!","מאפשר DOCTYPE, DOCTYPE. היזהר!",
-Already Registered,רשום כבר,
-Already in user's To Do list,כבר במשתמש של לעשות רשימה,
-Amend,לתקן,
-Amending,הַתקָנָה,
-An icon file with .ico extension. Should be 16 x 16 px. Generated using a favicon generator. [favicon-generator.org],קובץ סמל עם .ico הארכה. צריך להיות 16 x 16 פיקסלים. נוצר באמצעות מחולל favicon. [Favicon-generator.org],
-Another transaction is blocking this one. Please try again in a few seconds.,עסקה נוספת חוסמת את זה. אנא נסה שוב בעוד מספר שניות.,
-"Another {0} with name {1} exists, select another name","אחר {0} עם שם {1} קיים, בחר שם אחר",
-"Apart from System Manager, roles with Set User Permissions right can set permissions for other users for that Document Type.","מלבד מנהל מערכת, תפקידים עם הרשאות משתמש Set נכון יכולים להגדיר הרשאות למשתמשים אחרים עבור סוג מסמך זה.",
-App,App,
-App Name,שם אפליקציה,
-App not found,אפליקציה לא נמצא,
-App {0} is not installed,האפליקציה {0} אינה מותקנת,
-Append To,צרף ל,
-Append To can be one of {0},צרף ליכול להיות אחד {0},
-Append To is mandatory for incoming mails,צרף להוא חובה עבור הודעות נכנסות,
-"Append as communication against this DocType (must have fields, ""Status"", ""Subject"")","צרף כתקשורת נגד DOCTYPE זה (חייב להיות שדות, ""סטטוס"", ""נושא"")",
-Apply this rule if the User is the Owner,"החל מכלל זה, אם המשתמש הוא בעל",
-Archived,ארכיון,
-Are you sure you want to delete the attachment?,האם אתה בטוח שאתה רוצה למחוק את הקובץ המצורף?,
-Arial,Arial,
-"As a best practice, do not assign the same set of permission rule to different Roles. Instead, set multiple Roles to the same User.","כשיטת עבודה מומלצת, לא להקצות את אותו הסט של שלטון רשות התפקידים שונים. במקום זאת, להגדיר תפקידים מרובים לאותו המשתמש.",
-Assign to me,להקצות לי,
-Assigned,שהוקצה,
-Assigned By,שהוקצה על ידי,
-Assigned By Me,שהוקצה על ידי,
-Assigned To,מוקצה ל,
-Assigned To/Owner,מוקצה ל / בעלים,
-Assignment,מְשִׁימָה,
-Assignment Complete,משימה מלאה,
-Assignment Completed,הקצאה שהושלמה,
-Assignment closed by {0},משימה נסגרה על ידי {0},
-Attach,צרף,
-Attach Document Print,צרף הדפסת מסמך,
-Attach Image,צרף תמונה,
-Attach Print,צרף הדפסה,
-Attach Your Picture,צרף התמונה שלך,
-Attached To DocType,מצורף לDOCTYPE,
-Attached To Name,מצורף לשם,
-Attachment Limit (MB),מגבלת קבצים מצורפים (MB),
-Attachment Removed,הוסר Attachment,
-Authentication failed while receiving emails from Email Account {0}. Message from server: {1},אימות נכשלה תוך קבלת הודעות דוא&quot;ל מחשבון דוא&quot;ל {0}. הודעה מהשרת: {1},
-Auto Name,שם Auto,
-Auto Reply Message,הודעת תשובה אוטומטית,
-Avatar,תמונה,
-Avoid dates and years that are associated with you.,הימנע לתאריכים שנים המשויכים איתך.,
-Avoid recent years.,הימנע בשנים האחרונות.,
-Avoid sequences like abc or 6543 as they are easy to guess,הימנע מרצפים כמו abc או 6543 כפי שהם קלים לנחש,
-Avoid years that are associated with you.,הימנע שנים המשויכות איתך.,
-Back to Login,חזרה להתחברות,
-Background Color,צבע רקע,
-Background Email Queue,תור דוא&quot;ל רקע,
-Background Workers,עובדי רקע,
-Banner,באנר,
-Banner HTML,באנר HTML,
-Banner Image,תמונת באנר,
-Banner is above the Top Menu Bar.,הבאנר הוא מעל לשורת תפריטים העליונה.,
-Beta,Beta,
-Better add a few more letters or another word,עדיף להוסיף עוד כמה מכתבים או כל מילה אחרת,
-Bio,ביו,
-Birth Date,תאריך לידה,
-Block Module,הבלוק מודול,
-Block Modules,מודולים בלוק,
-Blocked,חָסוּם,
-Blog,בלוג,
-Blog Category,קטגוריה בלוג,
-Blog Intro,בלוג Intro,
-Blog Introduction,מבוא בלוג,
-Blog Post,בלוג הודעה,
-Blog Settings,הגדרות בלוג,
-Blog Title,כותרת בלוג,
-Blogger,Blogger,
-Bot,בוט,
-Both DocType and Name required,DOCTYPE שני ושם נדרש,
-Both login and password required,התחברות שתי והסיסמה הנדרשת,
-Bounced,קיפץ,
-Brand HTML,המותג HTML,
-Breadcrumbs,פירורי לחם,
-Build Report,בניתי את הדוח,
-Bulk Edit {0},עריכה בכמות גדולה {0},
-Bulk Rename,שינוי שם גורף,
-Bulk Update,עדכון גורף,
-Button,לחצן,
-CC,CC,
-CSS,CSS,
-Cache Cleared,מטמון נוקה,
-Calculate,לחשב,
-Call,שיחה,
-Can Read,יכול לקרוא,
-Can Share,יכול לשתף,
-Can Write,יכול לכתוב,
-Can't identify open {0}. Try something else.,אין אפשרות לזהות פתוחה {0}. נסה משהו אחר.,
-Cancelling,ביטול,
-Cannot cancel before submitting. See Transition {0},לא יכול לבטל לפני הגשה. ראה מעבר {0},
-Cannot change docstatus from 0 to 2,לא יכול לשנות docstatus 0-2,
-Cannot change docstatus from 1 to 0,לא יכול לשנות docstatus 1-0,
-Cannot change state of Cancelled Document. Transition row {0},לא יכול לשנות את המצב של מסמך בוטל. שורת מעבר {0},
-Cannot connect: {0},לא ניתן להתחבר: {0},
-Cannot create a {0} against a child document: {1},לא ניתן ליצור {0} נגד מסמך הילד: {1},
-Cannot delete Home and Attachments folders,לא יכול למחוק את התיקיות וקבצים מצורפים בית,
-Cannot delete standard field. You can hide it if you want,לא יכול למחוק את השדה סטנדרטי. אתה יכול להסתיר את זה אם אתה רוצה,
-Cannot delete {0} as it has child nodes,לא יכול למחוק את {0} שכן יש צמתים ילד,
-Cannot edit a standard report. Please duplicate and create a new report,אין אפשרות לערוך דוח רגיל. אנא לשכפל וליצור דו&quot;ח חדש,
-Cannot edit cancelled document,לא ניתן לערוך מסמך בוטל,
-Cannot edit standard fields,לא ניתן לערוך שדות סטנדרטיים,
-Cannot link cancelled document: {0},אינך יכול לקשר מסמך בוטל: {0},
-Cannot map because following condition fails: ,לא ניתן למפות בגלל המצב הבא נכשל:,
-Cannot open instance when its {0} is open,לא יכול לפתוח למשל כאשר {0} הוא פתוח,
-Cannot open {0} when its instance is open,לא יכול לפתוח {0} כאשר למשל פתוח,
-Capitalization doesn't help very much.,היוון לא עוזר מאוד.,
-Categorize blog posts.,לסווג ההודעות שנכתבו על בלוג.,
-Cent,סנט,
-"Certain documents, like an Invoice, should not be changed once final. The final state for such documents is called Submitted. You can restrict which roles can Submit.","סוגים מסוימים של מסמכים, כמו חשבונית, לא צריכים להיות שונה ברגע אחרון. המצב הסופי עבור מסמכים כזה נקרא הוגש. אתה יכול להגביל את התפקידים יכולים להגיש.",
-Change Password,שנה סיסמא,
-"Change field properties (hide, readonly, permission etc.)","מאפייני שדה שינוי (להסתיר, לקריאה בלבד, וכו 'רשות)",
-Chat,צ'אט,
-Chat messages and other notifications.,הודעות צ&#39;אט והודעות אחרות.,
-"Check columns to select, drag to set order.","בדקו עמודות כדי לבחור, לגרור להגדיר סדר.",
-Check this to pull emails from your mailbox,לבדוק את זה כדי למשוך מיילים מתיבת הדואר שלך,
-Check which Documents are readable by a User,בדוק מהם המסמכים הניתנים לקריאה על ידי משתמש,
-Clear all roles,לנקות את כל התפקידים,
-Click here to verify,לחץ כאן כדי לאמת,
-Click on the link below to complete your registration and set a new password,לחץ על הקישור הבא כדי להשלים את הרישום שלך ולהגדיר סיסמא חדשה,
-Clicked,לחץ,
-Client side script extensions in Javascript,הרחבות בצד הלקוח תסריט בJavascript,
-Collapsible,מתקפל,
-Collapsible Depends On,מתקפל תלויה ב,
-Column,טור,
-Column Break,Break עמודה,
-Column Labels:,תוויות עמודה:,
-Column Name,שם עמודה,
-Comment By,תגובה על ידי,
-Comment Type,סוג התגובה,
-Commented on {0}: {1},תגובות על {0}: {1},
-Comments and Communications will be associated with this linked document,תגובות ותקשורת תשויכנה מסמך מקושר זה,
-Common names and surnames are easy to guess.,שמות ושמות משפחה נפוצים הם קל לנחש.,
-Communicated via {0} on {1}: {2},הודעה דרך {0} על {1}: {2},
-Communication Type,סוג התקשורת,
-Company History,ההיסטוריה של חברה,
-Company Introduction,חברת מבוא,
-Complete By,שלם על ידי,
-Complete Registration,רישום מלא,
-Complete Setup,התקנה מלאה,
-Confirm,אשר,
-Confirm Your Email,אשר הדואר האלקטרוני שלך,
-Confirmed,אישר,
-Contact Us Settings,צור קשר הגדרות,
-"Contact options, like ""Sales Query, Support Query"" etc each on a new line or separated by commas.","אפשרויות לתקשר, כמו ""שאילתת מכירות, תמיכת שאילתה"" וכו 'כל בשורה חדשה או מופרד בפסיקים.",
-Contacts,מגעים,
-Content Hash,Hash תוכן,
-Content web page.,דף אינטרנט תוכן.,
-Copyright,כל הזכויות שמורות,
-Core,Core,
-Could not connect to outgoing email server,"לא ניתן להתחבר לשרת הדוא""ל יוצא",
-Could not find {0},לא הצלחתי למצוא את {0},
-Could not find {0} in {1},לא ניתן למצוא {0} ב {1},
-Could not identify {0},לא ניתן היה לזהות {0},
-Country Name,מדינה שם,
-County,מָחוֹז,
-Create New,צור חדש,
-Create a New Format,צור פורמט חדש,
-Create a new {0},צור חדש {0},
-Create and Send Newsletters,ידיעונים ליצור ולשלוח,
-Created Custom Field {0} in {1},שדה מותאם אישית שנוצר {0} ב {1},
-Created On,נוצר ב,
-Ctrl + Down,Ctrl + Down,
-Ctrl + Up,Ctrl + Up,
-Currency Name,שם מטבע,
-Currently Viewing,כיום צופה ב,
-Custom,מותאם אישית,
-Custom CSS,CSS המותאם אישית,
-Custom Field,שדה מותאם אישית,
-Custom Format,פורמט מותאם אישית,
-Custom HTML Help,מותאם אישית HTML עזרה,
-Custom Reports,דוחות מותאמים אישית,
-Custom Script,המותאם אישית סקריפט,
-Custom Translations,תרגומים אישית,
-Customize Form,התאמה אישית של טופס,
-Customize Form Field,התאמה אישית של טופס מולא,
-"Customize Label, Print Hide, Default etc.","התאמה אישית של לייבל, הסתר הדפסה, ברירת מחדל וכו '",
-"Customized Formats for Printing, Email","פורמטים מותאמים להדפסה, דוא&quot;ל",
-Customized HTML Templates for printing transactions.,תבניות HTML מותאמים אישית עבור עסקות הדפסה.,
-DESC,DESC,
-Daily Event Digest is sent for Calendar Events where reminders are set.,מדי יום האירוע Digest נשלח לאירועי לוח שנה שבו תזכורות מוגדרות.,
-Data,הנתונים,
-Data Import Template,נתוני יבוא תבנית,
-Data missing in table,הנתונים חסרים בטבלה,
-Date and Number Format,פורמט תאריך והמספר,
-Dates are often easy to guess.,תאריכים הם לעתים קרובות קל לנחש.,
-Days After,ימים לאחר,
-Days Before,ימים לפני,
-Days Before or After,ימים לפני או אחרי,
-"Dear System Manager,","מנהל מערכת יקר,",
-Default Address Template cannot be deleted,תבנית כתובת ברירת מחדל לא ניתן למחוק,
-Default Inbox,תיבת הדואר הנכנס המוגדר כברירת מחדל,
-Default Incoming,ברירת מחדל נכנסים,
-Default Outgoing,יוצא ברירת מחדל,
-Default Print Format,פורמט ברירת מחדל להדפסה,
-Default Sending,ברירת מחדל שליחה,
-Default Sending and Inbox,ברירת מחדל שליחה ותיבת הדואר הנכנס,
-Default Value,ערך ברירת מחדל,
-Default for 'Check' type of field must be either '0' or '1',"ברירת מחדל עבור סוג השדה ""בדוק"" חייבת להיות או '0' '1'",
-"Default: ""Contact Us""","ברירת מחדל: ""צור קשר""",
-DefaultValue,ערך ברירת מחדל,
-Define workflows for forms.,להגדיר זרימות עבודה לצורות.,
-Defines actions on states and the next step and allowed roles.,מגדיר פעולות במדינות ואת הצעד הבא ותפקידים מותר.,
-Defines workflow states and rules for a document.,מגדיר מדינות זרימת עבודה וכללים למסמך.,
-Delayed,מושהה,
-Delete this record to allow sending to this email address,למחוק רשומה זו כדי לאפשר שליחה לכתובת דוא&quot;ל זו,
-Deleted,נמחק,
-Depends On,תלוי ב,
-"Description for listing page, in plain text, only a couple of lines. (max 140 characters)","תיאור לרישום דף, בטקסט רגיל, רק כמה שורות. (140 תווים)",
-Desk,שולחן,
-Desktop Icon,סמל שולחן עבודה,
-Developer,מפתחים,
-Did not add,לא להוסיף,
-Did not cancel,לא בטלתי,
-Did not find {0} for {0} ({1}),לא מצא {0} עבור {0} ({1}),
-Did not remove,לא הסרתי,
-"Different ""States"" this document can exist in. Like ""Open"", ""Pending Approval"" etc.","""הברית"" שונה מסמך זה יכול להתקיים ב. כמו ""פתח"", ""ממתין לאישור"" וכו '",
-Disable Customer Signup link in Login page,קישור הרשמה לקוחות השבת בדף כניסה,
-Disable Report,השבת דווח,
-Disable Signup,בטל הרשמה,
-Disable Standard Email Footer,להשבית תחתונה דוא&quot;ל רגיל,
-Display,תצוגה,
-Display Depends On,התצוגה תלויה,
-Do not allow user to change after set the first time,אל תאפשר למשתמש לשנות להגדיר לאחר הפעם הראשונה,
-Doc Status,סטטוס דוק,
-DocField,DocField,
-DocPerm,DocPerm,
-DocShare,DocShare,
-DocType can not be merged,לא ניתן למזג DOCTYPE,
-DocType can only be renamed by Administrator,ניתן לשנות את שם DOCTYPE רק על ידי מנהל,
-DocType is a Table / Form in the application.,DOCTYPE הוא טבלה / טופס ביישום.,
-DocType on which this Workflow is applicable.,DOCTYPE שבו זרימת עבודה זו היא ישימה.,
-DocType or Field,DOCTYPE או שדה,
-"DocType's name should start with a letter and it can only consist of letters, numbers, spaces and underscores","שמו של DOCTYPE צריך להתחיל באות והוא יכול להכיל רק אותיות, מספרים, רווחים וסימני קו תחתון",
-Document,מסמך,
-Document Queued,מסמך בתור,
-Document Share Report,מסמך שתף דווח,
-Document States,מסמך הברית,
-Documents,מסמכים,
-Documents assigned to you and by you.,מסמכים שהוקצו לך ועל ידך.,
-"Don't HTML Encode HTML tags like &lt;script&gt; or just characters like &lt; or &gt;, as they could be intentionally used in this field","האם לא תגי HTML קידוד HTML כמו &lt;script&gt; או סתם דמויות כמו &lt;או&gt;, כפי שיכלו לשמש במתכוון בתחום זה",
-"Don't know, ask 'help'","לא יודע, שאל &quot;לעזור&quot;",
-Download link for your backup will be emailed on the following email address: {0},"קישור להורדה לגיבוי שלך יישלחו לכתובת הדוא""ל הבאה: {0}",
-Download with Data,הורד עם נתונים,
-Drag and Drop tool to build and customize Print Formats.,גרור ושחררתם כלי לבנות ולהתאים אישית את תבניות הדפסה.,
-Drag elements from the sidebar to add. Drag them back to trash.,אלמנטי גרור מהסרגל הצדדי כדי להוסיף. גרור אותם בחזרה לאשפה.,
-Dropbox Access Key,Dropbox מפתח הגישה,
-Dropbox Access Secret,Dropbox גישה חשאי,
-Duplicate name {0} {1},שם לשכפל {0} {1},
-Dynamic Link,קישור דינמי,
-ESC,יציאה,
-Edit Custom HTML,עריכה המותאמת אישית HTML,
-Edit DocType,ערוך DOCTYPE,
-Edit Filter,סינון עריכה,
-Edit Format,פורמט עריכה,
-Edit HTML,עריכת HTML,
-Edit Heading,כותרת עריכה,
-Edit Properties,ערוך מאפיינים,
-Edit to add content,ערוך להוסיף תוכן,
-Editable Grid,רשת לעריכה,
-Editing Row,עריכת שורה,
-Eg. smsgateway.com/api/send_sms.cgi,לדוגמא. smsgateway.com/api/send_sms.cgi,
-Email Account Name,"שם חשבון דוא""ל",
-Email By Document Field,"דוא""ל על ידי מסמך שדה",
-Email Footer Address,כתובת דוא&quot;ל תחתונה,
-Email Group,קבוצת דוא&quot;ל,
-Email Group List,רשימת קבוצת דוא&quot;ל,
-Email Group Member,אימייל קבוצת המשתמש,
-Email Queue,תור דוא&quot;ל,
-Email Queue records.,רשום תור דוא&quot;ל.,
-Email Server,שרת דואר אלקטרוני,
-Email Settings,הגדרות דואר אלקטרוני,
-Email Signature,"חתימת דוא""ל",
-Email To,דוא&quot;ל ל,
-Email Unsubscribe,דוא&quot;ל ביטול מנוי,
-Email not sent to {0} (unsubscribed / disabled),דוא&quot;ל לא נשלח {0} (לא רשום / נכים),
-Emails are muted,מיילים מושתקים,
-Embed image slideshows in website pages.,מצגות טבע תמונה בדפי אתר.,
-Enable Auto Reply,אפשר מענה אוטומטי,
-Enable Comments,אפשר תגובות,
-Enable Incoming,אפשר נכנסת,
-Enable Outgoing,אפשר יוצא,
-Enable Report,אפשר דווח,
-Enable Scheduled Jobs,אפשר משימות מתוכננות,
-Enter Email Recipient(s),נמען הזן דואר אלקטרוני (ים),
-Enter Form Type,הזן טופס סוג,
-"Enter default value fields (keys) and values. If you add multiple values for a field, the first one will be picked. These defaults are also used to set ""match"" permission rules. To see list of fields, go to ""Customize Form"".","הזן שדות ערך ברירת מחדל (מקשים) וערכים. אם תוסיף ערכים מרובים עבור שדה, הראשון יהיה נטל. ברירת מחדל אלה משמשים גם לקביעת כללי רשות &quot;התאמה&quot;. כדי לראות רשימה של שדות, ללכת &quot;טופס התאמה אישית&quot;.",
-Enter folder name,הזן את שם תיקייה,
-"Enter keys to enable login via Facebook, Google, GitHub.","הזן מפתחות כדי לאפשר התחברות באמצעות פייסבוק, גוגל, GitHub.",
-"Enter static url parameters here (Eg. sender=ERPNext, username=ERPNext, password=1234 etc.)","הזן הפרמטרים url סטטי כאן (לדוגמא. שולח = ERPNext, שם משתמש = ERPNext, סיסמא = 1234 וכו ')",
-Enter url parameter for message,הזן פרמטר url להודעה,
-Enter url parameter for receiver nos,הזן פרמטר url למקלט nos,
-Enter your password,הכנס את הסיסמה שלך,
-Equals,שווה,
-Error Report,דוח שגיאות,
-Error Snapshot,תמונת מצב שגיאה,
-Error: Document has been modified after you have opened it,שגיאה: המסמך השתנה לאחר שפתחת אותו,
-Errors in Background Events,שגיאות באירועי רקע,
-Event Type,סוג האירוע,
-Event and other calendars.,אירוע ולוחות שנה אחרת.,
-Events in Today's Calendar,אירועים בלוח השנה של היום,
-Everyone,כולם,
-Example,דוגמא,
-Example:,לדוגמא:,
-Exception,יוצא מהכלל,
-Exception Type,סוג חריג,
-"Expression, Optional","ביטוי, אופציונאלי",
-Facebook,פייסבוק,
-FavIcon,Favicon,
-Field Description,שדה תיאור,
-Field Type,סוג שדה,
-"Field that represents the Workflow State of the transaction (if field is not present, a new hidden Custom Field will be created)","שדה שמייצג את מדינת Workflow של העסקה (אם השדה אינו נוכח, שדה מותאם אישית נסתר חדש ייווצר)",
-Field {0} is not selectable.,שדה {0} הוא לא לבחירה.,
-Fieldname not set for Custom Field,Fieldname לא נקבע לשדה מותאם אישית,
-Fieldname which will be the DocType for this link field.,Fieldname אשר יהיה DOCTYPE לקישור תחום זה.,
-Fieldname {0} cannot have special characters like {1},Fieldname {0} לא יכול להיות תווים מיוחדים כמו {1},
-"Fields separated by comma (,) will be included in the ""Search By"" list of Search dialog box","שדות מופרדים על ידי פסיק (,) ייכללו ב&quot; חפשו לפי &quot;רשימה של תיבת הדו-שיח חיפוש",
-Fieldtype,Fieldtype,
-Fieldtype cannot be changed from {0} to {1} in row {2},Fieldtype לא יכול להיות שונה מ {0} {1} בשורה {2},
-File '{0}' not found,קובץ &#39;{0}&#39; לא נמצא,
-File Name,שם קובץ,
-File Size,גודל קובץ,
-File URL,כתובת אתר קובץ,
-File not attached,קובץ לא צורף,
-File size exceeded the maximum allowed size of {0} MB,גודל קובץ חרג מהגודל המרבי המוותרת של {0} MB,
-File too big,קובץ גדול מדי,
-File {0} does not exist,קובץ {0} אינו קיימות,
-Files,קבצים,
-Filter {0} missing,חסר סנן {0},
-Filter...,לסנן ...,
-"Filtered by ""{0}""",מסונן על ידי &quot;{0}&quot;,
-Find {0} in {1},מצא {0} ב {1},
-First Level,רמה הראשונה,
-First data column must be blank.,נתונים הראשונים חייבים להיות ריקים.,
-Float,Float,
-Float Precision,Precision Float,
-Fold,מקפלים,
-Fold can not be at the end of the form,קיפול לא יכול להיות בסופו של הטופס,
-Fold must come before a Section Break,מקפלים חייבת לבוא לפני הפסקת סעיף,
-Folder,תיקייה,
-Folder {0} is not empty,תיקיית {0} אינו ריק,
-Font Size,גודל גופן,
-Fonts,גופנים,
-Footer,תחתונה,
-Footer Item,פריט תחתון,
-Footer Items,פריטים תחתונה,
-"For Links, enter the DocType as range.\nFor Select, enter list of Options, each on a new line.","לקישורים, להיכנס לDOCTYPE כטווח. לבחירה, הזינו רשימה של אפשרויות, כל בשורה חדשה.",
-For User,עבור המשתמש,
-For example if you cancel and amend INV004 it will become a new document INV004-1. This helps you to keep track of each amendment.,"לדוגמא, אם תוכל לבטל ולתקן INV004 היא תהפוך לINV004-1 מסמך חדש. זה עוזר לך לעקוב אחר כל תיקון.",
-"For example: If you want to include the document ID, use {0}","לדוגמא: אם ברצונך לכלול זיהוי המסמך, השתמש {0}",
-For top bar,לבר העליון,
-"For updating, you can update only selective columns.","לעדכון, אתה יכול לעדכן את עמודים רק סלקטיבית.",
-For {0} at level {1} in {2} in row {3},עבור {0} ברמת {1} {2} בשורת {3},
-Force Show,צג חיל,
-Forgot Password?,שכחת את הסיסמא?,
-Format Data,נתונים בפורמט,
-Forward To Email Address,"קדימה To כתובת דוא""ל",
-Fraction,חלק,
-Fraction Units,יחידות שבריר,
-Frames,מסגרות,
-Frappe Framework,Framework פְרָאפֶּה,
-Friendly Title,כותרת ידידותית,
-From Full Name,משמו המלא,
-Full Page,דף מלא,
-GMail,GMail,
-Gantt,גנט,
-Gateway,כְּנִיסָה,
-Geo,Geo,
-Get Alerts for Today,קבל התראות עבור היום,
-Get your globally recognized avatar from Gravatar.com,קבל גלגול המוכר בעולם שלך מGravatar.com,
-GitHub,GitHub,
-Global Unsubscribe,גלובל ביטול מנוי,
-Google,Google,
-Google Analytics ID,המזהה של Google Analytics,
-Group Label,לייבל הקבוצה,
-Groups of DocTypes,קבוצות של DocTypes,
-HTML,HTML,
-HTML for header section. Optional,HTML לסעיף כותרת. אופציונאלי,
-Have an account? Login,יש לך חשבון? התחבר,
-Header,כותרת,
-Heading,כותרת,
-Hello {0},שלום {0},
-Help on Search,עזרה בחיפוש,
-"Help: To link to another record in the system, use ""#Form/Note/[Note Name]"" as the Link URL. (don't use ""http://"")","עזרה: לקישור לרשומה אחרת במערכת, להשתמש ""# טופס / הערה / [הערה שם]"" ככתובת URL הקישור. (לא להשתמש ""http: //"")",
-Helvetica,Helvetica,
-Hide Copy,הסתר העתקה,
-Hide Footer Signup,הסתר תחתונה הרשמה,
-Hide details,פרטי הסתרה,
-Highlight,גולת כותרת,
-Home Page,דף הבית,
-Home/Test Folder 1,דף בית / מבחן תיקיית 1,
-Home/Test Folder 1/Test Folder 3,תיקיית בית / מבחן 1 / מבחן תיקייה 3,
-Home/Test Folder 2,דף בית / מבחן תיקייה 2,
-"How should this currency be formatted? If not set, will use system defaults","איך מטבע זה צריך להיות מעוצב? אם לא מוגדר, ישתמש ברירות המחדל של מערכת",
-ID,תְעוּדַת זֶהוּת,
-ID (name) of the entity whose property is to be set,מזהה (שם) של הישות שרכושו כדי להיות מוגדר,
-Icon will appear on the button,סמל יופיע על הכפתור,
-Idx,IDX,
-If Owner,אם בעלים,
-"If a Role does not have access at Level 0, then higher levels are meaningless.","אם לא יש להם תפקיד גישה ברמה 0, רמות גבוהות יותר ואז הן חסרות משמעות.",
-"If checked, all other workflows become inactive.","אם מסומן, כל זרימות העבודה האחרות להפוך לבלתי פעילה.",
-"If disabled, this role will be removed from all users.","אם מושבת, התפקיד הזה יוסר מכל המשתמשים.",
-If non standard port (e.g. 587),אם יציאה לא סטנדרטית (לדוגמא 587),
-"If the user has any role checked, then the user becomes a ""System User"". ""System User"" has access to the desktop","אם למשתמש יש כל תפקיד המסומן, ולאחר מכן המשתמש הופך &quot;משתמש מערכת&quot;. &quot;משתמש מערכת&quot; יש גישה לשולחן העבודה",
-"If these instructions where not helpful, please add in your suggestions on GitHub Issues.","אם הוראות אלה שבם לא מועילים, בבקשה להוסיף בהצעות שלך על נושאי GitHub.",
-If user is the owner,אם משתמש הוא בעל,
-"If you are updating, please select ""Overwrite"" else existing rows will not be deleted.","אם אתה מעדכן, בחר באפשרות ""החלף"" שורות אחרת קיימות לא תימחקנה.",
-"If you are uploading new records, ""Naming Series"" becomes mandatory, if present.","אם אתה מעלה שיאים חדשים, ""שמות סדרה"" הופך חובה, אם קיימים.",
-"If you are uploading new records, leave the ""name"" (ID) column blank.","אם אתה מעלה שיאים חדשים, לעזוב את ריק עמודת ""שם"" (ID).",
-"If you set this, this Item will come in a drop-down under the selected parent.","אם תגדיר את זה, פריט זה יבוא בנפתח תחת ההורה שנבחר.",
-"If you think this is unauthorized, please change the Administrator password.","אם אתה חושב שזה בלתי מורשה, בבקשה לשנות את סיסמא המנהל.",
-"If your data is in HTML, please copy paste the exact HTML code with the tags.","אם הנתונים שלך הוא ב- HTML, אנא העתק והדבק את קוד ה- HTML המדויק עם התגים.",
-Ignore User Permissions,להתעלם הרשאות משתמש,
-Ignore XSS Filter,התעלם מסנן XSS,
-Ignore attachments over this size,התעלם קבצים מצורפים מעל הגודל הזה,
-Ignored: {0} to {1},להתעלם ממנו: {0} {1},
-Image Field,שדה תמונה,
-Image Link,תמונת קישור,
-Image field must be a valid fieldname,שדה תמונה חייב להיות fieldname תקף,
-Image field must be of type Attach Image,שדה תמונה חייב להיות מסוג צרף תמונה,
-Import,יבוא,
-Import Email From,דוא&quot;ל יבוא מ,
-Import Subscribers,מנויים יבוא,
-In Filter,במסנן,
-In Hours,בשעות,
-In List View,בצפה ברשימה,
-In Reply To,בתשובה ל,
-In points. Default is 9.,בנקודות. ברירת מחדל הוא 9.,
-Incorrect value in row {0}: {1} must be {2} {3},ערך שגוי בשורת {0}: {1} חייב להיות {2} {3},
-Incorrect value: {0} must be {1} {2},ערך שגוי: {0} חייב להיות {1} {2},
-Index,מדד,
-Info,מידע,
-Info:,מידע:,
-Insert Above,הכנס מעל,
-Insert After,הכנס לאחר,
-Insert After cannot be set as {0},הכנס לאחר לא יכול להיות מוגדר בתור {0},
-"Insert After field '{0}' mentioned in Custom Field '{1}', with label '{2}', does not exist","הכנס לאחר שדה &#39;{0}&#39; המוזכר בשדה מותאם אישית &#39;{1}&#39;, עם התווית &#39;{2}&#39;, אינו קיים",
-Insert Below,הכנס להלן,
-Insert Code,הכנס קוד,
-Insert Style,הכנס סגנון,
-Int,Int,
-Integrations,אינטגרציות,
-Integrations can use this field to set email delivery status,אינטגרציות יכולות להשתמש בשדה זה כדי להגדיר מצב משלוח דוא&quot;ל,
-Internal record of document shares,שיא פנימי של מניות מסמך,
-Introduce your company to the website visitor.,להציג את החברה שלך למבקר באתר.,
-Introductory information for the Contact Us Page,מידע מבוא לצורו קשר הדף,
-Invalid CSV Format,פורמט CSV חוקי,
-Invalid Home Page,דף בית לא חוקי,
-Invalid Link,קישור לא חוקי,
-Invalid Login Token,לא חוקי כניסת אסימון,
-Invalid Mail Server. Please rectify and try again.,שרת דואר לא חוקי. אנא לתקן ונסה שוב.,
-Invalid Outgoing Mail Server or Port,שרת לא חוקי דואר יוצא או נמל,
-Invalid Request,בקשה לא חוקית,
-Invalid Token,לא חוקי אסימון,
-Invalid User Name or Support Password. Please rectify and try again.,שם משתמש או סיסמא לא חוקיים תמיכה. אנא לתקן ונסה שוב.,
-Invalid file path: {0},דרך לא חוקית קובץ: {0},
-Invalid login or password,התחברות או סיסמא לא חוקיות,
-Invalid naming series (. missing),סדרת שמות לא חוקית (. חסר),
-Invalid recipient address,כתובת נמען לא חוקית,
-Inverse,הפוך,
-Is,האם,
-Is Attachments Folder,האם תיקיית קבצים מצורפים,
-Is Child Table,האם ילד של הטבלה,
-Is Custom Field,האם שדה מותאם אישית,
-Is Folder,האם תיקייה,
-Is Home Folder,האם בית התיקייה,
-Is Mandatory Field,האם שדה חובה,
-Is Primary Contact,האם איש קשר ראשי,
-Is Private,האם פרטי,
-Is Single,בודדת,
-Is Standard,האם תקן,
-Is Submittable,האם Submittable,
-Is Table,האם לוח,
-Is Your Company Address,האם כתובת החברה שלך,
-It is risky to delete this file: {0}. Please contact your System Manager.,זה מסוכן כדי למחוק קובץ זה: {0}. אנא צור קשר עם מנהל המערכת שלך.,
-Item cannot be added to its own descendents,פריט לא ניתן להוסיף לצאצאים משלו,
-JS,Js,
-JSON,JSON,
-JavaScript Format: frappe.query_reports['REPORTNAME'] = {},פורמט JavaScript: frappe.query_reports ['את REPORTTYPE'] = {},
-Javascript to append to the head section of the page.,Javascript להוספה לסעיף ראש הדף.,
-Karma,קארמה,
-Key,מפתח,
-Label Help,עזרה לייבל,
-Label and Type,תווית וסוג,
-Label is mandatory,תווית היא חובה,
-Landing Page,דף נחיתה,
-Language,שפה,
-Language Code,קוד שפה,
-"Language, Date and Time settings","הגדרות שפה, תאריך ושעה",
-Last Active,פעילות אחרונה,
-Last IP,IP האחרון,
-Last Known Versions,גרסאות ידוע אחרונות,
-Last Login,הביקור אחרון,
-Last Modified By,תאריך השינוי האחרון,
-Last Modified On,שונה לאחרונה ב-,
-Last Updated By,עדכון אחרון על ידי,
-Last Updated On,עדכון אחרון ביום,
-Leave a Comment,השאר תגובה,
-Leave blank to repeat always,שאר ריק כדי לחזור תמיד,
-Leave this conversation,השאר את השיחה הזאת,
-Left this conversation,עזב את השיחה הזאת,
-Length,אורך,
-Let's avoid repeated words and characters,בואו להימנע מילות חוזרות ותווים,
-Let's prepare the system for first use.,בואו להכין את המערכת לשימוש ראשון.,
-Letter,מכתב,
-Letter Head Name,שם מכתב הראש,
-Letter Head in HTML,ראש המכתב ב- HTML,
-Liked,אהבתי,
-Liked By,אהבתי ידי,
-Liked by {0},אהבתי על ידי {0},
-Likes,אוהב,
-Link DocType,DOCTYPE קישור,
-Link Name,שם קישור,
-"Link that is the website home page. Standard Links (index, login, products, blog, about, contact)","קישור שהוא דף הבית של האתר. קישורים רגילים (מדד, התחברות, מוצרים, בלוג, על, ליצירת קשר)",
-Link to the page you want to open. Leave blank if you want to make it a group parent.,קישור לדף שברצונך לפתוח. שאר ריק אם אתה רוצה לעשות את זה הורה קבוצה.,
-Linked,צמוד,
-Linked With,מקושר עם,
-Links,קישורים,
-List,רשימה,
-List a document type,רשימת סוג מסמך,
-List of backups available for download,רשימה של גיבויים זמינים להורדה,
-List of patches executed,רשימה של תיקונים שבוצעה,
-List of themes for Website.,רשימה של נושאים לאתר.,
-Loading,Loading,
-Locals,המקומיים,
-Log of Scheduler Errors,יומן של שגיאות מתזמן,
-Log of error during requests.,יומן של שגיאה בבקשות.,
-Log of error on automated events (scheduler).,יומן רישום של שגיאה על אירועים אוטומטיים (מתזמן).,
-Login,כניסה,
-Login After,כניסה לאחר,
-Login Before,כניסה לפני,
-Login Id is required,זיהוי כניסה נדרש,
-Login Required,כניסה לחשבון נדרש,
-Login not allowed at this time,התחברות לא מותר בשלב זה,
-Login to comment,התחברות להגיב,
-Logout,התנתקות,
-Long Text,טקסט ארוך,
-Main Section,סעיף עיקרי,
-Make Default,הפוך לברירת מחדל,
-Make use of longer keyboard patterns,תוכלו לעשות שימוש ברצפי מקלדת עוד,
-Mandatory fields required in {0},שדות חובה הנדרשים {0},
-Mandatory:,חובה:,
-Markdown,Markdown,
-Marked As Spam,סומן כדואר זבל,
-Max 500 records at a time,מקס 500 רשום בכל פעם,
-Max Attachments,קבצים מצורפים מקס,
-Max width for type Currency is 100px in row {0},רוחב מרבי למטבע סוג הוא 100px בשורת {0},
-Maximum Attachment Limit for this record reached.,הגיעה למגבלה מרבי של קובץ מצורף לאלבום הזה.,
-Maximum {0} rows allowed,{0} שורות המרביות מוותרות,
-"Meaning of Submit, Cancel, Amend","משמעות של הגשה, לבטל, לשנות",
-Menu,תפריט,
-Merge with existing,מיזוג עם קיים,
-Merging is only possible between Group-to-Group or Leaf Node-to-Leaf Node,המיזוג אפשרי רק בין קבוצה לקבוצה או ליף צומת לעלה צומת,
-Message Parameter,פרמטר הודעה,
-Milestone,אבן דרך,
-Missing parameters for login,פרמטרים חסרים להתחברות,
-Models (building blocks) of the Application,מודלים (אבני בניין) של היישום,
-Module Def,מודול Def,
-Module Name,שם מודול,
-Module Not Found,מודול לא נמצא,
-Modules HTML,מודולים HTML,
-Monospace,Monospace,
-More content for the bottom of the page.,תוכן נוסף לתחתית הדף.,
-Most Used,הכי משומש,
-Mr,מר,
-Ms,גב ',
-Multiple root nodes not allowed.,צמתים שורש מרובים אסורים.,
-"Must be of type ""Attach Image""",חייב להיות מסוג &quot;צרף תמונה&quot;,
-Must have report permission to access this report.,"חייבים לקבל אישור דו""ח לגשת דוח זה.",
-Must specify a Query to run,חייב לציין שאילתה לרוץ,
-Mute Sounds,צלילים אילמים,
-My Settings,הגדרות שלי,
-Name Case,Case שם,
-Name cannot contain special characters like {0},שם אינו יכול להכיל תווים מיוחדים כמו {0},
-Name not set via prompt,שם לא קבע באמצעות שורת,
-Name of the Document Type (DocType) you want this field to be linked to. e.g. Customer,שמו של סוג המסמך (DOCTYPE) אתה רוצה בשדה זה כדי להיות מקושר ל. למשל לקוחות,
-Name of the new Print Format,שמו של פורמט ההדפסה החדש,
-Name of {0} cannot be {1},שם {0} אינו יכול להיות {1},
-Names and surnames by themselves are easy to guess.,שמות ושמות משפחה בעצמם קלים לניחוש.,
-Naming,שמות,
-Naming Series mandatory,שמות סדרת חובה,
-Nested set error. Please contact the Administrator.,שגיאת סט מקוננת. נא לפנות למנהל.,
-New Custom Print Format,פורמט הדפסה מותאמת אישית חדש,
-New Email,מייל חדש,
-New Folder,תיקיה חדשה,
-New Name,שם חדש,
-New Newsletter,ניו עלון,
-New Password,סיסמא חדשה,
-New Report name,שם דוח חדש,
-New value to be set,ערך חדש שיוקם,
-New {0},חדש {0},
-Newsletter Manager,מנהל עלון,
-Newsletter has already been sent,עלון כבר נשלח,
-"Newsletters to contacts, leads.","עלונים לאנשי קשר, מוביל.",
-Next State,המדינה הבאה,
-Next actions,הפעולות הבאה,
-No Copy,לא העתק,
-No Permissions set for this criteria.,אין הרשאות שנקבעו לזה קריטריונים.,
-No Results,אין תוצאות,
-No alerts for today,אין התראות להיום,
-No comments yet,עדיין אין תגובות,
-No file attached,אין קובץ המצורף,
-No further records,לא רשומות נוסף,
-"No need for symbols, digits, or uppercase letters.","אין צורך סימנים, ספרות, או אותיות רישיות.",
-No of Columns,לא של עמודות,
-No permission for {0},אין הרשאה {0},
-No permission to '{0}' {1},אין הרשאות ל&#39;{0} &#39;{1},
-No permission to read {0},אין הרשאות לקריאת {0},
-No permission to {0} {1} {2},אין הרשאות {0} {1} {2},
-No records tagged.,לא רשומות מתויג.,
-No template found at path: {0},אין תבנית נמצאה בנתיב: {0},
-No {0} found,לא {0} מצא,
-No {0} permission,לא {0} רשות,
-None: End of Workflow,אין: סוף זרימת העבודה,
-Not Equals,לא שווה,
-Not In,לא ב,
-Not Published,לא פורסם,
-Not Saved,לא נשמר,
-Not Seen,לא נראה,
-Not Sent,לא נשלח,
-Not Set,לא הוגדר,
-Not a valid Comma Separated Value (CSV File),לא ערך פסיק תקף פרוד (קובץ CSV),
-Not allowed to Import,אסור לייבא,
-Not allowed to change {0} after submission,אסור לשנות {0} לאחר הגשה,
-Not allowed to print cancelled documents,אסור להדפיס מסמכים בוטלו,
-Not allowed to print draft documents,אסור להדפיס מסמכי טיוטה,
-Not in Developer Mode,לא במצב מפתח,
-Not in Developer Mode! Set in site_config.json or make 'Custom' DocType.,לא במצב מפתח! נקבע בsite_config.json או לעשות DOCTYPE 'המותאם אישית'.,
-Note: Multiple sessions will be allowed in case of mobile device,הערה: מספר הפעלות תתאפשר במקרה של מכשיר נייד,
-Nothing to show,מה להראות,
-Notification,הוֹדָעָה,
-Notifications and bulk mails will be sent from this outgoing server.,הודעות ומיילים בתפוצה רחבה תישלחנה מהשרת דואר יוצא זה.,
-Notify if unreplied,נא להודיע אם unreplied,
-Notify if unreplied for (in mins),נא להודיע אם unreplied ל( בדקות),
-Number Format,פורמט המספר,
-Office,משרד,
-Old Password,סיסמא הישנה,
-"On {0}, {1} wrote:","על {0}, {1} כתב:",
-"Once you have set this, the users will only be able access documents (eg. Blog Post) where the link exists (eg. Blogger).","ברגע שיש לך להגדיר את זה, המשתמשים יהיו רק מסמכי גישה מסוגלים (לדוגמא. בלוג פוסט) שבו הקישור קיים (לדוגמא. Blogger).",
-One Last Step,שלב אחרון אחד,
-Only Administrator can delete Email Queue,מנהל רק יכול למחוק דוא&quot;ל תור,
-Only Administrator can edit,מנהל רק יכול לערוך,
-Only Administrator can save a standard report. Please rename and save.,"רק מנהל מערכת יכולה להציל את דו""ח סטנדרטי. אנא שנה את השם ולשמור.",
-Only Allow Edit For,אפשר לערוך רק ל,
-Only mandatory fields are necessary for new records. You can delete non-mandatory columns if you wish.,"רק שדות חובה נחוצים לשיאים חדשים. אתה יכול למחוק את העמודות שאינן חובה, אם תרצה.",
-Oops! Something went wrong,אופס! משהו השתבש,
-"Oops, you are not allowed to know that","אופס, אינך רשאי לדעת",
-Open Link,פתח קישור,
-Open Source Applications for the Web,יישומי קוד פתוחים לאינטרנט,
-Open a module or tool,פתח מודול או כלי,
-Open {0},להרחיב {0},
-Opened,נפתח,
-Option 1,אפשרות 1,
-Option 2,אפשרות 2,
-Option 3,אפשרות 3,
-Optional: The alert will be sent if this expression is true,אופציונלית: ההתראה תישלח אם ביטוי זה נכון,
-Options 'Dynamic Link' type of field must point to another Link Field with options as 'DocType',"הסוג של שדה אפשרויות 'הקישור דינמי ""חייב להצביע על עוד קישור שדה עם אפשרויות כמו' DOCTYPE '",
-Options Help,אפשרויות עזרה,
-Options for select. Each option on a new line.,אפשרויות לבחירה. כל אפשרות בשורה חדשה.,
-Options not set for link field {0},אפשרויות לא נקבעו לקישור שדה {0},
-Or login with,או התחבר עם,
-Org History,ההיסטוריה org,
-Org History Heading,ההיסטוריה org כותרת,
-Outlook.com,Outlook.com,
-PDF,PDF,
-PDF Page Size,גודל דף PDF,
-PDF Settings,הגדרות PDF,
-PDF generation failed because of broken image links,דור PDF נכשל בגלל קישורי תמונה שבורות,
-Page HTML,הדף HTML,
-Page Name,שם דף,
-Page not found,דף לא נמצא,
-Page to show on the website\n,עמוד להראות באתר,
-Pages in Desk (place holders),דפים בשולחן כתיבה (בעלי מקום),
-Parent,הורה,
-Parent Error Snapshot,תמונת מצב שגיאת הורה,
-Parent Label,תווית הורה,
-Parent Table,לוח האם,
-Participants,משתתפים,
-Passive,פסיבי,
-Password Reset,איפוס סיסמא,
-Password Updated,סיסמא עדכון,
-Password not found,סיסמה לא נמצא,
-Password reset instructions have been sent to your email,"הוראות לאיפוס סיסמא נשלחו לדוא""ל שלך",
-Paste,הדבק,
-Patch,תיקון,
-Patch Log,התיקון התחבר,
-Percent,אחוזים,
-Perm Level,רמה פרם,
-Permanently Cancel {0}?,באופן קבוע לבטל {0}?,
-Permanently Submit {0}?,באופן קבוע שלח {0}?,
-Permanently delete {0}?,למחוק לצמיתות {0}?,
-Permission Level,רמת הרשאה,
-Permission Levels,רמות הרשאה,
-Permission Rules,כללי רשות,
-Permissions,הרשאות,
-"Permissions are set on Roles and Document Types (called DocTypes) by setting rights like Read, Write, Create, Delete, Submit, Cancel, Amend, Report, Import, Export, Print, Email and Set User Permissions.","הרשאות מוגדרות על תפקידים וסוגי מסמכים (DocTypes נקרא) על ידי הגדרת זכויות כמו לקרוא, לכתוב, ליצור, למחוק, שלח, לבטל, לשנות, דווח, יבוא, יצוא, הרשאות הדפסה, דוא""ל ומשתמש הסט.",
-Permissions at higher levels are Field Level permissions. All Fields have a Permission Level set against them and the rules defined at that permissions apply to the field. This is useful in case you want to hide or make certain field read-only for certain Roles.,הרשאות ברמות גבוהות יותר הן הרשאות שדה רמה. כל השדות סט רמת הרשאה נגדם וכללים שהוגדרו שבהרשאות חלות על השדה. זה שימושי במקרה שאתה רוצה להסתיר או לעשות תחום מסוים לקריאה בלבד לתפקידים מסוימים.,
-"Permissions at level 0 are Document Level permissions, i.e. they are primary for access to the document.","הרשאות ברמה 0 הן הרשאות מסמך ברמה, כלומר הם עיקריים לגישה למסמך.",
-Permissions get applied on Users based on what Roles they are assigned.,הרשאות לקבל מוחלות על משתמשים על סמך מה תפקידים שהם מוקצים.,
-Personal,אישי,
-Phone No.,מס 'טלפון,
-Pick Columns,בחר עמודות,
-Plant,מפעל,
-Please Duplicate this Website Theme to customize.,אנא כפל נושא אתר זה כדי להתאים אישית.,
-Please Update SMS Settings,אנא עדכן את הגדרות SMS,
-Please attach a file first.,נא לצרף קובץ ראשון.,
-Please do not change the rows above {0},נא לא לשנות את השורות מעל {0},
-Please do not change the template headings.,נא לא לשנות את כותרות התבנית.,
-Please duplicate this to make changes,אנא לשכפל זה לבצע שינויים,
-Please ensure that your profile has an email address,ודא שיש לך פרופיל את כתובת הדוא&quot;ל של,
-Please enter the password,הזן את הסיסמה,
-Please enter valid mobile nos,נא להזין nos תקף הנייד,
-Please make sure that there are no empty columns in the file.,אנא ודא שאין עמודות ריקות בקובץ.,
-Please refresh to get the latest document.,אנא רענן כדי לקבל את המסמך האחרון.,
-Please save before attaching.,אנא שמור לפני הצמדה.,
-Please save the Newsletter before sending,אנא שמור עלון לפני השליחה,
-Please save the document before assignment,אנא שמור את המסמך לפני המשימה,
-Please save the document before removing assignment,אנא שמור את המסמך לפני הסרת משימה,
-Please select DocType first,אנא בחר DOCTYPE ראשון,
-Please select a file or url,אנא בחר קובץ או כתובת אתר,
-Please select a valid csv file with data,אנא בחר קובץ CSV תקף עם הנתונים,
-Please set Dropbox access keys in your site config,אנא הגדר מקשי גישת Dropbox בconfig האתר שלך,
-Please set filters,אנא הגדר מסננים,
-Please specify which date field must be checked,נא לציין שמועד שדה חייב להיבדק,
-Please specify which value field must be checked,נא לציין שערך שדה חייב להיבדק,
-Please try again,בבקשה נסה שוב,
-Policy,מְדִינִיוּת,
-Port,נמל,
-Portal Menu,תפריט פורטל,
-Portal Menu Item,פריט תפריט פורטל,
-Post,הודעה,
-Postal,דואר,
-Postal Code,מיקוד,
-Posts,הודעות,
-Posts by {0},הודעות של {0},
-Posts filed under {0},הודעות הגישו תחת {0},
-Precision,Precision,
-Precision should be between 1 and 6,Precision צריך להיות בין 1 ל 6,
-Predictable substitutions like '@' instead of 'a' don't help very much.,החלפות צפויות כמו &#39;@&#39; במקום &#39;a&#39; לא עזר לנו במיוחד.,
-Preferred Billing Address,כתובת חיוב מועדפת,
-Preferred Shipping Address,כתובת למשלוח מועדף,
-Preview HTML,התצוגה המקדימה של HTML,
-Previous,קודם,
-Print Format Builder,Builder פורמט הדפסה,
-Print Format Help,עזרה פורמט הדפסה,
-Print Format Type,סוג פורמט הדפסה,
-Print Format {0} is disabled,פורמט ההדפסה {0} אינו זמין,
-Print Hide,הסתר הדפסה,
-Print Hide If No Value,הסתר הדפסה אם אין ערך,
-Print Style,סגנון הדפסה,
-Print Style Preview,להדפיס תצוגה מקדימה של סגנון,
-Print Width,רוחב הדפסה,
-"Print Width of the field, if the field is a column in a table","הדפסת רוחב של השדה, אם השדה היא עמודה בטבלה",
-Print with letterhead,הדפס עם מכתבים,
-Private and public Notes.,הערות פרטיות וציבוריות.,
-ProTip: Add <code>Reference: {{ reference_doctype }} {{ reference_name }}</code> to send document reference,הוסף: Protip <code>Reference: {{ reference_doctype }} {{ reference_name }}</code> לשלוח התייחסות מסמך,
-Progress,התקדמות,
-Property Setter,נכס סתר,
-Property Setter overrides a standard DocType or Field property,נכס סתר עוקף DOCTYPE סטנדרטי או רכוש שדה,
-Property Type,סוג הנכס,
-Published On,פורסם ב,
-Pyver,Pyver,
-Query,שאילתא,
-Query Report,דוח שאילתות,
-Query must be a SELECT,שאילתא חייבת להיות SELECT,
-Quick Help for Setting Permissions,עזרה מהירה לקביעת הרשאות,
-Re: ,Re:,
-Re: {0},Re: {0},
-Read,קראו,
-Read Only,קריאה בלבד,
-Receiver Parameter,מקלט פרמטר,
-Recent years are easy to guess.,בשנים האחרונות קלות לנחש.,
-Recipient,נמען,
-Recipient Unsubscribed,נמען לא רשום,
-Record does not exist,רשומה לא קיימת,
-Redis cache server not running. Please contact Administrator / Tech support,שרת מטמון Redis אינו פועל. אנא פנה למנהל / תמיכה טכנית,
-Ref DocType,"נ""צ DOCTYPE",
-Reference DocType and Reference Name are required,התייחסות DOCTYPE והפניה שם נדרשים,
-Reference: {0} {1},התייחסות: {0} {1},
-Refresh Form,טופס רענן,
-Refreshing...,מרענן ...,
-Relapsed,הישנות,
-Relapses,הישנויות,
-Reload,רענן,
-Remove,להסיר,
-Remove Filter,הסר סינון,
-Remove Section,הסר סעיף,
-Remove all customizations?,הסר את כל ההתאמות האישיות?,
-Removed {0},הוסר {0},
-Rename many items by uploading a .csv file.,שינוי שם פריטים רבים על ידי העלאת קובץ csv.,
-Rename {0},שינוי שם {0},
-Repeat Header and Footer in PDF,חזור על כותרת עליונה ותחתונה ב- PDF,
-Repeat On,חזור על פעולה ב,
-Repeat Till,חזור עד,
-Repeat this Event,חזור על אירוע זה,
-"Repeats like ""aaa"" are easy to guess",חזרות כמו &quot;AAA&quot; קלות לנחש,
-"Repeats like ""abcabcabc"" are only slightly harder to guess than ""abc""",חזרות כמו &quot;abcabcabc&quot; הם רק מעט יותר קשה לנחש מ &quot;ABC&quot;,
-Reply,תגובה,
-Report Builder reports are managed directly by the report builder. Nothing to do.,"דיווחי Builder דווח מנוהלים ישירות על ידי קבלן הדו""ח. אין מה לעשות.",
-Report Hide,דווח הסתר,
-Report Manager,"דו""ח מנהל",
-Report Name,שם דוח,
-Report cannot be set for Single types,לא ניתן להגדיר דווח לסוגים יחיד,
-Report of all document shares,דוח של כל מניות המסמך,
-Report was not saved (there were errors),הדו&quot;ח לא נשמר (היו טעויות),
-Report {0},דווח {0},
-Report {0} is disabled,דווח {0} אינו זמין,
-Represents a User in the system.,מייצג משתמש במערכת.,
-Represents the states allowed in one document and role assigned to change the state.,מייצג את המדינות מותרת במסמך אחד ותפקיד שהוקצה כדי לשנות את המצב.,
-Request Timed Out,תם זמן הבקשה,
-Reset Password,איפוס סיסמא,
-Reset Password Key,מפתח איפוס סיסמא,
-Reset Permissions for {0}?,איפוס הרשאות עבור {0}?,
-Reset to defaults,איפוס לברירות מחדל,
-Restore Original Permissions,שחזור הרשאות מקוריות,
-Restore to default settings?,שחזור להגדרות ברירת המחדל?,
-Restrict IP,להגביל IP,
-Restrict user from this IP address only. Multiple IP addresses can be added by separating with commas. Also accepts partial IP addresses like (111.111.111),להגביל את המשתמש מכתובת ה- IP זה בלבד. ניתן להוסיף כתובות IP מרובות על ידי הפרדה בפסיקים. כמו כן מקבל כתובות IP חלקיות כמו (111.111.111),
-Reverse Icon Color,הפוך אייקון צבע,
-Rich Text,טקסט עשיר,
-Robots.txt,robots.txt,
-Role Name,שם תפקיד,
-Role Permissions,הרשאות תפקיד,
-Role and Level,תפקיד ורמה,
-Roles,תפקידים,
-Roles Assigned,תפקידים שהוקצו,
-Roles can be set for users from their User page.,ניתן להגדיר תפקידים עבור משתמשים מדף המשתמש שלהם.,
-Root {0} cannot be deleted,שורש {0} לא ניתן למחוק,
-Row,שורה,
-Row #{0}:,# השורה {0}:,
-Row {0}: Not allowed to enable Allow on Submit for standard fields,שורת {0}: לא תורשה לאפשר אפשר בשלח לשדות סטנדרטיים,
-Rules defining transition of state in the workflow.,כללים המגדירים מעבר של מדינה בזרימת העבודה.,
-"Rules for how states are transitions, like next state and which role is allowed to change state etc.","כללים לכיצד מדינות הן מעברים, כמו המדינה, ואשר התפקיד הבאים מותר לשנות את המדינה וכו '",
-Run scheduled jobs only if checked,הפעל עבודות מתוכננות רק אם בדקתי,
-SMS,SMS,
-SMS Gateway URL,URL SMS Gateway,
-SMS Parameter,פרמטר SMS,
-SMS Settings,הגדרות SMS,
-SMS sent to following numbers: {0},SMS שנשלח למספרים הבאים: {0},
-SMTP Server,שרת SMTP,
-SMTP Settings for outgoing emails,"הגדרות SMTP להודעות הדוא""ל יוצאות",
-"SQL Conditions. Example: status=""Open""",תנאי SQL. דוגמה: מעמד = &quot;פתח&quot;,
-Same file has already been attached to the record,אותו קובץ כבר צורף לשיא,
-Save As,שמור כ,
-Saving,שמירה,
-Scheduled to send to {0},מתוכנן לשלוח {0},
-Scheduled to send to {0} recipients,מתוכנן לשלוח {0} מקבלים,
-Script,תסריט,
-Script Report,התסריט דווח,
-Script or Query reports,תסריט או שאילתה מדווחת,
-Script to attach to all web pages.,תסריט לצרף לכל דפי האינטרנט.,
-Search Fields,שדות חיפוש,
-Search field {0} is not valid,שדה חיפוש {0} אינו חוקי,
-Search in a document type,חיפוש בסוג מסמך,
-Search or type a command,חפש או הקלד פקודה,
-Section Break,מעבר מקטע,
-Security,אבטחה,
-Security Settings,הגדרות אבטחה,
-Seen,נראה,
-Select Attachments,קבצים מצורפים בחרו,
-Select Columns,בחרו עמודות,
-Select Document Type,בחר סוג המסמך,
-Select Document Type or Role to start.,סוג המסמך בחר או תפקיד כדי להתחיל.,
-Select Document Types to set which User Permissions are used to limit access.,סוגי מסמכים בחרו להגדיר שמשתמש הרשאות משמשים כדי להגביל את הגישה.,
-Select Languages,שפות בחרו,
-Select Print Format,פורמט הדפסה בחר,
-Select Print Format to Edit,בחר פורמט להדפסה לעריכה,
-Select Role,תפקיד בחר,
-Select Table Columns for {0},עמודות הטבלה בחר עבור {0},
-Select a DocType to make a new format,בחר DOCTYPE לעשות פורמט חדש,
-Select a group node first.,בחר צומת קבוצה ראשונה.,
-Select an existing format to edit or start a new format.,בחר בפורמט קיים כדי לערוך או להתחיל בפורמט חדש.,
-Select an image of approx width 150px with a transparent background for best results.,בחר תמונה של רוחב כ 150px עם רקע שקוף לתוצאות הטובות ביותר.,
-Select or drag across time slots to create a new event.,בחר או גרור על פני חריצי זמן כדי ליצור אירוע חדש.,
-Select records for assignment,רשומות בחרו למשימה,
-"Select target = ""_blank"" to open in a new page.","target = ""_blank"" בחר לפתוח בדף חדש.",
-Select the label after which you want to insert new field.,בחר את התווית לאחר שרצונך להוסיף שדה חדש.,
-"Select your Country, Time Zone and Currency","בחר את המדינה, אזור הזמן ומטבע",
-Select {0},בחר {0},
-Send After,שלח אחרי,
-Send Alert On,שלח התראה ב,
-Send Email Print Attachments as PDF (Recommended),"שלח קבצים מצורפים הדפסת דוא""ל כקובץ PDF (מומלץ)",
-Send Notifications To,לשלוח הודעות ל,
-Send Print as PDF,שלח הדפסה כקובץ PDF,
-Send Welcome Email,שלח ברוכים הבאים,
-Send alert if date matches this field's value,שלח התראה אם תאריך מתאים הערך של תחום זה,
-Send alert if this field's value changes,שלח התראה אם השינויים בשווי של תחום זה,
-Send an email reminder in the morning,"שלח תזכורת בדוא""ל בבוקר",
-Send days before or after the reference date,שלח ימים לפני או אחרי תאריך ההתייחסות,
-Send document web view link in email,שלח האינטרנט במסמך בתצוגת הקישור המופיע בדוא&quot;ל,
-Send enquiries to this email address,"שלח פניות לכתובת דוא""ל זו",
-Send me a copy,שלח לי עותק,
-Sender,שולח,
-Sent or Received,נשלח או התקבל,
-Session Expiry,מושב תפוגה,
-Session Expiry Mobile,מושב תפוגה נייד,
-Session Expiry in Hours e.g. 06:00,מושב תפוגה בלמשל שעות 6:00,
-Session Expiry must be in format {0},מושב תפוגה חייבת להיות בפורמט {0},
-Set Banner from Image,באנר להגדיר מתמונה,
-Set New Password,להגדיר סיסמא חדשה,
-Set Only Once,להגדיר רק פעם אחת,
-Set Password,הגדרת סיסמא,
-Set Permissions on Document Types and Roles,הגדרת הרשאות על סוגי מסמכים ותפקידים,
-Set Quantity,כמות שנקבעה,
-Set User Permissions,הרשאות משתמש להגדיר,
-Set Value,ערך שנקבע,
-"Set default format, page size, print style etc.","פורמט שנקבע כברירת מחדל, גודל עמוד, סגנון הדפסה וכו '",
-Set non-standard precision for a Float or Currency field,דיוק לא סטנדרטי שנקבע לשדה Float או מטבע,
-Set numbering series for transactions.,הגדר מספור סדרה לעסקות.,
-Setting this Address Template as default as there is no other default,הגדרת תבנית כתובת זו כברירת מחדל כפי שאין ברירת מחדל אחרת,
-Settings for About Us Page.,הגדרות עבור אודות הדף.,
-Settings for Contact Us Page,הגדרות לצורו קשר דף,
-Settings for Contact Us Page.,הגדרות לצורו קשר דף.,
-Settings for the About Us Page,הגדרות עבורנו העמוד אודות,
-Setup Complete,התקנה מלאה,
-"Setup of top navigation bar, footer and logo.","התקנה של סרגל ניווט העליון, תחתונה ולוגו.",
-Share With,שתף עם,
-Share this document with,שתף מסמך זה עם,
-Share {0} with,שתף {0} עם,
-Shared,מְשׁוּתָף,
-Shared With,משותף עם,
-Shared with everyone,משותף עם כולם,
-Shared with {0},משותף עם {0},
-Shop,חנות,
-Short keyboard patterns are easy to guess,דפוסי מקלדת קצרים קלים לנחש,
-Show Permissions,הרשאות צג,
-Show Relapses,את התקפי הצג,
-Show Title,כותרת הצג,
-Show more details,הצג פרטים נוספים,
-"Show title in browser window as ""Prefix - title""",כותרת הצג בחלון דפדפן כמו &quot;קידומת - כותרת&quot;,
-Sidebar Items,פריטים Sidebar,
-Signature,חתימה,
-Single Post (article).,הודעה אחת (מאמר).,
-Single Types have only one record no tables associated. Values are stored in tabSingles,יש סוגים בודדים רק שיא אחד אין טבלאות קשורות. ערכים מאוחסנים בtabSingles,
-Slideshow Items,פריטים מצגת,
-Slideshow Name,שם מצגת,
-Slideshow like display for the website,מצגת כמו תצוגה עבור אתר האינטרנט,
-Small Text,טקסט קטן,
-Smallest Currency Fraction Value,ערך שבר מטבע הקטן ביותר,
-Smallest circulating fraction unit (coin). For e.g. 1 cent for USD and it should be entered as 0.01,היחידה הקטנה ביותר במחזור החלק (מטבע). לדוגמא 1 סנט לדולר וזה צריך להיות נכנס כ0.01,
-Snapshot View,צלם תצוגה,
-Soft-Bounced,Bounced-רך,
-Something went wrong,משהו השתבש,
-Sorry! I could not find what you were looking for.,סליחה! לא הצלחתי למצוא את מה שחיפשת.,
-Sorry! Sharing with Website User is prohibited.,סליחה! שיתוף עם משתמשים אתר אסור.,
-Sorry! User should have complete access to their own record.,סליחה! משתמש צריך להיות גישה מלאה לשיא שלהם.,
-Sorry! You are not permitted to view this page.,סליחה! אתה אינו רשאי לצפות בדף זה.,
-Sorry! You cannot delete auto-generated comments,מצטער! אתה לא יכול למחוק הערות שנוצרו באופן אוטומטי,
-Sort Field,שדה מיין,
-Sort Order,סדר מיון,
-Standard Print Format cannot be updated,פורמט הדפסה סטנדרטי לא ניתן לעדכן,
-Standard Reports,דוחות סטנדרטיים,
-Standard roles cannot be disabled,תפקידים רגילים לא יכולים להיות נכה,
-Standard roles cannot be renamed,לא ניתן לשנות את שם תפקידים סטנדרטיים,
-Start entering data below this line,להתחיל בהזנת נתונים מתחת לקו זה,
-Start new Format,התחל פורמט חדש,
-Starts on,מתחיל ב,
-States,הברית,
-"States for workflow (e.g. Draft, Approved, Cancelled).","הברית לעבודה (למשל טיוטה, מאושר, בוטל).",
-Static Parameters,פרמטרים סטטיים,
-Stores the JSON of last known versions of various installed apps. It is used to show release notes.,חנויות JSON של הגרסאות האחרונות ידועות של יישומים מותקנים שונים. הוא משמש כדי להראות הערות שחרור.,
-Straight rows of keys are easy to guess,בשורות ישרות מפתחות קלות לנחש,
-Style,סגנון,
-Style Settings,בהגדרות סגנון,
-"Style represents the button color: Success - Green, Danger - Red, Inverse - Black, Primary - Dark Blue, Info - Light Blue, Warning - Orange","סגנון מייצג את צבען: הצלחה - ירוק, סכנה - אדום, הפוך - שחור, יסודי - כחול כהה, מידע - Light Blue, אזהרה - אורנג '",
-"Sub-currency. For e.g. ""Cent""","תת מטבע. ל"" סנט ""למשל",
-Sub-domain provided by erpnext.com,תת תחום הניתן על ידי erpnext.com,
-Subdomain,תחום משנה,
-Submit an Issue,שלח גיליון,
-Submit this document to confirm,שלח את המסמך הזה כדי לאשר,
-Submitted Document cannot be converted back to draft. Transition row {0},מסמך שהוגש לא ניתן להמיר חזרה לטיוטה. שורת מעבר {0},
-Submitting,הגשה,
-Subsidiary,חברת בת,
-Success Message,ההצלחה Message,
-Success URL,URL ההצלחה,
-Successful: {0} to {1},מוצלח: {0} {1},
-Suggested Username: {0},שם משתמש מוצע: {0},
-Symbol,סמל,
-Syntax error in template,שגיאת תחביר התבנית,
-System,מערכת,
-System Settings,הגדרות מערכת,
-System User,משתמש מערכת,
-System and Website Users,משתמשי מערכת ואתר,
-Table,שולחן,
-Table updated,טבלה מעודכנת,
-Table {0} cannot be empty,שולחן {0} לא יכול להיות ריק,
-Team Members,חברי צוות,
-Team Members Heading,חברי צוות בראש,
-Test Runner,המבחן ראנר,
-Test_Folder,Test_Folder,
-Text,טקסט,
-Text Align,טקסט יישור,
-Text Color,צבע טקסט,
-Text Editor,עורך טקסט,
-Text to be displayed for Link to Web Page if this form has a web page. Link route will be automatically generated based on `page_name` and `parent_website_route`,טקסט שיוצג לקישור לדף אינטרנט אם טופס זה יש דף אינטרנט. מסלול קישור יהיה באופן אוטומטי המבוסס על `` page_name` וparent_website_route`,
-Thank you for your email,"תודה על הדוא""ל שלך",
-Thank you for your interest in subscribing to our updates,תודה לך על התעניינותך במנוי לעדכונים שלנו,
-Thank you for your message,תודה לך על ההודעה שלך,
-The Condition '{0}' is invalid,התנאי &#39;{0}&#39; אינו חוקי,
-The First User: You,המשתמש הראשון: אתה,
-"The application has been updated to a new version, please refresh this page","היישום עודכן לגרסה חדשה, אנא רענן דף זה",
-The first user will become the System Manager (you can change this later).,המשתמש הראשון יהפוך את מנהל המערכת (אתה יכול לשנות את זה בהמשך).,
-The resource you are looking for is not available,המשאב שאתה מחפש אינו זמין,
-The system provides many pre-defined roles. You can add new roles to set finer permissions.,המערכת מספקת מספר רב של תפקידים מוגדרים מראש. אתה יכול להוסיף תפקידים חדשים כדי להגדיר הרשאות עדינות.,
-Theme,נושא,
-There can be only one Fold in a form,לא יכול להיות רק אחד מקפלים בצורה,
-There is an error in your Address Template {0},יש שגיאת תבנית הכתובת שלך {0},
-There is some problem with the file url: {0},יש קצת בעיה עם כתובת אתר הקובץ: {0},
-There should remain at least one System Manager,לא צריך להישאר מנהל מערכת אחת לפחות,
-There were errors,היו שגיאות,
-There were errors while sending email. Please try again.,היו שגיאות בעת שליחת דואר אלקטרוני. אנא נסה שוב.,
-"There were some errors setting the name, please contact the administrator","היו כמה טעויות הגדרה שם, אנא צור קשר עם המנהל",
-These values will be automatically updated in transactions and also will be useful to restrict permissions for this user on transactions containing these values.,ערכים אלה יהיו מעודכנים באופן אוטומטי בעסקות וגם יהיה שימושי כדי להגביל הרשאות למשתמש זה על עסקות המכילות את הערכים הללו.,
-Third Party Authentication,הצד שלישי אימות,
-This Currency is disabled. Enable to use in transactions,מטבע זו אינו זמין. אפשר להשתמש בעסקות,
-This document is currently queued for execution. Please try again,מסמך זה נמצא בתור כרגע לביצוע. בבקשה נסה שוב,
-This email was sent to {0},האימייל הזה נשלח ל {0},
-This email was sent to {0} and copied to {1},האימייל הזה נשלח ל {0} והעתיק {1},
-This feature is brand new and still experimental,תכונה זו היא חדשה ועדיין ניסיונית,
-This field will appear only if the fieldname defined here has value OR the rules are true (examples): \nmyfield\neval:doc.myfield=='My Value'\neval:doc.age&gt;18,שדה זה יופיע רק אם fieldname מוגדר כאן יש ערך או כללים נכונים (דוגמאות): myfield eval: doc.myfield == &#39;ערך שלי&#39; eval: doc.age&gt; 18,
-This form does not have any input,צורה זו אין כל קלט,
-This form has been modified after you have loaded it,טופס זה השתנה לאחר שהעמסת אותו,
-This format is used if country specific format is not found,פורמט זה משמש אם פורמט ספציפי למדינה לא נמצא,
-This goes above the slideshow.,זה הולך מעל המצגת.,
-This is a top-10 common password.,זוהי סיסמה נפוצה העליון -10.,
-This is a top-100 common password.,זוהי סיסמא נפוצה עליונים 100.,
-This is a very common password.,זוהי סיסמה נפוצה מאוד.,
-This is an automatically generated reply,זוהי תשובה שנוצרה באופן אוטומטי,
-This is similar to a commonly used password.,זה דומה סיסמא נפוצה.,
-This link is invalid or expired. Please make sure you have pasted correctly.,קישור זה אינו חוקי או שפג תוקף. אנא ודא שיש לך להדביק בצורה נכונה.,
-This role update User Permissions for a user,הרשאות משתמש תפקיד עדכון זה עבור משתמש,
-Thumbnail URL,כתובת תמונה ממוזערת,
-Time Zone,אזור הזמן,
-Time Zones,אזורי זמן,
-Timeline DocType,DOCTYPE ציר הזמן,
-Timeline Field,שדה ציר זמן,
-Timeline Name,שם ציר זמן,
-Timeline field must be a Link or Dynamic Link,שדה ציר הזמן חייב להיות קישור או קישור דינמי,
-Timeline field must be a valid fieldname,שדה ציר הזמן חייב להיות fieldname תקף,
-Timestamp,חותמת,
-Title Case,כותרת Case,
-Title Field,כותרת שדה,
-Title Prefix,כותרת קידומת,
-Title field must be a valid fieldname,כותרת שדה חייב להיות תקף fieldname,
-To Do,לעשות,
-"To add dynamic subject, use jinja tags like\n\n<div><pre><code>{{ doc.name }} Delivered</code></pre></div>","כדי להוסיף נושא דינמי, להשתמש בתגי ג&#39;ינג&#39;ה כמו <div style=""""><pre style=""""> <code>{{ doc.name }} Delivered</code> </pre> </div>",
-"To format columns, give column labels in the query.","לעמודים בפורמט, לתת תוויות עמודה בשאילתא.",
-ToDo,ToDo,
-Token is missing,אסימון חסר,
-Too many writes in one request. Please send smaller requests,יותר מדי כותב בבקשת אחת. נא לשלוח בקשות קטנות,
-Top Bar,Top בר,
-Top Bar Item,פריט עליון בר,
-Top Bar Items,פריטים העליונים בר,
-Total Subscribers,סה&quot;כ מנויים,
-Track Seen,מסלול בבלוג,
-Transition Rules,הוראה מעבר,
-Transitions,מעברים,
-Translation,תִרגוּם,
-Tree,עֵץ,
-Tree view not available for {0},תצוגת עץ אינו זמין עבור {0},
-Try to avoid repeated words and characters,נסה להימנע מילות חוזרות ותווים,
-Try to use a longer keyboard pattern with more turns,נסה להשתמש דפוס מקלדת כבר עם סיבובים יותר,
-Type:,סוג:,
-UPPER CASE,אוֹתִיוֹת גְדוֹלוֹת,
-Unable to find attachment {0},לא ניתן למצוא את הקובץ המצורף {0},
-Unable to load: {0},לא ניתן לטעון: {0},
-Unable to open attached file. Did you export it as CSV?,לא ניתן לפתוח את הקובץ המצורף. האם אתה לייצא אותו כקובץ CSV?,
-Unable to send emails at this time,"לא ניתן לשלוח הודעות דוא""ל בשלב זה",
-Unable to update event,לא ניתן לעדכן את האירוע,
-Unique,ייחודי,
-Unknown Column: {0},טור ידוע: {0},
-"Unknown file encoding. Tried utf-8, windows-1250, windows-1252.","קידוד קובץ לא ידוע. , Windows-1250, חלונות-1252 utf-8 ניסו.",
-Unread Notification Sent,הודעה שלא נקראה נשלחה,
-Unshared,שאינו משותף,
-Upcoming Events for Today,אירועים קרובים להיום,
-Update Field,עדכון שדה,
-Update Value,עדכון ערך,
-Update many values at one time.,עדכון ערכים רבים בבת אחת.,
-Updated,עדכון,
-Updated {0}: {1},עדכון {0}: {1},
-Updating,עדכון,
-Use IMAP,השימוש IMAP,
-Use SSL,השתמש ב- SSL,
-Use TLS,השימוש TLS,
-"Use a few words, avoid common phrases.","השתמש כמה מילים, להימנע ביטויים נפוצים.",
-Use this fieldname to generate title,השתמש fieldname זה כדי ליצור כותרת,
-User '{0}' already has the role '{1}',משתמש &#39;{0}&#39; כבר יש את התפקיד &#39;{1}&#39;,
-User Cannot Create,משתמש אינו יכול ליצור,
-User Cannot Search,משתמש לא יכול חפש,
-User Defaults,ברירות מחדל משתמש,
-User ID of a Blogger,זיהוי משתמש של Blogger,
-User Image,תמונת משתמש,
-User Permission,אישורים והיתרים משתמש,
-User Permissions,הרשאות משתמש,
-User Roles,תפקיד משתמש,
-User Tags,תגיות משתמש,
-User Type,סוג המשתמש,
-User editable form on Website.,טופס הניתן לעריכה למשתמש באתר.,
-User is mandatory for Share,המשתמש הוא חובה עבור שתף,
-User not allowed to delete {0}: {1},משתמש לא מורשה למחוק {0}: {1},
-User permissions should not apply for this Link,הרשאות משתמש לא צריכים להגיש בקשה לקישור זה,
-User {0} cannot be deleted,משתמש {0} לא ניתן למחוק,
-User {0} cannot be disabled,משתמש {0} אינו יכול להיות מבוטל,
-User {0} cannot be renamed,משתמש {0} לא ניתן לשנות את שמם,
-Username,שֵׁם מִשׁתַמֵשׁ,
-Username {0} already exists,שם משתמש {0} כבר קיים,
-Users with role {0}:,משתמשים עם תפקיד {0}:,
-Valid Login id required.,id כניסה חוקי חובה.,
-Valid email and name required,"נדרש דוא""ל ושם חוקי",
-Value Change,שינוי הערך,
-Value Changed,הערך השתנה,
-Value cannot be changed for {0},ערך לא ניתן לשנות עבור {0},
-Value for a check field can be either 0 or 1,ערך עבור שדה בדיקה יכול להיות או 0 או 1,
-Value for {0} cannot be a list,ערך תמורת {0} לא יכול להיות רשימה,
-Value missing for,הערך חסר ל,
-Verdana,Verdana,
-Verify,ודא,
-Verify Password,אימות סיסמא,
-Version,גרסה,
-View List,רשימת צפייה,
-View Properties (via Customize Form),צג נכסים (באמצעות טופס התאמה אישית),
-View Subscribers,צפה מנויים,
-View Website,אתר צפה ב,
-View this in your browser,הצג את זה בדפדפן שלך,
-Visit,בקר,
-Web Form,טופס אינטרנט,
-Web Form Field,אינטרנט טופס מולא,
-Web Form Fields,שדות טופס האינטרנט,
-Web Page,דף האינטרנט,
-Web Page Link Text,טקסט קישור לדף אינטרנט,
-Web Site,אתר אינטרנט,
-Website Script,האתר סקריפט,
-Website Slideshow,אתר מצגת,
-Website Slideshow Item,פריט מצגת אתר,
-Website Theme,נושא אתר,
-Website Theme Image,תמונת נושא אתר,
-Website Theme Image Link,קישור לתמונת נושא אתר,
-Website User,משתמש אתר,
-"When you Amend a document after Cancel and save it, it will get a new number that is a version of the old number.","כאשר אתה לתקן מסמך לאחר לבטל ולשמור אותו, הוא יקבל מספר חדש שהוא גרסה של המספר הישן.",
-Width,רוחב,
-Widths can be set in px or %.,ניתן להגדיר רוחב בpx או%.,
-Will be used in url (usually first name).,ישמש בכתובת אתר (בדרך כלל שם פרטיים).,
-With Letterhead,עם מכתבים,
-Workflow Action,פעולה זרימת עבודה,
-Workflow Action Master,Workflow הפעולה Master,
-Workflow Action Name,שם Workflow פעולה,
-Workflow Document State,זרימת עבודה במסמך המדינה,
-Workflow Name,שם זרימת עבודה,
-Workflow State,מדינת זרימת עבודה,
-Workflow State Field,מדינת שדה זרימת עבודה,
-Workflow Transition,מעבר זרימת עבודה,
-Workflow state represents the current state of a document.,מדינת זרימת עבודה מייצגת את המצב הנוכחי של מסמך.,
-Write,לכתוב,
-Write a Python file in the same folder where this is saved and return column and result.,הוסף קובץ פייתון באותה התיקייה שבה זה נשמר ולחזור טור ותוצאה.,
-Write a SELECT query. Note result is not paged (all data is sent in one go).,לכתוב שאילתא SELECT. תוצאת הערה לא מעומד (כל הנתונים נשלחים בפעם אחת).,
-Writers Introduction,סופרי מבוא,
-Yahoo Mail,Yahoo Mail,
-Yandex.Mail,Yandex.Mail,
-Yesterday,אתמול,
-You are not allowed to delete a standard Website Theme,אסור לך למחוק את נושא אתר סטנדרטי,
-You are not allowed to print this document,"אין באפשרותך להדפיס את המסמך הזה,",
-You are not allowed to print this report,אינך רשאי להדפיס דוח זה,
-You are not allowed to send emails related to this document,אין באפשרותך לשלוח מיילים הקשורים למסמך זה,
-You are not allowed to update this Web Form Document,אין באפשרותך לעדכן את מסמך טופס אינטרנט זה,
-You are not permitted to access this page.,אינכם מורשים לגשת לדף זה.,
-You can add dynamic properties from the document by using Jinja templating.,אתה יכול להוסיף תכונות דינמיות מהמסמך באמצעות בניית תבנית ג&#39;ינג&#39;ה.,
-"You can change Submitted documents by cancelling them and then, amending them.","באפשרותך לשנות מסמכים שהוגשו על ידי הביטול ולאחר מכן, תיקונם.",
-You can find things by asking 'find orange in customers',אתה יכול למצוא דברים בשאלה &#39;למצוא כתום לקוחות&#39;,
-You can only upload upto 5000 records in one go. (may be less in some cases),אתה יכול רק להעלות upto 5000 רשומות במכה אחת. (יכול להיות פחות במקרים מסוימים),
-You can use Customize Form to set levels on fields.,אתה יכול להשתמש בטופס התאמה אישית כדי להגדיר רמות בשדות.,
-You can use wildcard %,אתה יכול להשתמש בתווים כללי%,
-You cannot unset 'Read Only' for field {0},אתה לא יכול לבטל את הגדרה של &#39;קריאה בלבד&#39; לשדה {0},
-You do not have enough permissions to access this resource. Please contact your manager to get access.,אין לך מספיק הרשאות כדי לגשת למשאב זה. צור קשר עם מנהל המערכת כדי לקבל גישה.,
-You don't have access to Report: {0},"אין לך גישה לדו""ח: {0}",
-You don't have permission to access this file,אין לך הרשאה לגשת לקובץ זה,
-You don't have permission to get a report on: {0},אין לך הרשאה על מנת לקבל דיווח על: {0},
-You don't have the permissions to access this document,אין לך את הרשאות גישה למסמך זה,
-You have unsaved changes in this form. Please save before you continue.,יש לך שינויים שלא נשמרו בצורה זו. אנא שמור לפני שתמשיך.,
-You must login to submit this form,עליך להתחבר לישלח את הטופס הזה,
-You need to be in developer mode to edit a Standard Web Form,אתה צריך להיות במצב מפתח לערוך טופס אינטרנט רגיל,
-You need to be logged in and have System Manager Role to be able to access backups.,אתה צריך להיות מחובר ויש לי תפקיד מנהל מערכת כדי שתוכל לגשת לגיבויים.,
-You need to be logged in to access this {0}.,אתה צריך להיות מחובר כדי לגשת זה {0}.,
-"You need to have ""Share"" permission","אתה צריך אישור ""שתף""",
-You need write permission to rename,אתה צריך לכתוב את הרשות לשנות את השם,
-Your Name,השם שלך,
-Your login id is,מזהה הכניסה שלך הוא,
-Your organization name and address for the email footer.,השם שלך ארגון וכתובת לתחתון בדואר האלקטרוני.,
-"Your query has been received. We will reply back shortly. If you have any additional information, please reply to this mail.","השאילתה שלך כבר קיבלה. אנחנו נשיב בחזרה תוך זמן קצר. אם יש לך מידע נוסף, אנא השב למייל זה.",
-[Label]:[Field Type]/[Options]:[Width],[תוית]: [סוג שדה] / [אפשרויות]: [רוחב],
-_doctype,_doctype,
-adjust,להתאים,
-align-center,ליישר-מרכז,
-align-justify,ליישר-להצדיק,
-align-left,שמאל ליישר,
-align-right,ליישר ימני,
-arrow-down,חץ למטה,
-arrow-left,שמאל חץ,
-arrow-right,חץ ימני,
-arrow-up,חץ למעלה,
-asterisk,כוכבית,
-backward,אחורה,
-ban-circle,איסור העיגול,
-bell,פעמון,
-bookmark,סימנייה,
-briefcase,תיק,
-bullhorn,מגאפון,
-camera,מצלמה,
-chevron-down,שברון למטה,
-chevron-left,שמאל שברון,
-chevron-right,שברון-תקין,
-chevron-up,שברון-עד,
-circle-arrow-down,המעגל-חץ למטה,
-circle-arrow-left,המעגל לשמאל חץ,
-circle-arrow-right,המעגל-חץ ימני,
-circle-arrow-up,המעגל-חץ-עד,
-cog,שֵׁן,
-dd-mm-yyyy,dd-mm-yyyy,
-dd.mm.yyyy,dd.mm.yyyy,
-dd/mm/yyyy,dd / mm / yyyy,
-"document type..., e.g. customer","סוג מסמך ..., למשל לקוח",
-download-alt,הורדה-alt,
-"e.g. ""Support"", ""Sales"", ""Jerry Yang""","לדוגמא: ""תמיכה"", ""מכירות"", ""ג'רי יאנג""",
-e.g. (55 + 434) / 4 or =Math.sin(Math.PI/2)...,למשל (55 + 434) / 4 או = מתמטיקה.חטא (Math.PI / 2) ...,
-e.g. pop.gmail.com / imap.gmail.com,למשל pop.gmail.com / imap.gmail.com,
-e.g. replies@yourcomany.com. All replies will come to this inbox.,למשל replies@yourcomany.com. כל התשובות יגיעו לתיבת דואר נכנסת של זה.,
-e.g. smtp.gmail.com,למשל smtp.gmail.com,
-e.g.:,לדוגמא:,
-eject,לְהַפְלִיט,
-envelope,מעטפה,
-exclamation-sign,קריאה-סימן,
-eye-close,עין-קרוב,
-eye-open,עין-פתוחה,
-facetime-video,FaceTime-וידאו,
-fast-backward,מהיר אחורה,
-fast-forward,מהר קדימה,
-film,סרט,
-fire,אש,
-folder-close,תיקייה-קרוב,
-folder-open,תיקייה פתוחה,
-fullscreen,מסך מלא,
-gift,מתנה,
-glass,זכוכית,
-globe,עולם,
-hand-down,יד למטה,
-hand-left,יד שמאל,
-hand-right,יד ימין,
-hand-up,יד-עד,
-hdd,HDD,
-headphones,אוזניות,
-heart,לב,
-hub,רכזת,
-indent-left,כניסה שמאלית,
-indent-right,כניסה ימנית,
-info-sign,מידע לחתום,
-italic,נטוי,
-just now,רק עכשיו,
-leaf,עלה,
-list-alt,רשימת alt,
-magnet,מגנט,
-map-marker,מפה-מרקר,
-minus,מינוס,
-minus-sign,מינוס סימן,
-mm-dd-yyyy,"מ""מ-יום-שנת",
-mm/dd/yyyy,mm / dd / yyyy,
-module name...,שם מודול ...,
-new type of document,סוג חדש של מסמך,
-none of,אף אחד מ,
-ok,בסדר,
-ok-circle,בסדר-המעגל,
-ok-sign,בסדר-סימן,
-only.,רק.,
-or,או,
-pencil,עיפרון,
-picture,תמונה,
-plane,מטוס,
-play,לשחק,
-play-circle,משחק-המעגל,
-plus,בתוספת,
-plus-sign,תוספת-סימן,
-qrcode,QRCode,
-query-report,שאילתה דיווח,
-question-sign,שאלה-סימן,
-remove-circle,להסיר עיגול,
-remove-sign,להסיר לחתום,
-resize-full,גודל מלא,
-resize-horizontal,לשנות את הגודל אופקי,
-resize-small,גודל קטן,
-resize-vertical,לשנות את הגודל אנכי,
-retweet,retweet,
-road,כביש,
-screenshot,צילום מסך,
-share-alt,מניות alt,
-shopping-cart,עגלת קניות,
-signal,אות,
-star,כוכב,
-star-empty,כוכבים ריקים,
-step-backward,צעד אחורה,
-step-forward,צעד קדימה,
-"target = ""_blank""","target = ""_blank""",
-text in document type,טקסט בסוג המסמך,
-text-height,טקסט גובה,
-text-width,text-רוחב,
-th,ה,
-th-large,ה-גדול,
-th-list,רשימת ה,
-thumbs-down,אגודלים כלפי מטה,
-thumbs-up,אגודלים מורמים,
-tint,צֶבַע,
-updated to {0},עודכן {0},
-use % as wildcard,להשתמש% ככלליים,
-values separated by commas,ערכים מופרדים בפסיקים,
-volume-down,נפח למטה,
-volume-off,נפח-off,
-volume-up,נפח-עד,
-warning-sign,אזהרה-סימן,
-wrench,מפתח ברגים,
-yyyy-mm-dd,yyyy-mm-dd,
-zoom-in,זום-ב,
-zoom-out,זום-אאוט,
-{0} List,{0} רשימה,
-{0} Report,{0} דווח,
-{0} Tree,{0} עץ,
-{0} added,{0} הוסיף,
-{0} already unsubscribed,{0} מנוי כבר,
-{0} already unsubscribed for {1} {2},{0} כבר נרכשו עבור {1} {2},
-{0} and {1},{0} ו- {1},
-{0} are currently viewing this document,{0} צופים כרגע מסמך זה,
-{0} cannot be set for Single types,{0} לא ניתן להגדיר עבור סוגים בודדים,
-{0} comments,{0} הערות,
-{0} days ago,{0} ימים לפני,
-{0} does not exist in row {1},{0} אינו קיים בשורת {1},
-"{0} field cannot be set as unique in {1}, as there are non-unique existing values","{0} השדה יכול לא להיות מוגדר בתור ייחודי {1}, שכן ישנם ערכים קיימים לא ייחודי",
-{0} has left the conversation in {1} {2},{0} עזב את השיחה ב {1} {2},
-{0} in row {1} cannot have both URL and child items,{0} בשורת {1} לא יכול להיות שני פריטי URL וילד,
-{0} is currently viewing this document,{0} הוא כרגע צופה מסמך זה,
-{0} is saved,{0} נשמר,
-{0} logged in,{0} מחובר,
-{0} minutes ago,{0} דקות לפני,
-{0} months ago,{0} חודשים לפני,
-{0} must be one of {1},{0} חייב להיות אחד {1},
-{0} must be set first,{0} יש להגדיר ראשון,
-{0} must be unique,{0} חייב להיות ייחודי,
-{0} not a valid State,{0} לא חוקי מדינה,
-{0} not allowed to be renamed,{0} אינו רשאי לשנות את השם,
-{0} or {1},{0} או {1},
-{0} shared this document with everyone,{0} משותף מסמך זה עם כולם,
-{0} shared this document with {1},{0} משותף מסמך זה עם {1},
-{0} subscribers added,{0} מנויים הוסיפו,
-{0} un-shared this document with {1},"{0} מסמך זה עם-משותף של האו""ם {1}",
-{0} updated,{0} מעודכן,
-{0} weeks ago,{0} שבועות,
-{0} {1} already exists,{0} {1} כבר קיים,
-"{0} {1} cannot be ""{2}"". It should be one of ""{3}""","{0} {1} לא יכול להיות ""{2}"". זה צריך להיות אחד מ"" {3} """,
-{0} {1} cannot be a leaf node as it has children,{0} {1} לא יכולה להיות צומת עלה כיש לה ילדים,
-"{0} {1} does not exist, select a new target to merge","{0} {1} לא קיימת, בחר יעד חדש למזג",
-{0} {1} not found,{0} {1} לא נמצא,
-"{0}, Row {1}","{0}, {1} שורה",
-{0}: Cannot set Amend without Cancel,{0}: לא ניתן להגדיר לתקן בלי לבטל,
-{0}: Cannot set Assign Amend if not Submittable,{0}: לא ניתן להגדיר הקצאת תיקון אם לא Submittable,
-{0}: Cannot set Assign Submit if not Submittable,{0}: לא ניתן להגדיר הקצאה שלח אם לא Submittable,
-{0}: Cannot set Cancel without Submit,{0}: לא ניתן להגדיר ביטול ללא הגשה,
-{0}: Cannot set Import without Create,{0}: לא ניתן להגדיר יבוא ללא יצירה,
-"{0}: Cannot set Submit, Cancel, Amend without Write","{0}: לא ניתן להגדיר שלח, לבטל, לשנות ללא כתיבה",
-{0}: Cannot set import as {1} is not importable,{0}: לא ניתן להגדיר ערך בשעה {1} הוא לא יביא,
-{0}: No basic permissions set,{0}: לא להגדיר הרשאות בסיסיות,
-"{0}: Only one rule allowed with the same Role, Level and {1}","{0}: רק כלל אחד אפשר באותו התפקיד, ורמה {1}",
-{0}: Permission at level 0 must be set before higher levels are set,{0}: GNU ברמה 0 חייבים להיות מוגדר לפני רמות גבוהות יותר מוגדרות,
-{0}: {1} in {2},{0}: {1} ב {2},
-{app_title},{} App_title,
-{{{0}}} is not a valid fieldname pattern. It should be {{field_name}}.,{{{0}}} הוא לא דפוס fieldname תקף. זה צריך להיות {{}} FIELD_NAME.,
-Allow Google Drive Access,לאפשר גישה ל- Google Drive,
-Annual,שנתי,
-Approved,אושר,
-Change,שינוי,
-Contact Email,"דוא""ל ליצירת קשר",
-Email IDs,דוא&quot;ל המזהים,
-From Date,מתאריך,
-Google Drive,Google Drive,
-Modules,מודולים,
-Naming Series,סדרת שמות,
-Script Type,תסריט סוג,
-Upcoming Events,אירועים קרובים,
-Activity,פעילות,
-Add / Manage Email Accounts.,"הוספה / ניהול חשבונות דוא""ל.",
-Add Child,הוסף לילדים,
-Added {0} ({1}),הוסיף {0} ({1}),
-Address Line 1,שורת כתובת 1,
-Addresses,כתובות,
-All,כל,
-Brand,מותג,
-Browse,חפש ב,
-Cancelled,בוטל,
-Close,לסגור,
-Communication,תקשורת,
-Compact Item Print,הדפס פריט קומפקט,
-Company,חברה,
-Complete,לְהַשְׁלִים,
-Completed,הושלם,
-Continue,המשך,
-Country,מדינה,
-Currency,מטבע,
-Customize,התאמה אישית של,
-Daily,יומי,
-Date,תאריך,
-Dear,יקר,
-Default,ברירת מחדל,
-Delete,מחק,
-Description,תיאור,
-Designation,ייעוד,
-Disabled,נכים,
-Doctype,DOCTYPE,
-Download Template,תבנית להורדה,
-Dr,"ד""ר",
-Due Date,תאריך יעד,
-Duplicate,לשכפל,
-Edit Profile,ערוך פרופיל,
-Email,"דוא""ל",
-End Time,שעת סיום,
-Enter Value,הזן ערך,
-Error,שגיאה,
-Expired,פג תוקף,
-Export,יצוא,
-Export not allowed. You need {0} role to export.,יצוא אסור. אתה צריך {0} תפקיד ליצוא.,
-Field,שדה,
-File Manager,מנהל קבצים,
-Filters,מסננים,
-Get Items,קבל פריטים,
-Goal,מטרה,
-Group,קבוצה,
-Group Node,צומת קבוצה,
-Help,עזרה,
-Home,בית,
-Invite as User,הזמן כמשתמש,
-Loading...,Loading ...,
-Location,מיקום,
-Master,Master,
-Missing Values Required,ערכים חסרים חובה,
-Mobile No,נייד לא,
-Month,חודש,
-Name,שם,
-Newsletter,עלון,
-Not Allowed,לא מחמד,
-Note,הערה,
-Open,פתוח,
-Page {0} of {1},דף {0} של {1},
-Pay,שלם,
-Pending,ממתין ל,
-Phone,טלפון,
-Please click on the following link to set your new password,אנא לחץ על הקישור הבא כדי להגדיר את הסיסמה החדשה שלך,
-Please specify,אנא ציין,
-Printing,הדפסה,
-Priority,עדיפות,
-Project,פרויקט,
-Quarterly,הרבעונים,
-Queued,בתור,
-Quick Entry,כניסה מהירה,
-Reason,סיבה,
-Rename,שינוי שם,
-Reset,אִתחוּל,
-Room,חֶדֶר,
-Save,שמור,
-Search results for,תוצאות חיפוש עבור,
-Select All,בחר הכל,
-Send,שלח,
-Sending,שליחה,
-Set,הגדר,
-Setup,התקנה,
-Setup Wizard,אשף התקנה,
-Size,גודל,
-Start,התחל,
-Start Time,זמן התחלה,
-Status,סטטוס,
-Submitted,הוגש,
-Template,תבנית,
-Thursday,יום חמישי,
-Title,כותרת,
-Total,"סה""כ",
-Totals,סיכומים,
-Tuesday,יום שלישי,
-Type,סוג,
-Update,עדכון,
-User {0} is disabled,משתמש {0} אינו זמין,
-Users and Permissions,משתמשים והרשאות,
-View,נוֹף,
-Warehouse,מחסן,
-Year,שנה,
-Yearly,שנתי,
-You,אתה,
-You can also copy-paste this link in your browser,אתה יכול גם להעתיק ולהדביק את הקישור הזה בדפדפן שלך,
-and,ו,
-{0} Name,{0} שם,
-{0} is required,{0} נדרש,
-ALL,כל,
-Attach File,לצרף קובץ,
-CANCELLED,בוטל,
-Calendar,לוח שנה,
-Center,מרכז,
-Comments,תגובות,
-DRAFT,טיוטה,
-EMail,"דוא""ל",
-In,ב,
-JavaScript,Javascript,
-Left,עזב,
-Not Found,לא נמצא,
-Not Like,לא כמו,
-Refresh,רענן,
-Repeat,חזור,
-Right,תקין,
-Roles HTML,תפקידי HTML,
-Send Notification To,שלח הודעה ל,
-Tags,תגיות,
-Upload,העלאה,
-Your Email Address,"כתובת הדוא""ל שלך",
-Desktop,שולחן עבודה,
-Usage Info,מידע שימוש,
-Download Backups,גיבויים להורדה,
-Role Permissions Manager,מנהל הרשאות התפקיד,
-Download template,תבנית להורדה,
-Email Id,מזהה דוא&quot;ל,
-Email address,"כתובת דוא""ל",
-Ends on,מסתיים ב,
-Half-yearly,חצי שנתי,
-Hidden,מוסתר,
-Javascript,Javascript,
-No,לא,
-Not found,לא נמצא,
-Notify by email,להודיע באמצעות דוא&quot;ל,
-Permitted Documents For User,מסמכים מותרים למשתמש,
-Reference Docname,התייחסות DocName,
-Reference Doctype,DOCTYPE התייחסות,
-Reference name,שם התייחסות,
-Roles Html,תפקידי HTML,
-Select Doctype,DOCTYPE בחר,
-Sign up,להירשם,
-User Id,זיהוי משתמש,
-Yes,כן,
-Your email address,"כתובת הדוא""ל שלך",
-added,נוסף,
-added {0},הוסיף {0},
-barcode,ברקוד,
-beginning with,החל מ,
-bold,נועז,
-calendar,לוח שנה,
-center,מרכז,
-certificate,תעודה,
-check,בדוק,
-clear,ברור,
-comment,תגובה,
-comments,תגובות,
-created,נוצר,
-danger,סכנה,
-download,הורדה,
-edit,עריכה,
-file,קובץ,
-filter,מסנן,
-flag,דגל,
-font,גופן,
-forward,קדימה,
-home,בית,
-icon,אייקון,
-in,ב,
-inbox,תיבת הדואר הנכנס,
-left,עזב,
-like,כמו,
-link,קישור,
-list,רשימה,
-lock,לנעול,
-logged in,ביקור אחרון באתר,
-message,הודעה,
-module,מודול,
-move,מהלך,
-music,מוסיקה,
-new,חדש,
-not like,לא כמו,
-off,את,
-one of,אחד מ,
-page,דף,
-print,הדפסה,
-random,אקראי,
-refresh,רענן,
-remove,להסיר,
-response,תגובה,
-right,תקין,
-search,חיפוש,
-share,מניות,
-stop,להפסיק,
-success,הצלחה,
-tag,תג,
-tags,תגיות,
-tasks,משימות,
-time,זמן,
-trash,אשפה,
-upload,העלאה,
-user,משתמש,
-value,ערך,
-web link,קישור אינטרנט,
-Not permitted,לא מורשה,
-Percentage,אֲחוּזִים,
-Verified By,מאומת על ידי,
+Read,קרא
+Assignment Completed,המשימה הושלמה
+Communication,תקשורת
+Call,שיחה
+GMail,Gmail
+End Date,תאריך סיום
+Apply this rule if the User is the Owner,החל כלל זה אם המשתמש הוא הבעלים
+"Insert After field '{0}' mentioned in Custom Field '{1}', with label '{2}', does not exist","התוספת לאחר השדה {0} המצוינת בשדה המותאם אישית {1}, עם התגית {2} לא קיימת במערכת"
+Timeline DocType,ציר הזמן של סוג המסמך
+Assigned By,הוקצה על ידי
+Select All,בחר הכל
+"If a Role does not have access at Level 0, then higher levels are meaningless.","אם אין גישה לבעל התפקיד ברמה 0, אז גם לרמות גבוהות יותר אין חשיבות."
+Share With,שתף עם
+Department,מחלקה
+Sending,שליחה
+Name not set via Prompt,לא הוגדר שם באמצעות שורת הפקודה
+Amend,תקן
+1 hour ago,לפני שעה 1
+This format is used if country specific format is not found,פורמט זה משמש במקרה בו הפורמט הספציפי למדינה לא נמצא
+Medium,אמצעי
+Print Format,פורמט הדפסה
+SMTP Settings for outgoing emails,הגדרות פרוטוקול ה-SMTP עבור הודעות הדואר האלקטרוני היוצאות
+Private,פרטי
+Drag elements from the sidebar to add. Drag them back to trash.,גרור אלמנטים מהסרגל על מנת להוסיפם. גרור אותם בחזרה על מנת להשליך..
+Logout,התנתק
+Email Sent,ההודעה נשלחה
+Enable Auto Reply,אפשר מענה אוטומטי
+Send Alert On,שלח התראה ב
+"A new task, {0}, has been assigned to you by {1}. {2}",הוקצתה לך משימה חדשה {0} עלידי {1}. {2}
+Property Setter overrides a standard DocType or Field property,מגדיר הנכס דורס סוג מסמך סטנדרטי או את שדה הנכס
+or,או
+These values will be automatically updated in transactions and also will be useful to restrict permissions for this user on transactions containing these values.,ערכים אלו יתעדכנו באופן אוטומטי בעסקאות וגם יהיו שימושיים על מנת להגביל את ההרשאות למשתמש זה בעסקאות המכילות את הערכים הללו.
+Brand,מותג
+Edit HTML,ערוך HTML
+You can also copy-paste this link in your browser,תוכל בנוסף להעתיק ולהדביק את הקישור הזה בדפדפן שלך
+Time Zones,אזורי זמן
+User {0} cannot be renamed,לא ניתן לשנות את השם של המשתמש {0}
+Edit Profile,ערוך פרופיל
+play-circle,סמל הפעלה
+text-width,רוחב הטקסט
+Please set Dropbox access keys in your site config,נא הגדר מקשי גישה ל-dropbox בהגדרות התצורה של האתר
+Slideshow like display for the website,מצגת לתצוגה עבור אתר האינטרנט
+Welcome email sent,הודעת ברוכים הבאים נשלחה
+Bulk Edit {0},עריכה בכמות גדולה{0}
+If Owner,אם בעלים
+Auto Reply Message,הודעת תשובה אוטומטית
+Patch Log,תקן יומן
+Email By Document Field,שלח בדואר האלקטרוני על ידי שדה מסמך
+Assign To,הקצה ל
+Allow Delete,אפשר מחיקה
+{0}: Cannot set import as {1} is not importable,{0}: לא ניתן להגדיר ערך בשעה {1} הוא לא יביא
+{0}: Cannot set Import without Create,{0}: לא ניתן להגדיר יבוא ללא יצירת
+eye-open,עין-פתוחה
+Org History,ההיסטוריה של הארגון
+Failed,נכשל
+Preview HTML,התצוגה המקדימה של HTML
+{0}: Cannot set Assign Amend if not Submittable,{0}: לא ניתן להגדיר הקצאת תיקון אם לא הוא לא ניתן להגשה
+none of,אף אחד מ
+Only Administrator allowed to create Query / Script Reports,רק מנהל רשאי ליצור שאילתא / דוחות סקריפטים
+Link Name,שם קישור
+Contacts,פרטי קשר
+Hide Details,הסתר פרטים
+Website User,משתמש אתר
+Adding System Manager to this User as there must be atleast one System Manager,הוספת הרשאת מנהל מערכת למשתמש זה כיוון שחייב להיות מנהל מערכת אחד
+Desk,שולחן העבודה
+Progress,התקדמות
+random,אקראי
+Contact Email,דואר אלקטרוני ליצירת קשר
+"Dear System Manager,","מנהל מערכת יקר,"
+"Don't HTML Encode HTML tags like &lt;script&gt; or just characters like &lt; or &gt;, as they could be intentionally used in this field",אל תקדד ב-HTML תגיות HTML כגון 'סקריפט' או תווים כגון 'או' כיוון שניתן להשתמש בהם כך בתוך שדה זה
+Please try again,אנא נסה שנית
+Pyver,Pyver
+Cache Cleared,המטמון נוקה
+Image Field,שדה תמונה
+App Name,שם האפליקציה
+PDF,PDF
+Arial,Arial
+Allow on Submit,אפשר הגשה
+Primary,עיקרי
+Style Settings,הגדרות סגנון
+Please save before attaching.,אנא שמור לפני צירוף.
+Get Items,קבל פריטים
+{0} {1} not found,{0} {1} לא נמצא
+"Actions for workflow (e.g. Approve, Cancel).","פעולות לתהליכי העבודה (לדוגמא אישור, ביטול)."
+{0} created this {1},{0} נוצר זה {1}
+States,הברית
+Date,תאריך
+Documents,מסמכים
+Accounts Manager,מנהל חשבונות
+Document Queued,מסמך בתור
+Top Bar Items,פריטים בסרגל העליון
+Edit Filter,סינון עריכה
+Label is mandatory,יש להזין תווית
+File size exceeded the maximum allowed size of {0} MB,גודל קובץ חרג מהגודל המרבי המותר {0} MB
+"DocType's name should start with a letter and it can only consist of letters, numbers, spaces and underscores","שמו של סוג הקובץ צריך להתחיל באות והוא יכול להכיל רק אותיות, מספרים, רווחים וסימני קו תחתון"
+SMTP Server,שרת SMTP
+Select a DocType to make a new format,בחר סוג מסמך על מנת ליצור פורמט חדש
+Details,פרטים
+Main Section,החלק העיקרי
+Standard Reports,דוחות סטנדרטיים
+Add a New Role,הוסף תפקיד חדש
+Password reset instructions have been sent to your email,הוראות לשינו הסיסמא נשלחו לתיבת הדואר האלקטרוני שלך
+text-height,גובה הטקסט
+align-justify,יישר לשני הצדדים
+Timeline Field,שדה ציר הזמן
+Password,סיסמא
+Incorrect value: {0} must be {1} {2},ערך שגוי: {0} חייב להיות {1} {2}
+Totals,סכומים
+"Enter default value fields (keys) and values. If you add multiple values for a field, the first one will be picked. These defaults are also used to set ""match"" permission rules. To see list of fields, go to ""Customize Form"".","הזן שדות ערך ברירת מחדל (מקשים) וערכים. אם תוסיף ערכים מרובים עבור שדה אחד, הראשון מביניהם ייבחר. ברירות מחדל אלה משמשים גם לקביעת כללי 'התאמת' אישור. כדי לראות את רשימת השדות, עבוא ל'טופס מותאם אישית'."
+Request Timed Out,תם זמן הבקשה
+Maximum Attachment Limit for this record reached.,הגעת לממגבלה המקסימלית של צרופות לרשומה זו.
+Sent or Received,נשלח או התקבל
+Low,נמוך
+Complete Registration,השלם רישום
+Select Role,בחר תפקיד
+Export not allowed. You need {0} role to export.,לא ניתן לייצא. עליך להיות בתפקיד {0} על מנת לייצא.
+{app_title},{כותרת_היישום}
+Permission Rules,כללי אישור
+Add all roles,הוסף את כל התפקידים
+DocType or Field,סוג מסמך או שדה
+Stop,הפסק
+Name cannot contain special characters like {0},שם אינו יכול להכיל תווים מיוחדים כגון {0}
+Unable to update event,לא ניתן לעדכן את האירוע
+Home/Test Folder 1/Test Folder 3,בית/תיקיית ניסיון 1/תיקיית ניסיון 3
+Submit an Issue,הגש הנפקה
+Inverse,הפוך
+Links,קישורים
+Invalid Link,קישור לא חוקי
+Warning,אזהרה
+Comment Type,סוג התגובה
+You can add dynamic properties from the document by using Jinja templating.,תוכל להוסיף תכונות דינמיות מהמסמך באמצעות תבנית ג'ינג'ה.
+There is some problem with the file url: {0},יש בעיה עם כתובת הקובץ: {0}
+Collapsible,פריק
+Web Link,קישור אינטרנט
+Print Format Help,עזרה בשימוש פורמט הדפסה
+Beginning with,החל מ
+"If you are uploading new records, leave the ""name"" (ID) column blank.","אם אתה מעלה רשומות חדשות, השאר את עמודת 'שם' ריקה(ID)."
+Select Document Type or Role to start.,בחר את סוג המסמך או התפקיד על מנת להתחיל.
+Text Align,יישור טקסט
+Payments,תשלומים
+Allocated To,הוקצה ל
+Logged in,מחובר
+New Custom Print Format,פורמט הדפסה מותאם אישית חדש
+Perm Level,רמה הרשאות
+Your organization name and address for the email footer.,"שמך, שם הארגון, וכתובת לכותרת תחתונה בדואר האלקטרוני."
+Fraction Units,תת יחידה של המטבע
+"""Team Members"" or ""Management""",'חברי צוות' או 'ניהול'
+For top bar,לסרגל העליון
+The Condition '{0}' is invalid,התנאי '{0}' אינו חוקי
+Portal Menu,תפריט פורטל
+Notification,התראה
+"Check columns to select, drag to set order.","סמן עמודות כדי לבחור, גרור להגדיר הזמנה."
+This email was sent to {0} and copied to {1},האימייל הזה נשלח ל-{0} ונשלח גם עותק ל-{1}
+Use IMAP,IMAPהשתמש ב-
+"""Parent"" signifies the parent table in which this row must be added",'אב' מסמל את טבלת האב שבה יש להוסיף את השורה הזו
+Repeat Till,חזור עד
+Edit Properties,ערוך מאפיינים
+There were errors while sending email. Please try again.,היו שגיאות בעת שליחת דואר אלקטרוני. אנא נסה שוב.
+Repeat this Event,חזור על אירוע זה
+Postal Code,מיקוד
+Landing Page,דף נחיתה
+Unable to find attachment {0},לא ניתן למצוא את הקובץ המצורף {0}
+You need write permission to rename,יש צורך בהרשאת כתיבה על מנת לשנות את השם
+old_parent,מקור_ישן
+Is Your Company Address,האם כתובת החברה שלך
+Attached To DocType,מצורף לסוג המסמך
+Inbox,תיבת הדואר הנכנס
+"Field that represents the Workflow State of the transaction (if field is not present, a new hidden Custom Field will be created)","שדה שמייצג את מצב זרימת העבודה של העסקה (אם השדה אינו מוצג, יווצר שדה מותאם אישית נסתר חדש)"
+Assigned,הוקצה
+Single Post (article).,הודעה אחת (מאמר).
+"To add dynamic subject, use jinja tags like <div><pre><code>{{ doc.name }} Delivered</code></pre></div>","כדי להוסיף נושא דינמי, להשתמש בתגיות ג'ינג'ה כגון'div style=;text-align:right;direction:rtl' 'pre style='text-align:right;direction:rtl' 'code'{{ doc.name }} Delivered'/code' '/pre' '/div'"
+Drag and Drop tool to build and customize Print Formats.,גרור ושחרר כלי על מנת לבנות ולהתאים אישית את תבניות הדפסה.
+No permission to '{0}' {1},אין הרשאות ל'{0}'{1}
+Birth Date,תאריך לידה
+Amending,מתקן
+Must specify a Query to run,יש לציין שאילתה על מנת להריץ
+If user is the owner,אם המשתמש הוא הבעלים
+Message Examples,דוגמאות להודעה
+List a document type,רשום את סוג המסמך
+Assignment,משימה
+Last Modified By,השתנה לאחרונה על ידי
+User Roles,תפקידי המשתמש
+Defines workflow states and rules for a document.,מגדיר מצב זרימת עבודה וכללים למסמך.
+**Currency** Master,אשף ה**מטבע**
+Contact Us Settings,הגדרות צור קשר
+Total,סך
+module name...,שם מודול ...
+"Select target = ""_blank"" to open in a new page.",בחר יעד = 'דף ריק' לפתיחה בדף חדש.
+In Filter,במסנן
+Set User Permissions,הגדר הרשאות משתמש
+"The application has been updated to a new version, please refresh this page","היישום עודכן לגרסה חדשה, אנא רענן דף זה"
+"You need to have ""Share"" permission",תצטרך הרשאות 'שיתוף'
+Ref DocType,הפניה ל-DOCTYPE
+Archived,נשמר בארכיון
+Is Private,האם פרטי
+Standard,סטנדרטי
+Enter Form Type,הזן את סוג הטופס
+Domain,תחום
+italic,נטוי
+Error Snapshot,תמונת מצב שגיאה
+JSON,JSON
+"Set default format, page size, print style etc.","הגדר כברירת מחדל, פורמט, גודל עמוד, סגנון הדפסה וכו"
+"Once you have set this, the users will only be able access documents (eg. Blog Post) where the link exists (eg. Blogger).","ברגע שהגדרת זאת, למשתמשים יהיה גישה רק למסמכים (לדוגמא. פוסט בבלוג) שבהם יש קישור קיים (לדוגמא. בלוגר)."
+This field will appear only if the fieldname defined here has value OR the rules are true (examples): myfield eval:doc.myfield=='My Value' eval:doc.age&gt;18,שדה זה יופיע רק אם לשם השדה המוגדר כאן יש ערך או כללים נכונים (הנה מספר דוגמאות): myfield eval: doc.myfield == 'ערך שלי&' eval: doc.age' 18
+Select Columns,בחר עמודות
+URL,כתובת האתר
+City/Town,עיר / יישוב
+Font Size,גודל גופן
+Newsletter Manager,מנהל הניוזלטר
+Check,בדוק
+This role update User Permissions for a user,בעל תפקיד זה עדכן את הרשאות המשתמש למשתמש
+Tree view not available for {0},תצוגת עץ אינה זמינה עבור {0}
+Default Incoming,הכנסות המוגדרות כברירת מחדל
+Snapshot View,צלם תצוגה
+Edit Format,ערוך פורמט
+Ends on,מסתיים ב
+"Repeats like ""aaa"" are easy to guess",חזרות כמו 'aaa' קלות לניחוש
+Print Hide If No Value,הסתר הדפסה אם אין ערך
+You are not allowed to send emails related to this document,אין באפשרותך לשלוח מיילים הקשורים למסמך זה
+Change Password,שנה סיסמא
+Test Runner,מריץ הבדיקות
+Please enter the password,נא הזן את הסיסמה
+Send Notification to,שלח התראה ל
+"Show title in browser window as ""Prefix - title""",הצג בחלון הדפדפן כותרת כמו 'קידומת - כותרת'
+Source,מקור
+Soft-Bounced,המייל לא הגיע ליעדו
+Property,נכס
+Event and other calendars.,אירועים ולוחות שנה נוספים.
+Repeat On,חזור ב
+Setup Wizard,אשף התקנה
+{0}: Permission at level 0 must be set before higher levels are set,{0}: חייב להיות אישור מוגדר לרמה 0 לפני שניתן להגדיר רמות גבוהות יותר
+Further nodes can be only created under 'Group' type nodes,ניתן ליצור ישויות נוספות רק תחת ישות מסוג 'קבוצה'
+Tag,תג
+Permanently Cancel {0}?,האם לבטל באופן קבוע את {0}?
+Advanced Search,חיפוש מתקדם
+Half Yearly,חצי שנתי
+Attached To Name,מצורף לשם
+No Data,אין נתונים
+Eg. smsgateway.com/api/send_sms.cgi,לדוגמא. smsgateway.com/api/send_sms.cgi
+1 minute ago,לפני דקה 1
+Shop,חנות
+"For Links, enter the DocType as range. For Select, enter list of Options, each on a new line.","לקישורים, הזינו את ה-DOCTYPE כטווח. לבחירה, הזינו רשימה של אפשרויות, כל אחד מהם בשורה חדשה."
+Content Type,סוג תוכן
+ban-circle,תמרור איסור
+Session Expiry,פג תוקף הפעלה
+just now,עכשיו
+Client side script extensions in Javascript,הרחבות סקריפט צד לקוח ב-Javascript
+Invalid login or password,התחברות או סיסמא לא חוקיות
+Letter Head,נייר מכתבים
+Brand HTML,ציין HTML
+Workflow State,מצב זרימת עבודה
+Left,עזב
+Weekly,שבועי
+text in document type,טקסט בסוג המסמך
+chevron-right,שברון ימינה
+bookmark,סימנייה
+Set,הגדר
+Can't identify open {0}. Try something else.,אין אפשרות לזהות פתיחה {0}. נסה משהו אחר.
+Task Name,שם המשימה
+Purchase Manager,מנהל רכש
+Parent Label,תווית מקור
+Fieldname not set for Custom Field,שם השדה לא הוגדר כשדה מותאם אישית
+Login Id is required,מזהה כניסה נדרש
+Quarterly,רבעוני
+Most Used,בשימוש נפוץ
+Shipping,משלוח
+Log of error during requests.,יומן השגיאות במהלך בקשה.
+To,ל
+Option 3,אפשרות 3
+Gantt,גאנט
+You are not allowed to print this report,אינך רשאי להדפיס דוח זה
+Setup,התקנה
+Adds a custom field to a DocType,מוסיף שדה מותאם אישית לDOCTYPE
+Email,דואר אלקטרוני
+Previous,קודם
+Label and Type,תווית וסוג
+Blue,כחול
+Port,כניסה
+Mandatory:,חובה:
+Subdomain,תחום משנה
+Cannot edit cancelled document,לא ניתן לערוך מסמך שבוטל
+Settings,הגדרות
+Log of error on automated events (scheduler).,יומן רישום לשגיאות באירועים אוטומטיים (מתזמן).
+Modules HTML,מודולים ל-HTML
+In points. Default is 9.,בנקודות. ברירת המחדל היא 9.
+Please Duplicate this Website Theme to customize.,אנא שכפל נושא אתר זה כדי להתאים אישית.
+Traceback,עקוב
+one of,אחד מ
+Write,לכתוב
+Categorize blog posts.,סווג פוסטים מהבלוג.
+Letter Head in HTML,נייר מכתבים ב- HTML
+Test,מבחן
+Query Report,דוח שאילתות
+Saving,שמירה
+{0}: Cannot set Cancel without Submit,{0}: לא ניתן להגדיר ביטול ללא הגשה
+Route,מסלול
+Verify,אמת
+Scheduler Last Event,מתזמן את האירוע האחרון
+You do not have enough permissions to access this resource. Please contact your manager to get access.,אין לך מספיק הרשאות כדי לגשת למשאב זה. צור קשר עם המנהל שלך כדי לקבל גישה.
+Default Letter Head,נייר מכתבים המוגדר כברירת מחדל
+Insert Above,הכנס מעל
+Password Updated,הסיסמא עודכנה
+Footer Items,פריטים בכותרת התחתונה
+Year,שנה
+Only mandatory fields are necessary for new records. You can delete non-mandatory columns if you wish.,"רק שדות חובה נחוצים לרשומות חדשות. אם תרצה, תוכל למחוק את העמודות שאינן חובה."
+New value to be set,ערך חדש להגדרה
+Note: Multiple sessions will be allowed in case of mobile device,הערה: מספר הפעלות תתאפשר במקרה של מכשיר נייד
+Send alert if date matches this field's value,שלח התראה אם התאריך מתאים לערך השדה הזה
+Attach Your Picture,צרף תמונה שלך
+Group Label,כינוי הקבוצה
+Web Page Link Text,טקסט קישור לדף האינטרנט
+Try to avoid repeated words and characters,נסה להימנע מילות חוזרות ותווים חוזקים
+Fieldtype,סוג השדה
+Workflow Name,שם זרימת עבודה
+Last Updated By,עדכון לאחרונה על ידי
+You need to be in developer mode to edit a Standard Web Form,אתה צריך להיות במצב מפתחים על מנת לערוך טופס אינטרנט רגיל
+If non standard port (e.g. 587),אם יציאה לא סטנדרטית (לדוגמא 587)
+Slideshow Name,שם מצגת
+Theme,נושא
+Cannot delete standard field. You can hide it if you want,לא ניתן למחוק את השדה הסטנדרטי. תוכל להסתיר אותו אם תרצה
+Reset Password Key,מפתח לאיפוס סיסמא
+Relapsed,הוחזר
+You,אתה
+The first user will become the System Manager (you can change this later).,המשתמש הראשון יהפוך להיות מנהל המערכת (תוכל לשנות זאת בהמשך).
+road,כביש
+This form does not have any input,לטופס זה אין קלט
+Cancelling,מבטל
+Customize Form Field,שדה טופס בהתאמה אישית
+Third Party Authentication,אימות צד שלישי
+Update Value,עדכן ערך
+Editing Row,עורך שורה
+No Results,אין תוצאות
+Refresh Form,רענן טופס
+Receiver Parameter,פרמטרים למקבל
+Workflow state represents the current state of a document.,מצב זרימת העבודה מייצג את המצב הנוכחי של מסמך.
+Report Builder reports are managed directly by the report builder. Nothing to do.,דיווחי בונה הדוחות מנוהלים ישירות על ידי בונה הדוחות. אין מה לעשות בנידון.
+Completed,הושלם
+Address Template,תבנית כתובת
+Not allowed to change {0} after submission,אסור לשנות {0} לאחר הגשה
+Comment,תגובה
+Add,הוסף
+Please do not change the rows above {0},נא לא לשנות את השורות מעל {0}
+Web Form Field,שדה טופס אינטרנטי
+Company Name,שם חברה
+Start Date,תאריך ההתחלה
+Query must be a SELECT,שאילתא חייבת להיות SELECT
+Password not found,סיסמה לא נמצאה
+More,עוד
+"You can change Submitted documents by cancelling them and then, amending them.",ניתן לשנות מסמכים שהוגשו אם תבטלו אותם ואז תתקנו אותם.
+Gender,מין
+Field {0} is not selectable.,שדה {0} הוא לא לבחירה.
+Customize,התאמה אישית
+Enter Email Recipient(s),הזן נמען/ים לדואר אלקטרוני
+Background Workers,עובדי רקע
+Please duplicate this to make changes,אנא שכפל זאת על מנת לבצע שינויים
+Added,נוסף
+Maximum {0} rows allowed,מותר להזין עד {0} שורות
+Banner HTML,באנר HTML
+Custom?,מותאם אישית?
+Name of the Document Type (DocType) you want this field to be linked to. e.g. Customer,שמו של סוג המסמך (DOCTYPE) דף זה צריךלהיות מקושר. לדוגמהף ללקוחות
+Delivery Status,סטטוס משלוח
+Public,ציבורי
+Widths can be set in px or %.,ניתן להגדיר רוחב בpx או%.
+Desktop Icon,סמל שולחן העבודה
+Allow Comments,אפשר הערות
+Copyright,כל הזכויות שמורות
+{0} logged in,{0} מחובר
+Document is only editable by users of role,המסמך ניתן לעריכה רק על ידי משתמשים בעלי תפקיד
+Setting this Address Template as default as there is no other default,מגדיר תבנית כתובת זו כברירת מחדל כיוון שאין ברירת מחדל אחרת
+To Do,לעשות
+{0} minutes ago,לפני {0} דקות
+star-empty,כוכב ריק
+arrow-up,חץ למעלה
+Use TLS,TLSב- השתמש
+Phone,טלפון
+Role Permissions,הרשאות תפקיד
+Add Column,הוסף עמודה
+{0} must be one of {1},{0} חייב להיות אחד {1}
+Dr,DR
+Home Page,דף הבית
+Print Hide,הסתר הדפסה
+Cannot delete {0} as it has child nodes,לא יכול למחוק את {0} שכן יש לו תתי-ישויות
+_doctype,_doctype
+View Properties (via Customize Form),הצג נכסים (באמצעות טופס התאמה אישית)
+Workflow Action,פעולה בזרימת עבודה
+Assignment Complete,המשימה הושלמה
+Tasks,משימות
+Transition Rules,כללי מעבר
+CSS,CSS
+Is Mandatory Field,האם שדה חובה
+Both DocType and Name required,DOCTYPE ושם נדרשים
+Yes,כן
+System and Website Users,משתמשי מערכת ואתר
+minus,מינוס
+Select,בחר
+Run scheduled jobs only if checked,הפעל עבודות מתוכננות רק אם נבדקו
+No {0} permission,אין {0} הרשאות
+FavIcon,Favicon
+Block Module,מודול ריק
+Billing,חיוב
+User {0} cannot be deleted,לא ניתן למחוק את משתמש {0}
+Workflow Transition,מעבר זרימת עבודה
+Text to be displayed for Link to Web Page if this form has a web page. Link route will be automatically generated based on `page_name` and `parent_website_route`,טקסט שיוצג לקישור לדף אינטרנט אם לטופס זה יש דף אינטרנט. מסלול קישור יהיה באופן אוטומטי המבוסס על 'שם_הדף' ו'נתיב_מקור_של_האתר'
+Male,זכר
+Send Welcome Email,שלח הודעת ברוכים הבאים
+Custom Format,פורמט מותאם אישית
+Portal,פורטל
+"Apart from System Manager, roles with Set User Permissions right can set permissions for other users for that Document Type.","מלבד מנהל מערכת, תפקידים עם הרשאות משתמש מוגדרות יכולים להגדיר הרשאות למשתמשים אחרים עבור סוג מסמך זה."
+Ctrl + Down,Ctrl + Down
+Send document web view link in email,שלח קישור למסמך תצוגת אינטרנט דרך הדואר האלקטרוני
+Owner,בעלים
+Page {0} of {1},דף {0} של {1}
+Cancelled,בוטל
+Did not add,לא להוסיף
+No template found at path: {0},לא נמצאה תבנית בנתיב: {0}
+Open Link,פתח קישור
+Region,אזור
+Index,מדד
+repeat,חזור
+Female,נקבה
+Pages in Desk (place holders),דפים בשולחן העבודה (תופסים מקום)
+Module Not Found,מודול לא נמצא
+Please enable pop-ups,אנא אפשר חלונות קופצים
+First Name,שם פרטי
+Internal record of document shares,תיעוד פנימי של שיתוף המסמך
+Page Name,שם הדף
+Re:,Re:
+Hide Copy,עותק מוסתר
+Monthly,חודשי
+Purchase Master Manager,מנהל רכש
+Cannot cancel before submitting. See Transition {0},לא ניתן לבטל לפני הגשה. ראה מעבר {0}
+Max 500 records at a time,לא ניתן לעדכן יותר מ-500 רשומות בבת אחת
+Method,שיטה
+Email Group,קבוצת דואר אלקטרוני
+Modules,מודולים
+Forgot Password?,שכחת את הסיסמא?
+Actions,פעולות
+Please do not change the template headings.,נא לא לשנות את כותרות התבנית.
+Notify if unreplied for (in mins),נא להודיע אם לא התקבלה תגובה ל-(בדקות)
+Category,קָטֵגוֹרִיָה
+Hide Footer Signup,הסתר חתימה בכותרת התחתונה
+Room,חדר
+Notify by Email,העבר הודעה בדואר האלקטרוני
+System User,משתמש מערכת
+Text Editor,עורך הטקסט
+File '{0}' not found,הקובץ '{0}' לא נמצא במערכת
+Old Password,סיסמא ישנה
+hand-right,צד ימין
+Export,ייצא
+Please make sure that there are no empty columns in the file.,אנא ודא שאין עמודות ריקות בקובץ.
+Open a module or tool,פתח מודול או כלי
+Value missing for,חסר ערך ל
+Add New Permission Rule,הוסף כלל הרשאות חדש
+updated to {0},עודכן ל- {0}
+Timeline field must be a Link or Dynamic Link,שדה ציר הזמן חייב להיות קישור או קישור דינמי
+Pay,שלם
+"e.g. ""Support"",""Sales"",""Jerry Yang""","לדוגמה: 'תמיכה' ,'מכירות' ,'ג'רי יאנג'"
+Merging is only possible between Group-to-Group or Leaf Node-to-Leaf Node,ניתן למזג רק בין קבוצה לקבוצה או ישות קצה לישות קצה
+Default for {0} must be an option,ברירת מחדל עבור {0} חייב להיות אופציה
+HTML for header section. Optional,HTML למקטע הכותרת. אופציונאלי
+Standard roles cannot be disabled,תפקידים רגילים לא יכולים להיות חסומים
+{0} has left the conversation in {1} {2},{0} עזב את השיחה ב {1} {2}
+Please refresh to get the latest document.,אנא רענן כדי לקבל את המסמך האחרון.
+Format Data,פורמט הנתונים
+Please click on the following link to set your new password,אנא לחץ על הקישור הבא כדי להגדיר את הסיסמה החדשה שלך
+Page not found,דף לא נמצא
+Set Password,הגדר סיסמא
+Script to attach to all web pages.,סקריפט לצירוף לכל דפי האינטרנט.
+Condition,תנאי
+Try to use a longer keyboard pattern with more turns,נסה להשתמש בדפוס מקלדת עם גיוון רב יותר
+Select an existing format to edit or start a new format.,בחר בפורמט קיים כדי לערוך או צור פורמט חדש.
+List of backups available for download,רשימה של גיבויים זמינים להורדה
+Created,נוצר
+{0} is mandatory,יש להזין את {0}
+"States for workflow (e.g. Draft, Approved, Cancelled).","מצבים לזרימת העבודה (לדוגמה טיוטה, אושר, בוטל)."
+Filter...,סנן ...
+Append To can be one of {0},'צרף ל' יכול להיות אחד מ-{0}
+Daily Event Digest is sent for Calendar Events where reminders are set.,לקט אירועים יומי נשלח ליומן האירועים והוגדרו שם תזכורות.
+Cannot map because following condition fails:,לא ניתן למפות בגלל שהתנאי הבא נכשל:
+Blog Title,כותרת בלוג
+remove,הסר
+Permissions at higher levels are Field Level permissions. All Fields have a Permission Level set against them and the rules defined at that permissions apply to the field. This is useful in case you want to hide or make certain field read-only for certain Roles.,הרשאות ברמות גבוהות יותר הן הרשאות ברמת השדה. לכל השדות מוגדרת רמת הרשאה למולם וכללים שהוגדרו לחול על השדה. דבר זה שימושי במקרה שתרצה להסתיר או להגדיר שדה מסוים לקריאה בלבד לבעלי תפקידים מסוימים.
+Are you sure you want to delete the attachment?,האם אתה בטוח שאתה רוצה למחוק את הקובץ המצורף?
+Duplicate name {0} {1},שכפל את השם {0} {1}
+Set Quantity,הגדר כמות
+Add custom forms.,הוסף טפסים מותאמים אישית.
+Percent,אחוזים
+Assign to me,הקצה לי
+Update many values at one time.,עדכון ערכים רבים בבת אחת.
+Permanently Submit {0}?,{0} מוגש באופן קבוע?
+envelope,מעטפה
+Sample,דוגמה
+In,ב
+Activity Log,יומן פעילות
+heart,לב
+Download with data,הורד עם נתונים
+"Your query has been received. We will reply back shortly. If you have any additional information, please reply to this mail.","השאילתה שלך התקבלה. אנחנו נשיב לך תוך זמן קצר. אם תרצה מידע נוסף, אנא השב למייל זה."
+Settings for Contact Us Page,הגדרות לדף צרו קשר
+Password cannot be more than 100 characters long,סיסמא לא יכולה להיות ארוכה יותר מ -100 תווים
+Delete,מחק
+User ID,מזהה משתמש
+PDF generation failed because of broken image links,יצירת ה-PDF נכשלה בגלל קישורי תמונה שבורים
+Shared with {0},משותף עם {0}
+{0} {1} already exists,{0} {1} כבר קיים
+Item cannot be added to its own descendents,לא ניתן להוסיף פריט לפריטי הבת שלו
+New Report name,שם דוח חדש
+"Enter static url parameters here (Eg. sender=ERPNext, username=ERPNext, password=1234 etc.)","הזן את הפרמטרים של הכתובת הסטטית כאן (לדוגמא. שולח = ERPNext, שם משתמש = ERPNext,סיסמא = 1234 וכו)"
+Bulk Rename,שינוי שם גורף
+File Name,שם קובץ
+align-right,יישור לימין
+Commented on {0}: {1},תגובות על {0}: {1}
+Print with letterhead,הדפס עם נייר מכתבים
+Dates are often easy to guess.,לעתים קרובות קל לנחש תאריכים.
+Fields,שדות
+File URL,כתובת הקובץ
+A word by itself is easy to guess.,קל לנחש מילה בפני עצמה.
+Total Subscribers,סך כל המנויים
+"Select your Country, Time Zone and Currency","בחר את המדינה בה אתה נמצא, אזור הזמן ומטבע"
+Select Languages,בחר שפה
+Add Another Comment,הוסף עוד הערה
+View,הצג
+Days Before or After,ימים לפני או אחרי
+"Please enter both your email and message so that we \ 				can get back to you. Thanks!",אנא הזן את ההודעת שלך ואת כתובת הדואר האלקטרוני ונוכל לחזור אליך. תודה!
+"If these instructions where not helpful, please add in your suggestions on GitHub Issues.","אם הוראות אלו לא היו מועילות, אנא הוסף את ההצעות שלך בפרסומי ה-GitHub."
+pencil,עיפרון
+You can only upload upto 5000 records in one go. (may be less in some cases),אתה יכול רק להעלות upto 5000 רשומות במכה אחת. (יכול להיות פחות במקרים מסוימים)
+th-large,th-large
+Column,עמודה
+Redirect URL,כתובת אתר להפניה מחדש
+Fold,מקפלים
+Milestone,אבן דרך
+Report was not saved (there were errors),הדוח לא נשמר (כיוון שהיו בו טעויות)
+Check which Documents are readable by a User,בדוק מהם המסמכים הניתנים לקריאה על ידי המשתמש
+Applicable For,ישים ל
+You have unsaved changes in this form. Please save before you continue.,ישנם שינויים שלא נשמרו בטופס זה. אנא שמור לפני שתמשיך.
+Address and other legal information you may want to put in the footer.,כתובת ומידע משפטי נוסף שייתכן ותרצה להוסיף בכותרת התחתונה.
+Please select a valid csv file with data,אנא בחר קובץ CSV תקף עם נתונים
+Email Account,חשבון דואר אלקטרוני
+Allow Print for Cancelled,אפשר הדפסה עבור מסמך שבוטל
+Group,קבוצה
+You need to be logged in to access this {0}.,אתה צריך להיות מחובר כדי לגשת ל-{0}.
+Send days before or after the reference date,שלח הודעה מספר ימים לפני או אחרי תאריך היעד
+Embed image slideshows in website pages.,שבץ תמונות מתחלפות בעמודי האתר.
+Domains,תחומים
+e.g. replies@yourcomany.com. All replies will come to this inbox.,למשל replies@yourcomany.com. כל התשובות יגיעו לתיבת דואר נכנסת זאת.
+"target = ""_blank""",יעד = 'ריק;
+Print,הדפס
+Settings for Contact Us Page.,הגדרות לדף צרו קשר.
+{0} subscribers added,{0} מנויים נוספו
+Next State,המצב הבא
+State,מצב
+Symbol,סמל
+"Add the name of a ""Google Web Font"" e.g. ""Open Sans""",הוסף את שמו של 'Google Web Font' למשל 'Open Sans'
+Invalid Token,מפתח לא חוקי
+Invalid User Name or Support Password. Please rectify and try again.,שם משתמש או סיסמת תמיכה לא חוקיים. אנא תקן ונסה שנית.
+Security,אבטחה
+Allowed,מאושר
+Search results for,תוצאות חיפוש עבור
+Default Inbox,תיבת הדואר הנכנס המוגדרת כברירת מחדל
+Due Date,תאריך יעד
+Saved,נשמר
+Enable Outgoing,אפשר דואר יוצא
+Email ID,מזהה דואר אלקטרוני
+Continue,המשך
+"On {0}, {1} wrote:","על {0}, {1} כתב:"
+Not in Developer Mode,לא במצב מפתחים
+Misc,Misc
+bullhorn,מגאפון
+Currency Name,שם המטבע
+Last Updated On,עודכן לאחרונה ב
+Single Types have only one record no tables associated. Values are stored in tabSingles,לסוגים בודדים יש רק רשומה אחת ללא טבלה. הערכים נשמרים ב-tabSingles
+User Cannot Search,משתמש לא יכול חפש
+resize-small,גודל חדש-קטן
+"document type..., e.g. customer","סוג מסמך ..., לדוגמה לקוח"
+Cannot open instance when its {0} is open,"לא יכול לפתוח, לדוגמה כאשר {0} פתוח"
+Portal Settings,הגדרות פורטל
+Confirm,אשר
+"If you are uploading new records,""Naming Series"" becomes mandatory, if present.","אם אתה מעלה רשומות חדשות, הקטגוריה 'שמות סדרה' נדרשת, אם היא קיימת."
+Or login with,או התחבר עם
+Custom Reports,דוחות מותאמים אישית
+Participants,משתתפים
+Permissions,הרשאות
+Error Report,דוח שגיאות
+Submitting,מגיש
+'In List View' not allowed for type {0} in row {1},הקטגוריה 'ברשימת צפייה' אינה חוקית עבור הסוג {0} בשורה {1}
+Is Custom Field,האם שדה מותאם אישית
+{0} un-shared this document with {1},{0} ביטל שיתוף מסמך זה עם {1}
+Workflow will start after saving.,זרימת העבודה תתחיל לאחר השמירה.
+Standard roles cannot be renamed,לא ניתן לשנות את שמות התפקידים סטנדרטיים
+"Default: ""Contact Us""",ברירת מחדל: 'צור קשר'
+Warehouse,מחסן
+Link to the page you want to open. Leave blank if you want to make it a group parent.,קישור לדף שברצונך לפתוח. השאר ריק אם אתה רוצה להפוך אותו לקבוצת אב.
+Sort Field,מיין שדה
+Replied,התקבלה תגובה
+About Us Team Member,אודות חברי הצוות
+"Customize Label, Print Hide, Default etc.","התאמה אישית של תוויות, Print Hide, ברירת מחדל וכו '"
+Rules defining transition of state in the workflow.,כללים המגדירים מעבר מצבים בזרימת העבודה.
+Number Format,פורמט המספר
+Goal,מטרה
+Not active,לא פעיל
+Office,משרד
+Send,שלח
+Upload,העלה
+Depends On,תלוי ב
+Section Break,מעבר מקטע
+Label Help,עזרה בשימוש בתוויות
+Workflow,זרימת עבודה
+minus-sign,סימן מינוס
+shopping-cart,עגלת קניות
+Avoid years that are associated with you.,הימנע משנים המקושרות אליך.
+Hidden,מוסתר
+Permissions get applied on Users based on what Roles they are assigned.,הרשאות חלות על משתמשים על סמך התפקיד לו הם מוקצים.
+off,כבוי
+Posts filed under {0},פוסטים מקוטלגים תחת {0}
+Cannot delete Home and Attachments folders,לא ניתן למחוק את דף הבית והתיקיות המצורפות לו
+Access Token,מפתח גישה
+Disable Report,חסום דוח
+Letter Head Name,שם נייר המכתבים
+fast-backward,זז במהירות
+No file attached,אין קובץ המצורף
+No alerts for today,אין התראות להיום
+Reset Password,איפוס סיסמה
+Created By,נוצר על-ידי
+Table,שולחן
+indent-right,הזחה לימין
+step-backward,החזר אחורה
+"Append as communication against this DocType (must have fields,""Status"",""Subject"")",צרף כתקשורת למול ה-DOCTYPE הזה (חייב לכלול את השדות 'סטטוס' ו-'נושא')
+Shared With,משותף עם
+It is risky to delete this file: {0}. Please contact your System Manager.,מסוכן למחוק קובץ זה: {0}. אנא צור קשר עם מנהל המערכת שלך.
+Add Google Analytics ID: eg. UA-89XXX57-1. Please search help on Google Analytics for more information.,הוספת זיהוי של Google Analytics: למשל. UA-89XXX57-1. אנא חפש עזרה ב- Google Analytics לקבלת מידע נוסף.
+Width,רוחב
+Content,תוכן
+Linked With,מקושר עם
+Reports,דוחות
+Removed {0},הוסר {0}
+Frequency,תדירות
+Please attach a file first.,נא לצרף קובץ.
+asterisk,כוכבית
+dd.mm.yyyy,dd.mm.yyyy
+Title,כותרת
+Javascript,Javascript
+{0} are currently viewing this document,{0} צופה כרגע במסמך זה
+Global Unsubscribe,ביטול מנוי כללי
+Not Found,לא נמצא
+Parameter,פרמטר
+Sorry! Sharing with Website User is prohibited.,מצטערים! שיתוף עם משתמש אתר הינו אסור.
+Enter your password,הכנס את הסיסמה שלך
+Query Options,אפשרויות שאילתא
+Attachments,קבצים מצורפים
+Action,פעולה
+Permission Level,רמת הרשאה
+Website Slideshow Item,פריט במצגת האתר
+barcode,ברקוד
+Chat,צ'אט
+Highlight,גולת כותרת
+"Description for listing page, in plain text, only a couple of lines. (max 140 characters)","תיאור לדף הרישום, בטקסט רגיל, רק כמה שורות. (לא יותר מ-140 תווים)"
+Send Notifications To,שלח התראות ל
+Monospace,רווח בודד
+Next actions,הפעולות הבאות
+Invalid Home Page,דף בית לא חוקי
+Project,פרויקט
+Email Unsubscribe,לא מנוי לדואר האלקטרוני
+Action Failed,הפעולה נכשלה
+plus-sign,סימן פלוס
+Could not connect to outgoing email server,לא ניתן להתחבר לשרת הדואר האלקטרוני היוצא
+Upcoming Events for Today,אירועים להיום
+arrow-left,חץ שמאלי
+Update Field,עדכן שדה
+Fold must come before a Section Break,Fold חייב לבוא לפני מעבר מקטע
+Suggested Username: {0},שם משתמש מוצע: {0}
+View List,הצג רשימה
+Can Share,יכול לשתף
+Current status,מצב נוכחי
+{0}: {1} in {2},{0}: {1} ב {2}
+align-center,יישר למרכז
+Short keyboard patterns are easy to guess,קל לנחש דפוסי מקלדת קצרים
+Slideshow Items,מצגת פריטים
+Portal Menu Item,פורטל תפריט הפריטים
+Allow Multiple,אפשר טפסים מרובים
+Locals,מקומיים
+Use SSL,השתמש ב- SSL
+Is Table,האם טבלה
+"If checked, all other workflows become inactive.","אם מסומן, כל זרימות העבודה האחרות יהפכו לבלתי פעילות."
+Options Help,אפשרויות עזרה
+ok-sign,סימן OK
+Master,אשף
+Company Introduction,מבוא על החברה
+Opened,נפתח
+Script,סקריפט
+User Cannot Create,משתמש אינו יכול ליצור
+Column Name,שם עמודה
+Check this to pull emails from your mailbox,סמן זאת על מנת למשוך מיילים מתיבת הדואר שלך
+Slideshow,מצגת
+Allow user to login only after this hour (0-24),אפשר למשתמש להתחבר רק לאחר שעה זו (0-24)
+Show Relapses,הצג שגיאות חוזרות
+{0} must be set first,{0} יש להגדיר קודם את
+Web Form,טופס אינטרנטי
+Too many writes in one request. Please send smaller requests,יותר מדי דרישות בבקשה אחת. נא לשלוח בקשות קטנות
+tint,צבע
+Sender,שולח
+move,מהלך
+Download,הורדה
+Refreshing...,מרענן ...
+Test_Folder,תיקיית_ניסיון
+You are not permitted to access this page.,אינך מורשה לגשת לדף זה.
+Predictable substitutions like '@' instead of 'a' don't help very much.,החלפות צפויות כמו '@' במקום 'a' לא עוזרות במיוחד.
+Users and Permissions,משתמשים והרשאות
+Default Outgoing,דואר יוצא המוגדר כברירת מחדל
+Verify Password,אמת סיסמה
+Insert Code,הכנס קוד
+circle-arrow-down,מעגל עם חץ כלפי מטה
+Select or drag across time slots to create a new event.,בחר או גרור על פני חריצי זמן כדי ליצור אירוע חדש.
+camera,מצלמה
+Operation,תפעול
+Can Read,יכול לקרוא
+Page,דף
+Set Value,ערך שנקבע
+Help,עזרה
+Enter folder name,הזן את שם תיקייה
+User is mandatory for Share,יש להזין את המשתמש כדי לשתף
+Result,תוצאה
+Invalid Request,בקשה לא חוקית
+Username {0} already exists,שם משתמש {0} כבר קיים במערכת
+Email Group List,רשימת קבוצת דואר אלקטרוני
+"Filtered by ""{0}""",סונן על ידי '{0}'
+Amount,סכום
+Mr,מר
+Mobile No,מספר טלפון נייד
+SMS Gateway URL,כתובת אתר ספק SMS
+Geo,Geo
+{0}: No basic permissions set,{0}: לא הוגדרו הרשאות בסיסיות
+Friday,יום שישי
+ASC,ASC
+Options not set for link field {0},לא הוגדרו אפשרויות לקישור שדה {0}
+Printing,מדפיס
+"Certain documents, like an Invoice, should not be changed once final. The final state for such documents is called Submitted. You can restrict which roles can Submit.","אסור לשנות ברגע האחרון סוגים מסוימים של מסמכים, כמו חשבוניות. המצב הסופי עבור מסמכים כזה מוגדר כ-הוגש. תוכל להגביל את התפקידים היכולים להגיש."
+Facebook,פייסבוק
+Value Changed,הערך השתנה
+Edit DocType,ערוך DOCTYPE
+Length,אורך
+Leave this conversation,השאר את השיחה הזאת
+Import,ייבא
+Markdown,סימון
+Select a group node first.,בחר קודם ישות מסוג קבוצה.
+"Rules for how states are transitions, like next state and which role is allowed to change state etc.","כללים למעבר בין מצבים, כגון מה סדר המצבים, ומי בעלי התפקידים הרשאים לשנות מצב וכו"
+Sort Order,מיין לפי סדר
+No permission to {0} {1} {2},אין הרשאות {0} {1} {2}
+Insert,הכנס
+Not Permitted,לא מורשה
+Preview,תצוגה מקדימה
+Karma,קארמה
+You cannot unset 'Read Only' for field {0},לא ניתן לבטל את הגדרה של 'קריאה בלבד' לשדה {0}
+Recent years are easy to guess.,קל לנחש את השנים האחרונות.
+You don't have permission to get a report on: {0},אין לך הרשאה לקבל דיווח על: {0}
+Marked As Spam,סומן כדואר זבל
+ID,מספר זיהוי
+Custom HTML Help,מותאם אישית HTML עזרה בשימוש ב-
+Liked by {0},סומן כ'אהבתי' על ידי {0}
+User Type,סוג המשתמש
+Attach Document Print,צרף הדפסת מסמך
+Start Time,זמן התחלה
+Cannot edit a standard report. Please duplicate and create a new report,אין אפשרות לערוך דוח רגיל. אנא שכפל וצור דוח חדש
+Your Name,השם שלך
+Blog,בלוג
+SMS sent to following numbers: {0},SMS שנשלח למספרים הבאים: {0}
+Max width for type Currency is 100px in row {0},הרוחב המרבי למטבע סוג הוא 100 פיקסלים בשורה {0}
+"How should this currency be formatted? If not set, will use system defaults","איך מטבע זה צריך להיות מעוצב? אם לא יוגדר, המערכת תשתמש בברירת המחדל שלה"
+share-alt,שתף
+Size,גודל
+Open {0},פתח {0}
+Not allowed to print draft documents,אין אישור להדפיס מסמכי טיוטה
+In Reply To,בתשובה ל
+"If the user has any role checked, then the user becomes a ""System User"". ""System User"" has access to the desktop","אם למשתמש יש אחד מהתפקידים המסומנים, אז הוא הופך להיות 'משתמש מערכת'. ל'משתמש מערכת' יש גישה לשולחן העבודה"
+wrench,מפתח ברגים
+Loading,טוען
+Remove Filter,הסר מסנן
+Custom,מותאם אישית
+Close,סגור
+CC,CC
+"For updating, you can update only selective columns.","לעדכון, תוכל לעדכן את העמודות לפי בחירה."
+Fax,פקס
+User not allowed to delete {0}: {1},משתמש לא מורשה למחוק את {0}: {1}
+Tags,תגיות
+Value for a check field can be either 0 or 1,הערך עבור שדה הבדיקה יכול להיות או 0 או 1
+Warning: Unable to find {0} in any table related to {1},אזהרה: לא ניתן למצוא {0} בכל טבלה הקשורה ל {1}
+This goes above the slideshow.,אובייקט זה צריך להופיע מעל המצגת.
+Send enquiries to this email address,שלח פניות לכתובת הדואר האלקטרוני הזו
+Get Alerts for Today,קבל התראות עבור היום
+Frappe Framework,מסגרת של Frappe
+Reference,הפנייה
+Added {0},נוסף {0}
+"Permissions are set on Roles and Document Types (called DocTypes) by setting rights like Read, Write, Create, Delete, Submit, Cancel, Amend, Report, Import, Export, Print, Email and Set User Permissions.","הרשאות מוגדרות עבור תפקידים וסוגי מסמכים (DocTypes נקרא) על ידי הגדרת היתרים כגון קריאה, כתיבה, יצירה, מחיקה, שליחה, ביטול, תיקון, דיווח, יבוא, יצוא, הדפסה, דואר אלקטרוני והגדרת אישורים למשתמשים."
+Ignore User Permissions,התעלם מהרשאות המשתמש
+From,מ
+You don't have access to Report: {0},אין לך גישה לדוח: {0}
+Tools,כלים
+Login,כניסה
+Not Saved,לא נשמר
+chevron-up,chevron כלפי מעלה
+{0} is saved,{0} נשמר
+Advanced,מתקדם
+DocType is a Table / Form in the application.,DOCTYPE הוא טבלה / טופס ביישום.
+User Permission,הרשאות משתמש
+Email Settings,הגדרות דואר אלקטרוני
+Scheduled to send to {0},מתוכנן לשלוח ל {0}
+arrow-down,חץ למטה
+Customized HTML Templates for printing transactions.,תבניות HTML מותאמות אישית עבור עסקאות הדפסה.
+Title Field,כותרת שדה
+screenshot,צילום מסך
+Add to To Do,הוסף לרשימת המטלות
+Location,מיקום
+Login not allowed at this time,לא ניתן להתחבר בשלב זה
+Missing parameters for login,פרמטרים חסרים עבור חיבור
+Team Members Heading,כותרות לחברי הצוות
+Breadcrumbs,פירורי לחם
+Top Bar Item,פריט בסרגל העליון
+Fieldtype cannot be changed from {0} to {1} in row {2},לא ניתן לשנות את סוג השדה מ-{0} ל-{1} בשורה {2}
+File too big,הקובץ גדול מדי
+New Newsletter,ניוזלטר חדש
+Start new Format,התחל פורמט חדש
+Could not find {0},לא ניתן למצוא את {0}
+User {0} cannot be disabled,לא ניתן לחסום את משתמש {0}
+Signature,חתימה
+Shared,משותף
+Website,אתר
+Key,מפתח
+Write a Python file in the same folder where this is saved and return column and result.,הוסף קובץ פייתון באותה התיקייה שבה קובץ זה נשמר והוא יחזיר עמודה ותוצאה.
+Policy,מדיניות
+Display Depends On,התצוגה תלויה ב
+Day,יום
+Title field must be a valid fieldname,כותרת שדה חייבת להיות שם שדה תקף
+Open Source Applications for the Web,יישומי קוד פתוח לאינטרנט
+Home,בית
+Not In,לא ב
+"Company is mandatory, as it is your company address","יש להזין חברה, כיוון שזו כתובת החברה שלך"
+User editable form on Website.,טופס הניתן לעריכה למשתמש באתר.
+Allow only one session per user,אפשר רק זמן פעולה אחד לכל משתמש
+This form has been modified after you have loaded it,טופס זה השתנה לאחר שהזנת אותו
+Attach Image,צרף תמונה
+Disable Standard Email Footer,השבת כותרת תחתונה רגילה בדואר האלקטרוני
+Workflow State Field,שדה מצב זרימת עבודה
+Invite as User,הזמן כמשתמש
+Filters,מסננים
+Select Table Columns for {0},בחר עמודות מהטבלה עבור {0}
+Something went wrong,משהו השתבש
+"{0} {1} cannot be ""{2}"". It should be one of ""{3}""",{0} {1} לא יכול להיות '{2}' עליו להיות אחד מ-'{3}'
+Select Document Types to set which User Permissions are used to limit access.,בחר את סוגי המסמכים שתרצה להגדיר עבורם הרשאות משתמש כדי להגביל גישה.
+Assigned To/Owner,מוקצה ל / בעלים
+Module,מודול
+Cannot change docstatus from 1 to 0,לא יכול לשנות מצב המסמך מ 1 ל 0
+Download Template,הורד תבנית
+Only Administrator can edit,רק מנהל יכול לערוך
+None: End of Workflow,אין: סוף זרימת העבודה
+Send an email reminder in the morning,שלח תזכורת בדואר האלקטרוני בבוקר
+Field Description,שדה תיאור
+This is a very common password.,זוהי סיסמה נפוצה מאוד.
+Introductory information for the Contact Us Page,מידע מקדים לדף צרו קשר
+Sign up,הירשם
+Restore Original Permissions,שחזר הרשאות מקוריות
+Fieldname,שם השדה
+hdd,HDD
+yyyy-mm-dd,yyyy-mm-dd
+Your login id is,מזהה הכניסה שלך הוא
+Last Login,חיבור אחרון
+Unable to open attached file. Did you export it as CSV?,לא ניתן לפתוח את הקובץ המצורף. האם אתה לייצא אותו כקובץ CSV?
+Add code as &lt;script&gt;,הוסף את הקוד כ'סקריפט'
+Thank you for your message,תודה לך על ההודעה
+"Customized Formats for Printing, Email","פורמטים מותאמים להדפסה, דואר אלקטרוני"
+A4,A4
+circle-arrow-up,מעגל עם חץ כלפי מעלה
+Default Address Template cannot be deleted,לא ניתן למחוק תבנית כתובות המוגדרת כברירת מחדל
+Reload,רענן
+Usage Info,מידע על השימוש
+Dropbox Access Key,מפתח הגישה ל-Dropbox
+Send Me A Copy,שלח לי עותק
+{{{0}}} is not a valid fieldname pattern. It should be {{field_name}}.,{{{0}}} אינו תבנית חוקית לשם השדה. עליו להיות {{שם_השדה}} .
+Roles,תפקידים
+Thank you,תודה לך
+Everyone,כולם
+Report {0} is disabled,דוח {0} אינו זמין
+Website Manager,מנהל אתר
+chevron-left,שמאלי chevron
+Blog Category,קטגורית בלוג
+Translation,תרגום
+"If you set this, this Item will come in a drop-down under the selected parent.","אם תגדיר זאת, פריט זה יופיע מתחת פריט האב שיבחר."
+Rejected,נדחה
+Queued,בתור
+Date Format,פורמט תאריך
+You can use wildcard %,אתה יכול להשתמש בתו חופשי%
+chevron-down,chevron כלפי מטה
+"Don't know, ask 'help'","לא יודע, בקש 'עזרה'"
+Updated {0}: {1},עודכן {0}: {1}
+Cannot create a {0} against a child document: {1},לא ניתן ליצור {0} למול תת המסמך: {1}
+Info,מידע
+User ID of a Blogger,מזהה משתמש של הבלוגר
+Please select Company,אנא בחר חברה
+Letter,מכתב
+Invalid Mail Server. Please rectify and try again.,שרת דואר לא חוקי. אנא תקן ונסה שנית.
+Core,ליבה
+Invalid recipient address,כתובת הנמען אינה חוקית
+Default Print Format,פורמט ברירת מחדל להדפסה
+New Name,שם חדש
+for {0},עבור {0}
+Activity,פעילות
+"Change field properties (hide, readonly, permission etc.)","שנה מאפייני שדה (הסתר, לקריאה בלבד, הרשאות וכו)"
+Query,שאילתא
+book,ספר
+Success,הצלחה
+Allow Print for Draft,אפשר הדפסה עבור טיוטה
+Created On,נוצר ב
+Quick Help for Setting Permissions,עזרה מהירה להגדרת הרשאות
+Feedback,משוב
+mm-dd-yyyy,mm-dd-yyyy
+magnet,מגנט
+"When you Amend a document after Cancel and save it, it will get a new number that is a version of the old number.","כאשר אתה מתקן מסמך לאחר שביטלת אותו ושמרת אותו, הוא יקבל מספר חדש שיהיה גרסה של המספר הישן."
+Static Parameters,פרמטרים סטטיים
+Email Group Member,שלח הודעה לחבר בקבוצה
+Full Name,שם מלא
+Example:,לדוגמא:
+There is an error in your Address Template {0},ישנה שגיאה בתבנית הכתובת שלך {0}
+Email To,דואר אלקטרוני
+"Use a few words, avoid common phrases.","השתמש בכמה מילים, הימנע מביטויים נפוצים."
+Send alert if this field's value changes,שלח התראה אם ערך השדה הזה משתנה
+Script or Query reports,דוחות על סקריפט או שאילתה
+User permissions should not apply for this Link,הרשאות המשתמש לא אמורים לחול על קישור זה
+"{0}: Only one rule allowed with the same Role, Level and {1}","{0}: מותר רק כלל אחד באותו התפקיד, רמה ו-{1}"
+Download link for your backup will be emailed on the following email address: {0},קישור להורדה לגיבוי שלך יישלחו לכתובת הדואר האלקטרוני הבאה: {0}
+Invalid Email: {0},דואר אלקטרוני לא חוקי: {0}
+Unread Notification Sent,הודעה שלא נקראה נשלחה
+Developer,מפתחים
+Duplicate,שכפל
+Download Backups,גיבויים להורדה
+Another transaction is blocking this one. Please try again in a few seconds.,עסקה נוספת חוסמת את העסקה הזו. אנא נסה שוב בעוד מספר שניות.
+Already Registered,רשום כבר
+App {0} is not installed,האפליקציה {0} אינה מותקנת
+Attach File,צרף קובץ
+Expired,פג תוקף
+e.g. (55 + 434) / 4 or =Math.sin(Math.PI/2)...,לדוגמה (55 + 434) / 4 או =Math.sin(Math.PI / 2) ...
+Website Theme Image,תמונת נושא של האתר
+Unable to send emails at this time,לא ניתן לשלוח הודעות דואר אלקטרוני בשלב זה
+{0} updated,{0} עודכן
+Folder,תיקייה
+Title Case,כותרת תיק
+Please specify which date field must be checked,נא ציין שמועד שדה חייב להיות מסומן
+{0} and {1},{0} ו- {1}
+Default Sending,ברירת מחדל לשליחה
+Nested set error. Please contact the Administrator.,שגיאת הגדרה מקוננת. נא פנה למנהל.
+File {0} does not exist,קובץ {0} אינו קיים במערכת
+Please select a file or url,אנא בחר קובץ או כתובת
+eye-close,עין סגורה
+0 is highest,0 הוא הגבוה ביותר
+DefaultValue,ערך ברירת מחדל
+Do not allow user to change after set the first time,אל תאפשר למשתמש לשנות לאחר שהוגדר בפעם הראשונה
+Search in a document type,חפש בסוג מסמך
+Report,דוח
+No {0} found,מספר {0} נמצא
+Published On,פורסם ב
+Invalid Outgoing Mail Server or Port,השרת או הפורט של הדואר היוצא אינו חוקי
+Created Custom Field {0} in {1},נוצר שדה מותאם אישית {0} ב {1}
+You are not allowed to update this Web Form Document,אין לך הרשאות לעדכן את מסמך טופס האינטרנט הזה
+DocField,שדה המסמך
+Last IP,IP האחרון
+Blog Introduction,פתח הבלוג
+Additional Permissions,הרשאות נוספות
+Button,לחצן
+Leave a Comment,השאר תגובה
+Document Share Report,דוח שיתוף מסמך
+Page HTML,דף HTML
+Reply,הגב
+Default Value,ערך ברירת מחדל
+You must login to submit this form,עליך להתחבר על מנת להגיש את הטופס הזה
+Plant,מפעל
+Email Account Name,שם חשבון הדואר האלקטרוני
+In List View,ברשימת הצפייה
+Contact,צור קשר
+Better add a few more letters or another word,מומלץ להוסיף עוד כמה אותיות או מילה נוספת
+bold,מודגש
+Timezone,אזור זמן
+Show Permissions,הצג הרשאות
+Create New,צור חדש
+Maintenance User,משתמש אחזקה
+This is a top-10 common password.,זוהי אחת מעשר הסיסמאות הנפוצות ביותר.
+Report Manager,דווח על מנהל
+Post,פוסט
+Edit Heading,ערוך כותרת
+Options 'Dynamic Link' type of field must point to another Link Field with options as 'DocType',האפשרויות של סוג השדה 'קישור דינמי' חייבות להצביע על עוד שדה מקושר עם אפשרויות כמו 'DOCTYPE'
+Password Reset,איפוס סיסמה
+Home/Test Folder 2,דף הבית / תיקיית ניסיון 2
+Thank you for your interest in subscribing to our updates,תודה לך על התעניינותך במנוי לעדכונים שלנו
+Search,חפש
+Incorrect value in row {0}: {1} must be {2} {3},ערך שגוי בשורה {0}: {1} חייב להיות {2} {3}
+Import Subscribers,ייבא מנויים
+Icon,אייקון
+App,יישום
+File not attached,לא צורף קובץ
+Submit,הגש
+Invalid naming series (. missing),סדרת שמות לא חוקית (. חסר)
+Reference Name,שם התייחסות
+Danger,סכנה
+Priority,עדיפות
+e.g.:,לדוגמה:
+Blog Settings,הגדרות בלוג
+"There were some errors setting the name, please contact the administrator","היו כמה טעויות בהגדרת השם, אנא צור קשר עם המנהל"
+{0} days ago,{0} ימים לפני
+Purchase User,משתמש רכש
+High,גבוה
+Ms,גברת
+Can Write,יכול לכתוב
+Allow user to login only before this hour (0-24),אפשר למשתמש להתחבר רק לפני שעה זו (0-24)
+Days After,ימים לאחר
+Option 1,אפשרות 1
+Edit to add content,ערוך כדי להוסיף תוכן
+Short Name,שם קצר
+User Defaults,ברירות מחדל של המשתמש
+{0} already unsubscribed for {1} {2},{0} כבר ביטלו מנוי עבור {1} {2}
+Logs,יומנים
+Yandex.Mail,Yandex.Mail
+PDF Settings,הגדרות PDF
+Block Modules,מודולים ריקים
+{0} does not exist in row {1},{0} אינו קיים בשורה {1}
+Received,התקבל
+"Added HTML in the &lt;head&gt; section of the web page, primarily used for website verification and SEO","HTML נוסף במקטע ה'עליון' של דף האינטרנט, המשמש בעיקר לאימות אתר וקידום אתרים"
+Straight rows of keys are easy to guess,קל לנחש רצף אותיות מאתוה שורה במקלדת
+Enable Comments,אפשר תגובות
+Ignored: {0} to {1},הוזנח: {0} {1}
+Quick Entry,רשומה מהירה
+circle-arrow-left,מעגל עם חץ לשמאל
+Robots.txt,robots.txt
+Website Slideshow,מצגת של האתר
+"Meaning of Submit, Cancel, Amend","משמעות של הגשה, ביטול, תיקון"
+resize-full,גודל חדש מלא
+Newsletter has already been sent,ניוזלטר כבר נשלח
+Print Format Type,סוג פורמט הדפסה
+Red,אדום
+"Different ""States"" this document can exist in. Like ""Open"",""Pending Approval"" etc.","ישנם מספר מצבים שמסמך זה יכול להיות בהם. כגון, 'פתוח', 'ממתין לאישור', וכו"
+Phone No.,מספר טלפון
+Succeeded,הצליח
+Month,חודש
+Data,נתונים
+Cannot change docstatus from 0 to 2,לא ניתן לשנות את מצב המסמך מ-0 ל-2
+Is Submittable,האם ניתן להגשה
+{0} already unsubscribed,{0} כבר מנוי
+"Contact options, like ""Sales Query, Support Query"" etc each on a new line or separated by commas.","אפשרויות ליצירת קשר כגון 'שאילתת מכירות', שאילתת תמיכה' וכו, כל אחת מהן בשורה נפרדת או במרכאות נפרדות"
+Payment Gateway,ספק סליקה
+Custom Translations,תרגומים אישיים
+glass,זכוכית
+Report Hide,הסתר דוח
+Like,כגון
+Please save the document before assignment,אנא שמור את המסמך לפני המשימה
+e.g. smtp.gmail.com,לדוגמה smtp.gmail.com
+map-marker,סמן מפה
+Target,יעד
+Is Folder,האם תיקייה
+Linked,מקושר
+First Level,רמה ראשונה
+gift,מתנה
+{0} edited this {1},{0} ערך את {1} הזה
+Language Code,קוד שפה
+Represents the states allowed in one document and role assigned to change the state.,מייצג את המצבים המותרים במסמך אחד ואת בעל התפקיד שהוקצה כדי לשנות את המצב.
+thumbs-down,אגודלים כלפי מטה
+Insert After cannot be set as {0},הכנס לאחר מכן לא יכול להיות מוגדר כ {0}
+Please specify which value field must be checked,נא ציין איזה ערך שדה חייב להיות מסומן
+"No need for symbols, digits, or uppercase letters.","אין צורך בסימנים, ספרות, או אותיות רישיות."
+"Print Width of the field, if the field is a column in a table","הדפס את רוחב השדה, אם השדה הוא עמודה בטבלה"
+Label,תווית
+Report Name,שם הדוח
+Nothing to show,אין מה להציג
+Clear all roles,לנקות את כל התפקידים
+dd-mm-yyyy,dd-mm-yyyy
+Dropbox Access Secret,גישה חשאית ל-Dropbox
+Groups of DocTypes,קבוצות של סוגי מסמכים
+Data missing in table,חסרים נתונים בטבלה
+Documents assigned to you and by you.,מסמכים שהוקצו לך ועל ידך.
+Bounced,ההודעה לא הגיעה ליעדה
+Track Seen,מסלול צפייה
+Avoid recent years.,הימנע משימוש בשנים האחרונות.
+Complete By,הושלם על ידי
+Active,פעיל
+Note: Other permission rules may also apply,הערה: עשויים לחול גם כללי הרשאות נוספים
+Email Sent?,ההודעה נשלחה?
+User {0} is disabled,משתמש {0} נחסם
+only.,רק.
+Company,חברה
+User,משתמש
+Patch,תיקון
+Add Comment,הוסף תגובה
+Website Theme,נושא האתר
+First data column must be blank.,עמודת הנתונים הראשונה חייבת להיות ריקה.
+Published,פורסם
+Google Analytics ID,המזהה של Google Analytics
+Is Standard,האם סטנדרטי
+Please enter valid mobile nos,אנא הזן מספרי טלפון חוקיים
+For User,עבור המשתמש
+[Label]:[Field Type]/[Options]:[Width],[תוית]: [סוג שדה] / [אפשרויות]: [רוחב]
+Yahoo Mail,Yahoo Mail
+"If you think this is unauthorized, please change the Administrator password.","אם אתה חושב שפעילות זו אינה מורשית, אנא שנה את סיסמת המנהל."
+film,סרט
+Disable Signup,בטל הרשמה
+Hello {0},שלום {0}
+Header,כותרת
+Common names and surnames are easy to guess.,קל לנחש שמות ושמות משפחה נפוצים.
+Append To is mandatory for incoming mails,השדה צרף ל נדרש בהודעות נכנסות
+Email Footer Address,כתובת דואר אלקטרוני בכותרת התחתונה
+SMS,SMS
+Please specify,אנא ציין
+Display,הצג
+Roles HTML,תפקידי HTML
+File Manager,מנהל הקבצים
+"The task {0}, that you assigned to {1}, has been closed by {2}.","המשימה {0}, שהוקצתה ל-{1}, נסגרה על-ידי {2}."
+Permission Levels,רמות הרשאה
+Naming,שמות
+Page to show on the website,עמוד להצגה באתר
+zoom-in,הגדל
+Reverse Icon Color,הפוך את צבע האייקון
+Banner,באנר
+Daily,יומי
+Status,סטטוס
+Unshared,שאינו משותף
+"Style represents the button color: Success - Green, Danger - Red, Inverse - Black, Primary - Dark Blue, Info - Light Blue, Warning - Orange","סגנון צבע מייצג את כפתורי הצבע: הצלחה - ירוק, מסוכן - אדום, הפוך - שחור, ראשי - כחול כהה, מידע - תכלת, אזהרה - כתום;"
+Reset to defaults,אפס לברירות מחדל
+Contact Details,פרטי יצירת קשר
+eject,דחה
+Image Link,קישור התמונה
+Custom Script,סקריפט מותאם אישית
+star,כוכב
+For example if you cancel and amend INV004 it will become a new document INV004-1. This helps you to keep track of each amendment.,"לדוגמא, אם תבטל ותתקן את INV004 הוא יהפוך למסמך חדש בשם INV004-1 זה עוזר לך לעקוב אחרי כל תיקון."
+Is,האם
+Row #,# שורה
+resize-vertical,שנה את הגודל האנכי
+ESC,יציאה
+Top Bar,סרגל עליון
+Make use of longer keyboard patterns,השתמש ברצפי מקלדת ארוכים
+Datetime,תאריך ושעה
+Select Document Type,בחר סוג המסמך
+picture,תמונה
+"{0}, Row {1}","{0}, {1} שורה"
+Delete this record to allow sending to this email address,מחק רשומה זו כדי לאפשר שליחה לכתובת הדואר האלקטרוני הזו
+Print Width,רוחב הדפסה
+Event,אירוע
+Restrict user from this IP address only. Multiple IP addresses can be added by separating with commas. Also accepts partial IP addresses like (111.111.111),הגבל את המשתמש מכתובת ה- IP הזו בלבד. ניתן להוסיף כתובות IP מרובות על ידי הפרדה בפסיקים. כמו כן קבל כתובות IP חלקיות כמו (111.111.111)
+Reference: {0} {1},התייחסות: {0} {1}
+Message,הודעה
+Js,Js
+Based On,המבוסס על
+Javascript to append to the head section of the page.,Javascript להוספה למקטע בראש הדף.
+Yesterday,אתמול
+list-alt,סמליל רשימה
+Administrator Logged In,המנהל מחובר
+font,גופן
+No permission to read {0},אין הרשאות לקרוא את {0}
+JavaScript Format: frappe.query_reports['REPORTNAME'] = {},פורמט JavaScript: frappe.query_reports ['REPORTTYPE'] = {}
+No permission for {0},אין הרשאה עבור {0}
+Helvetica,Helvetica
+Scheduled to send to {0} recipients,מתוכנן לשלוח ל-{0} נמענים
+All,כולם
+There should remain at least one System Manager,צריך להישאר מנהל מערכת אחד לפחות
+"Language, Date and Time settings","הגדרות שפה, תאריך ושעה"
+Team Members,חברי צוות
+Please save the document before removing assignment,אנא שמור את המסמך לפני הסרת משימה
+{0} not a valid State,{0} הוא אינו מצב חוקי
+Attach,צרף
+Email not sent to {0} (unsubscribed / disabled),ההודעה לא נשלחה ל-{0} (לא מנוי / חסום)
+More content for the bottom of the page.,תוכן נוסף בתחתית הדף.
+Web Form Fields,שדות הטופס האינטרנטי
+globe,גלובוס
+Option 2,אפשרות 2
+Parent Error Snapshot,תמונת מצב של שגיאת המקור
+Tree,עֵץ
+Paste,הדבק
+Your email address,כתובת הדואר האלקטרוני שלך
+Dear,יקר
+hand-left,העבר שמאלה
+Print Style Preview,הדפס תצוגה מקדימה של הסגנון
+Calculate,חשב
+Repeat Header and Footer in PDF,חזור על כותרת עליונה ותחתונה ב- PDF
+Create a new {0},צור {0} חדש
+Defines actions on states and the next step and allowed roles.,"מגדיר פעולות במצבים, השלב הבא ותפקידים מותרים."
+Deleted,נמחק
+Not Sent,לא נשלח
+Build Report,בנה דוח
+Reference Owner,הפנה לבעלים
+Notify if unreplied,עדכן אם לא התקבלה תגובה
+Models (building blocks) of the Application,מודלים (אבני הבניין) של היישום
+Level,רמה
+info-sign,סימן מידע
+Reference Document,מסמך ההפניה
+Introduction,מבוא
+circle-arrow-right,מעגל עם חץ ימינה
+Relapses,שגיאות חוזרות
+Mandatory,חובה
+Token is missing,מפתח חסר
+Personal,אישי
+Sorry! User should have complete access to their own record.,מצטערים! צריכה להיות למשתמשים גישה מלאה לרשומות שלהם.
+Report Type,סוג הדוח
+Same file has already been attached to the record,אותו קובץ כבר צורף לרשומה
+Role Permissions Manager,מנהל הרשאות התפקידים
+Image field must be of type Attach Image,שדה תמונה חייב להיות מסוג צרף תמונה
+With Letterhead,עם נייר מכתבים
+List of themes for Website.,רשימה של נושאים לאתר.
+"Allowing DocType, DocType. Be careful!","מאפשר DOCTYPE, DOCTYPE. היזהר!"
+Write a SELECT query. Note result is not paged (all data is sent in one go).,כתוב שאילתה SELECT. שים לב כי התוצאה לא מחולקת לעמודים (כל הנתונים נשלחים בפעם אחת).
+From Full Name,משם מלא
+Stores the JSON of last known versions of various installed apps. It is used to show release notes.,מאחסן את ה-JSON של הגרסאות האחרונות הידועות של יישומים מותקנים שונים. הוא משמש כדי להראות הערות הפצה.
+Force Show,אלץ הצגה
+Sent,נשלח
+In Hours,בשעות
+{0} shared this document with everyone,{0} שיתף מסמך זה עם כולם
+Cannot connect: {0},לא ניתן להתחבר: {0}
+Client,לקוח
+{0} in row {1} cannot have both URL and child items,{0} בשורה {1} לא יכול להיות עם שתי כתובות ותת-פריטים
+fullscreen,מסך מלא
+Add a comment,הוסף תגובה
+"If your data is in HTML, please copy paste the exact HTML code with the tags.","אם הנתונים שלך נמצאים ב- HTML, אנא העתק והדבק את קוד ה- HTML המדויק עם התגיות."
+Address Type,סוג הכתובת
+Document,מסמך
+Liked,אהבתי
+More Information,מידע נוסף
+Last Modified On,שונה לאחרונה ב-
+Row,שורה
+Link DocType,DOCTYPE קישור
+Is Active,האם פעיל
+No,לא
+You are not allowed to print this document,"אין באפשרותך להדפיס את המסמך הזה,"
+Communication Type,סוג התקשורת
+Update,עדכן
+Default for 'Check' type of field must be either '0' or '1',ברירת מחדל עבור סוג השדה 'בדוק' חייבת להיות או '0' או '1'
+Submitted Document cannot be converted back to draft. Transition row {0},לא ניתן להמיר מסמך שהוגש חזרה לטיוטה. שורת מעבר {0}
+Field Name,שם שדה
+"If disabled, this role will be removed from all users.","אם מושבת, התפקיד הזה יוסר מכל המשתמשים."
+Fold can not be at the end of the form,Fold לא יכול להיות בסופו של הטופס
+"Repeats like ""abcabcabc"" are only slightly harder to guess than ""abc""",קצת יותר קשה לנחש חזרות כמו 'abcabcabc' מאשר 'ABC'
+Blog Intro,הקדמה לבלוג
+Thursday,יום חמישי
+remove-circle,הסר עיגול
+Cancel,בטל
+Open,פתח
+Remove Section,הסר מקטע
+Define workflows for forms.,הגדר זרימות עבודה לטפסים.
+Assigned By Me,הוקצה על ידי
+About,אודות
+Integrations can use this field to set email delivery status,שילוב יכול לשמש בשדה זה כדי להגדיר מצב משלוח הדואר האלקטרוני
+Login After,התחבר אחרי
+bell,פעמון
+Please save the Newsletter before sending,אנא שמור את הניוזלטר לפני שתשלח
+Workflow Document State,מצב זרימת העבודה במסמך
+Reference DocName,שם המסמך המאוזכר
+Start,התחל
+Login to comment,התחבר כדי להגיב
+Right,ימין
+"Setup of top navigation bar, footer and logo.","התקנה של סרגל ניווט העליון, כותרת תחתונה ולוגו."
+lock,נעל
+Reference DocType and Reference Name are required,התייחסות DOCTYPE ושם הפניה נדרשים
+This feature is brand new and still experimental,מאפיין זה הוא חדש ועדיין ניסיוני
+One Last Step,שלב אחד אחרון
+{0} must be unique,{0} חייב להיות ייחודי
+Website Script,סקריפט האתר
+No records tagged.,מספר רשומות מתויגות.
+Is Primary Contact,האם איש קשר ראשי
+Private and public Notes.,הערות פרטיות וציבוריות.
+This Currency is disabled. Enable to use in transactions,מטבע זה אינו זמין. אפשר כדי להשתמש בו בעסקאות
+Half-yearly,חצי שנתי
+Refresh,רענן
+Print Settings,הגדרות הדפסה
+You are not allowed to delete a standard Website Theme,אין לך הרשאות למחוק את נושא אתר הסטנדרטי
+No of Columns,מספר העמודות
+play,לשחק
+Reference Type,סוג ההתייחסות
+The system provides many pre-defined roles. You can add new roles to set finer permissions.,המערכת מספקת מספר רב של תפקידים מוגדרים מראש. אתה יכול להוסיף תפקידים חדשים כדי להגדיר הרשאות מדויקות יותר.
+Value for {0} cannot be a list,ערך של {0} לא יכול להיות רשימה
+music,מוסיקה
+Allow Google Drive Access,אפשר גישה ל- Google Drive
+Not Set,לא הוגדר
+Please set filters,אנא הגדר מסננים
+Code,קוד
+fast-forward,הקפץ קדימה
+share,שתף
+This link is invalid or expired. Please make sure you have pasted correctly.,קישור זה אינו חוקי או שפג תוקפו. אנא ודא שהדבקת אותו בצורה נכונה.
+Avatar,אווטאר
+Parent Table,טבלת האם
+Select records for assignment,בחר רשומות למשימה
+Shared with everyone,משותף עם כולם
+Updating,מעדכן
+Sorry! You are not permitted to view this page.,מצטערים! אינך רשאי לצפות בדף זה.
+Not a valid Comma Separated Value (CSV File),הפרדת פסיקים לא חוקית (קובץ CSV)
+Insert Below,הכנס להלן
+This email was sent to {0},ההודעה הזו נשלחה ל {0}
+briefcase,תיק
+Gateway,ספק
+Insert Style,הכנס סגנון
+adjust,התאם
+View Subscribers,הצג מנויים
+This document is currently queued for execution. Please try again,מסמך זה נמצא כרגע בתור לביצוע. אנא נסה שנית
+Message Parameter,פרמטר להודעה
+Make Default,הפוך לברירת מחדל
+Style,סגנון
+{0} comments,{0} הערות
+Session Expiry Mobile,תפוגת זמן פעולה לנייד
+City,עיר
+Google,גוגל
+"Fields separated by comma (,) will be included in the ""Search By"" list of Search dialog box","שדות מופרדים על ידי פסיק (,) ייכללו ברשימת 'חפש לפי' של תיבת הדו-שיח של החיפוש"
+Thumbnail URL,כתובת תמונה ממוזערת
+fire,אש
+Did not remove,לא הוסר
+Subsidiary,חברת בת
+"SQL Conditions. Example: status=""Open""",תנאי SQL. לדוגמה: מצב = 'פתח'
+Role Name,שם תפקיד
+Pincode,קודסודי
+Default,ברירת מחדל
+Address Line 2,שורת כתובת 2
+hand-up,יד פונה כלפי מעלה
+List of patches executed,רשימה של תיקונים שבוצעו
+query-report,דיווח על שאילתה
+Report Builder,בונה הדוחות
+Log of Scheduler Errors,יומן השגיאות על פי זמנים
+Search field {0} is not valid,שדה חיפוש {0} אינו חוקי
+Type,סוג
+th-list,th-list
+{0} is required,{0} נדרש
+DocType on which this Workflow is applicable.,DOCTYPE שבו זרימת העבודה ישימה.
+Email Server,שרת דואר אלקטרוני
+Preferred Billing Address,כתובת מועדפת לתשלום
+Activity log of all users.,יומן הפעילות של כל המשתמשים.
+Error: Document has been modified after you have opened it,שגיאה: המסמך השתנה לאחר שפתחת אותו
+Recipients,נמענים
+Introduce your company to the website visitor.,הצג את החברה שלך למבקר באתר.
+Int,Int
+Page missing or moved,דף חסר או עבר
+Create,צור
+Read Only,לקריאה בלבד
+Recipient,נמען
+Root {0} cannot be deleted,לא ניתן למחוק את שורש {0}
+Full Page,דף מלא
+ok-circle,מעגל עם O.K
+Editable Grid,רשת לעריכה
+"<h4>Default Template</h4> <p>Uses <a href=""http://jinja.pocoo.org/docs/templates/"">Jinja Templating</a> and all the fields of Address (including Custom Fields if any) will be available</p> <pre><code>{{ address_line1 }}&lt;br&gt; {% if address_line2 %}{{ address_line2 }}&lt;br&gt;{% endif -%} {{ city }}&lt;br&gt; {% if state %}{{ state }}&lt;br&gt;{% endif -%} {% if pincode %} PIN: {{ pincode }}&lt;br&gt;{% endif -%} {{ country }}&lt;br&gt; {% if phone %}Phone: {{ phone }}&lt;br&gt;{% endif -%} {% if fax %}Fax: {{ fax }}&lt;br&gt;{% endif -%} {% if email_id %}Email: {{ email_id }}&lt;br&gt;{% endif -%} </code></pre>","'תבנית ברירת מחדל' 'שימושים' 'a href='http://jinja.pocoo.org/docs/templates/' בניית תבניות ג'ינג'ה וכל שדות הכתובת (כולל שדות מותאמים אישית אם ישנם) יהיו זמינים 'pre' 'code' {{address_line1}} & lt; br & gt; {% אם address_line2%} {{}} address_line2 & lt; br & gt; {% endif -%} {{העיר}} & lt; br & gt; {% אם% מדינת} {{המדינה}} & lt; br & gt; {% endif -%} {% אם% pincode} PIN: {{pincode}} & lt; br & gt; {% endif -%} {{ארץ}} & lt ; Br & gt; {% אם% טלפון} טלפון: {{טלפון}} & lt; br & gt; {% endif -%} {% אם פקס%} פקס: {{פקס}} & lt; br & gt; {% endif -%} {% אם email_id % דוא""ל}: {{}} email_id & lt; br & gt; {endif% -%} </ code> </ pre>"
+Add Child,הוסף תת-ישות
+Equals,שווה ל
+arrow-right,חץ פונה לימין
+Writers Introduction,הקדמה לכותבים
+Sales Master Manager,מנהל המכירות
+Show more details,הצג פרטים נוספים
+Address and Contacts,כתובת ומגעים
+New,חדש
+"As a best practice, do not assign the same set of permission rule to different Roles. Instead, set multiple Roles to the same User.","כשיטת עבודה מומלצת, אל תקצה מערך הרשאות זהה לבעלי תפקידים שונים. במקום זאת, הגדר תפקידים מרובים למשתמש אחד."
+(Ctrl + G),(Ctrl + G)
+Set non-standard precision for a Float or Currency field,הגדר דיוק לא סטנדרטי לשדה נקודה צפה או לשדה המטבע
+System,מערכת
+cog,שן
+Description,תיאור
+Invalid file path: {0},נתיב קובץ לא חוקי: {0}
+"Link that is the website home page. Standard Links (index, login, products, blog, about, contact)","קישור שהוא דף הבית של האתר. קישורים רגילים (אינדקס, התחברות, מוצרים, בלוג, אודות, יצירת קשר)"
+Response,תגובה
+Title Prefix,קידומת לכותרת
+Assigned To,מוקצה ל
+Integrations,שילובים
+Idx,IDX
+{0} List,{0} רשימה
+Record does not exist,רשומה לא קיימת במערכת
+Communicated via {0} on {1}: {2},הועבר דרך {0} ב-{1}: {2}
+About Us Settings,הגדרת מי אנחנו
+Fraction,חלק
+Banner Image,תמונת באנר
+forward,קדימה
+Cent,סנט
+download-alt,סמליל הורדה
+"Newsletters to contacts, leads.","ניוזלטרים לאנשי הקשר, לידים."
+Date and Number Format,פורמט התאריך והמספר
+Background Color,צבע רקע
+Note,הערה
+Cannot change state of Cancelled Document. Transition row {0},לא ניתן לשנות את המצב של מסמך שבוטל. שורת מעבר {0}
+Valid Login id required.,נדרש מזהה התחברות חוקי.
+Updated,עודכן
+exclamation-sign,סימן קריאה
+SMS Parameter,פרמטר SMS
+This is an automatically generated reply,זוהי תשובה שנוצרה באופן אוטומטי
+Setup Complete,ההתקנה הסתיימה
+warning-sign,סימן אזהרה
+Exception,חריגה
+Timeline field must be a valid fieldname,שדה ציר הזמן חייב להיות בעל שם שדה תקף
+Start entering data below this line,התחל בהזנת נתונים מתחת לקו זה
+Defaults,ברירות מחדל
+Address Title,כותרת הכתובת
+Half Day,חצי יום
+Rename many items by uploading a .csv file.,שנה פריטים רבים על ידי העלאת קובץ csv.
+volume-up,העלה כמות
+Web Page,דף האינטרנט
+Newsletter,ניוזלטר
+DocType,DOCTYPE
+Add / Manage Email Accounts.,הוסף / נהל חשבונות דואר אלקטרוני.
+"The task {0}, that you assigned to {1}, has been closed.","המשימה {0}, שהקצת ל-{1}, נסגרה."
+PDF Page Size,גודל דף ה-PDF
+Group Node,ישות מסוג קבוצה
+Web Site,אתר אינטרנט
+Info:,מידע:
+You can find things by asking 'find orange in customers',אתה יכול למצוא דברים בשאלה 'מצא כתום בלקוחות'
+Blocked,חסום
+Add fields to forms.,הוסף שדות לטפסים.
+Template,תבנית
+ID (name) of the entity whose property is to be set,מזהה (שם) של הישות שמאפייניו עומדים להיות מוגדרים
+Outlook.com,Outlook.com
+System Manager,מנהל מערכת
+Complete Setup,ההתקנה הסתיימה
+Smallest Currency Fraction Value,ערך חלק המטבע הקטן ביותר
+Comments,תגובות
+There were errors,התרחשו מספר שגיאות
+Ctrl + Up,Ctrl + Up
+Pick Columns,בחר עמודות
+mm/dd/yyyy,mm/dd/yyyy
+Have an account? Login,בעל חשבון? התחבר
+Errors in Background Events,שגיאות ברקע
+{0} added,{0} נוסף
+Field Type,סוג שדה
+My Settings,ההגדרות שלי
+Next,הבא
+Name Case,שם התיק
+"Help: To link to another record in the system, use ""#Form/Note/[Note Name]"" as the Link URL. (don't use ""http://"")","עזרה: על מנת לקשר לרשומה נוספת במערכת, השתמש ב'# טופס / הערה / [שם הערה]' ככתובת ה-URL של הקישור. (אין צורך להשתמש ב-'http: //')"
+Row {0}: Not allowed to enable Allow on Submit for standard fields,שורה {0}: אין הרשאה לאפשר אפשר הגשה לשדות סטנדרטיים
+Tuesday,יום שלישי
+Authentication failed while receiving emails from Email Account {0}. Message from server: {1},אימות נכשל בזמן שהתקבל הודעות דואר אלקטרוני מהחשבון {0}. הודעה מהשרת: {1}
+Enable Incoming,אפשר הודעות נכנסות
+Create a New Format,צור פורמט חדש
+Precision should be between 1 and 6,Precision צריך להיות בין 1 ל 6
+Other,אחר
+and,ו
+Rename {0},שנה שם {0}
+{0} {1}: Submitted Record cannot be deleted.,{0} {1}: לא ניתן למחוק רשומה שהוגשה.
+Preferred Shipping Address,כתובת מועדפת למשלוח
+"If you are updating, please select ""Overwrite"" else existing rows will not be deleted.","אם אתה מעדכן, אנא בחר באפשרות 'החלף' אחרת שורות קיימות לא תימחקנה."
+Re: {0},Re: {0}
+Oops! Something went wrong,אופס! משהו השתבש
+Timestamp,חותמת זמן
+"{0} {1} does not exist, select a new target to merge","{0} {1} לא קיים, בחר יעד חדש למזג"
+dd/mm/yyyy,dd/mm/yyyy
+Roles Assigned,תפקידים שהוקצו
+Share this document with,שתף מסמך זה עם
+Success URL,URL מוצלח
+New {0},חדש {0}
+Content web page.,תוכן דף האינטרנט.
+Append To,הוסף ל
+"All possible Workflow States and roles of the workflow. Docstatus Options: 0 is""Saved"", 1 is ""Submitted"" and 2 is ""Cancelled""","כל מצבי זרימת העבודה האפשריים והתפקידים בזרימת העבודה. אפשרויות מצב המסמך: 0 משמעותו 'נשמר', 1 משמעותו 'נשלח' ו-2 משמעותו 'בוטל'"
+Optional: The alert will be sent if this expression is true,אופציונלי: ההתראה תישלח אם ביטוי זה נכון
+User Image,תמונת המשתמש
+Salutation,דברי ברכה
+Leave blank to repeat always,השאר ריק כדי לחזור תמיד
+Complete,השלם
+Attachment Removed,הצרופה הוסרה
+Administrator accessed {0} on {1} via IP Address {2}.,מנהל ניגש ל-{0} ב-{1} באמצעות כתובת IP {2}.
+Ignore attachments over this size,התעלם מקבצים מצורפים מעל הגודל הזה
+Edit Custom HTML,ערוך HTML מותאם אישית
+&lt;head&gt; HTML,'כותרת' HTML
+Notifications and bulk mails will be sent from this outgoing server.,הודעות ומיילים בתפוצה רחבה יישלחוה מהשרת דואר יוצא זה.
+Disable Customer Signup link in Login page,השבת קישור הרשמה ללקוחות בדף כניסה
+Likes,אוהב
+Float,נקודה צפה
+Document Types,סוגי מסמכים
+Custom HTML,המותאם אישית HTML
+Document States,מצב המסמך
+Mandatory fields required in {0},שדות חובה נדרשים ב-{0}
+View Website,הצג אתר
+Event Type,סוג האירוע
+Browse,חפש ב
+Column Labels:,תוויות עמודה:
+Rich Text,טקסט עשיר
+Messages,הודעות
+Sub-domain provided by erpnext.com,תת תחום הניתן על ידי erpnext.com
+Users,משתמשים
+"Enter keys to enable login via Facebook, Google, GitHub.","הזן סיסמה כדי לאפשר התחברות באמצעות פייסבוק, גוגל, GitHub."
+{0}: Cannot set Amend without Cancel,{0}: לא ניתן להגדיר תיקון ללא ביטול
+Submitted,הוגש
+Footer,כותרת תחתונה
+clear,נקה
+Send Email Print Attachments as PDF (Recommended),שלח קבצים מצורפים מודפסים של הדואר האלקטרוני כקובץ PDF (מומלץ)
+Address,כתובת
+Save As,שמור כ
+Auto Name,שם אוטומטי
+Home/Test Folder 1,דף בית/תיקיית ניסיון 1
+Search Fields,חפש שדות
+Session Expiry in Hours e.g. 06:00,"תפוגת זמן פעולה בשעות, לדוגמה 6:00"
+by Role,על ידי בעל התפקיד
+File Size,גודל קובץ
+Options for select. Each option on a new line.,אפשרויות לבחירה. כל אפשרות בשורה חדשה.
+Unable to load: {0},לא ניתן לטעון: {0}
+Document Status,סטטוס המסמך
+trash,אשפה
+Unknown Column: {0},טור לא ידוע: {0}
+Report cannot be set for Single types,לא ניתן להגדיר דווח לסוגים יחיד
+Show Tags,הצג תגיות
+Name of the new Print Format,שמו של פורמט ההדפסה החדש
+Email Signature,חתימת הדואר האלקטרוני
+Please select DocType first,אנא בחר DOCTYPE
+"Unknown file encoding. Tried utf-8, windows-1250, windows-1252.","קידוד קובץ לא ידוע. , חלונות-1250, חלונות-1252 utf-8 נבדק."
+Time,זמן
+Not in Developer Mode! Set in site_config.json or make 'Custom' DocType.,אינך במצב מפתחים! הגדר כ-site_config.json או צור DOCTYPE 'מותאם אישית'.
+Get your globally recognized avatar from Gravatar.com,קבל את האווטאר שלך המזוהה בכל העולם מGravatar.com
+Already in user's To Do list,כבר נמצא ברשימת המטלות של המשתמש
+Select an image of approx width 150px with a transparent background for best results.,בחר תמונה בעלת רוחב של כ-150 פיקסלים עם רקע שקוף כדי לקבל את התוצאות הטובות ביותר.
+{0}: Cannot set Assign Submit if not Submittable,{0}: לא ניתן להגדיר הגשת הקצאה אם היא אינה ניתנת להגשה
+User Tags,תגיות משתמש
+Permitted Documents For User,מסמכים המותרים למשתמש
+Parent,מקור
+Restrict IP,מוגבל IP
+SMS Settings,הגדרות SMS
+Visit,בקר
+Must have report permission to access this report.,אתה חייב להיות בעל הרשאת דוחות על מנת לגשת לדוח זה.
+Disabled,מושבת
+No Permissions set for this criteria.,אין הרשאות שהוגדרו לקריטריונים אלו.
+Frames,מסגרות
+All Day,כל היום
+Desktop,שולחן העבודה
+Org History Heading,כותרת לתולדות הארגון
+Enable,אפשר
+Name,שם
+Will be used in url (usually first name).,ישמש לכתובת האתר (לרוב השם הפרטי).
+Image View,תצוגת התמונה
+Successful: {0} to {1},מוצלח: {0} {1}
+Avoid dates and years that are associated with you.,הימנע מתאריכים ושנים הקשורות אליך.
+folder-close,סגור תיקייה
+Enter url parameter for receiver nos,הזן פרמטר כתובות למספרי הנמענים
+{0} Name,{0} שם
+Recipient Unsubscribed,נמען לא רשום
+Show Title,הצג כותרת
+Edit Title,ערוך כותרת
+Last Known Versions,גרסאות ידועות אחרונות
+plus,פלוס
+Starts on,מתחיל ב
+Security Settings,הגדרות אבטחה
+{0} cannot be set for Single types,לא ניתן להגדיר את {0} עבור סוגים בודדים
+1 comment,1 תגובה
+Let's avoid repeated words and characters,הימנע ממילים ותווים חוזרים
+Reference Date,תאריך התייחסות
+Version,גרסה
+Reset,אתחל
+Mute Sounds,השתק צלילים
+Select DocType,DOCTYPE בחר
+{0} not allowed to be renamed,לא ניתן לשנות את השם של {0}
+System Settings,הגדרות מערכת
+Capitalization doesn't help very much.,שימוש באותיות גדולות לא מועיל ביותר.
+Sales User,משתמש מכירות
+An icon file with .ico extension. Should be 16 x 16 px. Generated using a favicon generator. [favicon-generator.org],קובץ סמל עם .ico הרחבת. צריך להיות 16 x 16. פיקסלים. נוצר באמצעות מחולל favicon. [Favicon-generator.org]
+Username,שם משתמש
+resize-horizontal,שנה את הגודל האופקי
+"{0}: Cannot set Submit, Cancel, Amend without Write","{0}: לא ניתן להגדיר שליחה, ביטול, תיקון ללא כתיבה"
+Not allowed to print cancelled documents,לא ניתן להדפיס מסמכים שבוטלו
+Async Task,משימה לא מסונכרנת
+Website Settings,הגדרות אתר
+Names and surnames by themselves are easy to guess.,קל לנחש שמות ושמות משפחה ללא תוספת.
+Remove all customizations?,להסיר את כל ההתאמות האישיות?
+Link,קישור
+Cannot open {0} when its instance is open,לא ניתן לפתוח את {0} כאשר הוא פתוח
+Workflow Action Name,שם הפעולה בזרימת העבודה
+Unsubscribed,רישום בוטל
+Help on Search,עזרה בחיפוש
+Forward To Email Address,העבר לכתובת הדואר האלקטרוני
+"{0} field cannot be set as unique in {1}, as there are non-unique existing values","השדה {0} לא יכול להיות מוגדר כייחודי ב-{1}, שכיוון שכבר ישנם ערכים שאינם ייחודיים בתוכו"
+Type:,סוג:
+facetime-video,וידאו בזמן אמת
+The First User: You,המשתמש הראשון: אתה
+Designation,ייעוד
+Filter {0} missing,מסנן {0} חסר
+ok,OK
+Not Published,לא פורסם
+Custom CSS,CSS מותאם אישית
+retweet,צייץ מחדש
+Is Default,האם ברירת מחדל
+This is a top-100 common password.,זוהי אחת מ-100 הסיסמאות הנפוצות ביותר
+Select Print Format,פורמט הדפסה בחר
+Bio,ביו
+Collapsible Depends On,Collapsible התלוי ב
+You need to be logged in and have System Manager Role to be able to access backups.,אתה צריך להיות מחובר ולהיות בתפקיד מנהל מערכת על מנת שתוכל לגשת לגיבויים.
+This is similar to a commonly used password.,סיסמה זו דומה לסיסמה נפוצה אחרת.
+Enabled,מופעל
+Text,טקסט
+No Copy,לא העתק
+Content Hash,Hash תוכן
+0 - Draft; 1 - Submitted; 2 - Cancelled,0 - טיוטה; 1 - הוגש; 2 - בוטל
+Session Expiry must be in format {0},תפוגת זמן הפעותה חייבת להיות בפורמט {0}
+"Oops, you are not allowed to know that","אופס, אינך רשאי לדעת זאת"
+Script Report,דוח סקריפט
+ProTip: Add <code>Reference: {{ reference_doctype }} {{ reference_name }}</code> to send document reference,הוסף: Protip <code>Reference: {{ reference_doctype }} {{ reference_name }}</code> על מנת לשלוח התייחסות למסמך
+Time Zone,אזור זמן
+headphones,אוזניות
+There can be only one Fold in a form,לא יכול להיות רק אחד Fold בטופס
+Property Type,סוג המאפיין
+Add Filter,הוסף מסנן
+Small Text,טקסט קטן
+All-uppercase is almost as easy to guess as all-lowercase.,קל לנחש אותיות גדולות בדיוק כמו אותיות קטנות.
+signal,סימן
+A new account has been created for you at {0},חשבון חדש נוצר עבורך ב-{0}
+Table {0} cannot be empty,טבלה {0} לא יכולה להיות ריקה
+For {0} at level {1} in {2} in row {3},עבור {0} ברמה {1} {2} בשורה {3}
+New Email,הודעה חדשה
+GitHub,GitHub
+use % as wildcard,השתמש ב-% כתו חופשי
+User '{0}' already has the role '{1}',המשתמש '{0}' הוא כבר בעל התפקיד '{1}'
+Login Required,נדרשת כניסה לחשבון
+Amended From,תוקן מ
+Left this conversation,עזוב את השיחה הזאת
+Google Drive,Google Drive
+Value,ערך
+Middle Name (Optional),שם אמצעי (אופציונאלי)
+** Failed: {0} to {1}: {2},** נכשל: {0} ל-{1}: {2}
+Is Attachments Folder,האם תיקיית קבצים מצורפים
+Period,תקופה
+Bot,בוט
+Change,שנה
+Value Change,הערך השתנה
+Reference DocType,DOCTYPE התייחסות
+No comments yet,עדיין אין תגובות
+Default Sending and Inbox,ברירת מחדל לשליחה ולתיבת הדואר הנכנס
+Currency,מטבע
+indent-left,הזחה לשמאל
+Send Print as PDF,שלח הדפסה כקובץ PDF
+Sidebar Items,פריטים בסרגל הצידי
+Add Total Row,הוסף שורת סך כולל
+Thank you for your email,תודה על ההודעה שלך
+thumbs-up,אגודלים מורמים
+Only Administrator can save a standard report. Please rename and save.,רק מנהל מערכת יכול לשמור דוח סטנדרטי. אנא שנה שם ושמור.
+Icon will appear on the button,סמל יופיע על הכפתור
+Settings for About Us Page.,הגדרות עבור הדף מי אנחנו.
+Files,קבצים
+Added {0} ({1}),נוסף {0} ({1})
+question-sign,סימן שאלה
+My Account,החשבון שלי
+Beta,בטא
+Permanently delete {0}?,למחוק לצמיתות את {0}?
+{0} {1} cannot be a leaf node as it has children,{0} {1} לא יכול להיות ישות קצה כיוון שיש לו תת-ישות
+Background Email Queue,תור רקע לדואר האלקטרוני
+Merge with existing,מזג עם מודל קיים
+Click on the link below to complete your registration and set a new password,לחץ על הקישור הבא כדי להשלים את הרישום שלך ולהגדיר סיסמה חדשה
+Send After,שלח לאחר
+Monday,יום שני
+e.g. pop.gmail.com / imap.gmail.com,למשל pop.gmail.com / imap.gmail.com
+Email Queue,תור בדואר האלקטרוני
+Category Name,שם הקטגוריה
+Doc Status,סטטוס המסמך
+Click here to verify,לחץ כאן כדי לאמת
+Did not find {0} for {0} ({1}),לא נמצא {0} עבור {0} ({1})
+Please ensure that your profile has an email address,ודא שיש בפרופיל שלך כתובת דואר אלקטרוני
+Unique,ייחודי
+Guest,אורח
+Assign,הקצה
+Reopen,פתח מחדש
+Example,דוגמה
+Row #{0}:,# שורה {0}:
+Transitions,מעברים
+align-left,יישור טקסט לשמאל
+Find {0} in {1},מצא את {0} ב {1}
+Comments and Communications will be associated with this linked document,תגובות והעברות ישוייכו עם מסמך מקושר זה
+certificate,אישור
+Posts by {0},פורסם בידי {0}
+Print Format {0} is disabled,פורמט ההדפסה {0} אינו זמין
+{0} or {1},{0} או {1}
+Cannot Update: Incorrect / Expired Link.,לא ניתן לעדכן: קישור שגוי / קישור שפג תוקפו.
+Emails are muted,הודעות מושתקות
+List,רשימה
+Module Name,שם מודול
+backward,אחורה
+Cannot link cancelled document: {0},אינך יכול לקשר מסמך שבוטל: {0}
+Standard Print Format cannot be updated,לא ניתן לעדכן פורמט הדפסה סטנדרטי
+Green,ירוק
+Invalid CSV Format,פורמט CSV לא חוקי
+Naming Series mandatory,שמות סדרת חובה
+Enter Value,הזן ערך
+Attach Print,צרף הדפסה
+Send Now,שלח עכשיו
+Reference Doc,מסמך התייחסות
+DocType can not be merged,לא ניתן למזג DOCTYPE
+ToDo,רשימת מטלות
+Days Before,מספר ימים לפני
+Wednesday,יום רביעי
+"Permissions at level 0 are Document Level permissions, i.e. they are primary for access to the document.","הרשאות ברמה 0 הן הרשאות לרמת המסמך, כלומר הם בעיקר מאפשרים גישה למסמכים."
+Allow Edit,אפשר עריכה
+Blog Post,פוסט בבלוג
+Not equals,לא שווה
+Draft,טיוטה
+New Password,סיסמה חדשה
+th,th
+Precision,רמת דיוק
+DocPerm,הרשאות מסמכים
+Seen,נראה
+leaf,ישות קצה
+Dynamic Link,קישור דינמי
+New Folder,תיקיה חדשה
+file,קובץ
+Document Type,סוג המסמך
+Use this fieldname to generate title,השתמש בשם שדה זה על מנת ליצור כותרת
+Subject,נושא
+Add A New Rule,הוסף חוק חדש
+Column Break,מעבר עמודה
+All customizations will be removed. Please confirm.,כל ההתאמות האישיות יוסרו. אנא אשר זאת.
+step-forward,העבר קדימה
+County,מחוז
+new type of document,סוג חדש של מסמך
+Set Permissions on Document Types and Roles,הגדרת הרשאות על סוגי מסמכים ותפקידים
+Roles can be set for users from their User page.,ניתן להגדיר תפקידים עבור משתמשים בדף המשתמש שלהם.
+Clicked,נלחץ
+Module Def,הגדרת מודול
+Create and Send Newsletters,צור ושלח ניוזלטרים
+hand-down,יד כלפי מטה
+Users with role {0}:,משתמשים בעלי התפקיד {0}:
+Value cannot be changed for {0},לא ניתן לשנות ערך עבור {0}
+Last Active,פעילות אחרונה
+Upcoming Events,אירועים קרובים
+You don't have the permissions to access this document,אין לך הרשאות גישה למסמך זה
+Enable Report,אפשר דוח
+Both login and password required,נדרש להתחבר ולהזין סיסמה
+Search or type a command,חפש או הקלד פקודה
+Attachment,קובץ מצורף
+Sunday,יום ראשון
+Syntax error in template,שגיאת בתחביר התבנית
+Chat messages and other notifications.,הודעות צ'אט והתראות נוספות.
+Last Name,שם משפחה
+Save,שמור
+Bulk Update,עדכון גורף
+Addresses,כתובות
+Reason,סיבה
+Middle Name,שם אמצעי
+"Another {0} with name {1} exists, select another name","{0} נוסף עם השם {1} קיים במערכת, בחר שם אחר"
+Reset Permissions for {0}?,איפוס הרשאות עבור {0}?
+zoom-out,הקטן
+View this in your browser,הצג זאת בדפדפן שלך
+Print Style,סגנון הדפסה
+Long Text,טקסט ארוך
+Friendly Title,כותרת ידידותית
+Not allowed to Import,לא ניתן לייבא
+Posts,פוסטים
+Fonts,גופנים
+Events In Today's Calendar,אירועים בלוח השנה היום
+Set New Password,הגדר סיסמה חדשה
+flag,דגל
+Timeline Name,שם ציר זמן
+Settings for the About Us Page,הגדרות עבור העמוד מי אנחנו
+Not Allowed,לא מאושר
+Maintenance Manager,מנהל אחזקה
+User Permissions,הרשאות משתמש
+"Must be of type ""Attach Image""",חייב להיות מסוג 'צרף תמונה'
+Did not cancel,לא בוטל
+Report {0},דוח {0}
+Yearly,שנתי
+Please Update SMS Settings,אנא עדכן את הגדרות ה-SMS
+HTML,HTML
+Ignore XSS Filter,התעלם ממסנן ה-XSS
+remove-sign,סימן הסרה
+The resource you are looking for is not available,המשאב שאתה מחפש אינו זמין
+Image field must be a valid fieldname,שדה תמונה חייב להיות שם שדה תקף
+Represents a User in the system.,מייצג משתמש במערכת.
+Allow Rename,אפשר שינוי שם
+Saturday,יום שבת
+Sorry! You cannot delete auto-generated comments,מצטערים! אינך יכול למחוק הערות שנוצרו באופן אוטומטי
+Passive,פסיבי
+You don't have permission to access this file,אין לך הרשאה לגשת לקובץ זה
+Back to Login,חזרה להתחברות
+volume-down,הנמכת עוצמת הקול
+Data Import Template,תבנית ייבוא נתונים
+{0} mentioned you in a comment in {1},{0} הזכיר אותך בהערה ב {1}
+"""Company History""",'תולדות החברה'
+Restore to default settings?,לשחזר להגדרות ברירת המחדל?
+Error,שגיאה
+values separated by commas,ערכים מופרדים בפסיקים
+Insert After,הכנס אחרי
+Edit,ערוך
+Loading...,טוען...
+{0} Tree,{0} עץ
+"To format columns, give column labels in the query.","על מנת לעצב עמודות, תן תוויות עמודה בשאילתה."
+Workflow Action Master,אשף פעולות זרימת העבודה
+A symbol for this currency. For e.g. $,סימן של מטבע זה. לדוגמה: $$
+Select the label after which you want to insert new field.,בחר את התווית שאחריה ברצונך להוסיף שדה חדש.
+Set Only Once,הגדר פעם אחת
+Hub,רכזת
+Updated To New Version,עודכן לגרסה חדשה
+Options,אפשרויות
+Address Title is mandatory.,יש להזין כותרת כתובת.
+Series {0} already used in {1},סדרה {0} כבר בשימוש ב-{1}
+{0} months ago,לפני {0} חודשים
+Custom Field,שדה מותאם אישית
+Center,מרכז
+DESC,תיאור
+Accounts User,חשבונות משתמש
+DocShare,שיתוף מסמכים
+Set numbering series for transactions.,הגדר מספור לסדרות לעסקאות.
+App not found,היישום לא נמצא
+Redis cache server not running. Please contact Administrator / Tech support,המטמון של שרת ה-Redis לא מצליח חרוץ. אנא צור קשר עם המנהל / תמיכה טכנית
+Language,שפה
+"Expression, Optional","ביטוי, אופציונאלי"
+"For example: If you want to include the document ID, use {0}","לדוגמה: אם ברצונך לכלול מזהה המסמך, השתמש ב-{0}"
+Not Like,שונה מ
+Assignment closed by {0},המשימה נסגרה על ידי {0}
+Compact Item Print,מדפסת פריטים קומפקטיים
+volume-off,קול מושתק
+Color,צבע
+Email Address,כתובת דואר אלקטרוני
+"Sub-currency. For e.g. ""Cent""",תת מטבע. לדוגמה 'סנט'
+Sorry! I could not find what you were looking for.,מצטערים! לא הצלחנו למצוא את מה שחיפשת.
+Success Message,ההודעה נשלחה בהצלחה
+DocType can only be renamed by Administrator,ניתן לשנות את שם ה-DOCTYPE רק על ידי מנהל
+Fieldname which will be the DocType for this link field.,שם השדה אשר יהיה DOCTYPE לשדה קישור זה.
+Invalid Login Token,מפתח התחברות לא חוקי
+Table updated,הטבלה התעדכנה
+Add custom javascript to forms.,הוסף JavaScript מותאם אישית לטפסים.
+Customize Form,טופס מותאם אישית
+Select Print Format to Edit,בחר פורמט הדפסה כדי לערוך אותו
+Country Name,שם המדינה
+Could not identify {0},לא ניתן לזהות {0}
+Role and Level,תפקיד ורמה
+A log of request errors,יומן של שגיאות בקשה
+Email Queue records.,רשומות תור של הדואר האלקטרוני.
+click here,לחץ כאן
+Postal,מיקוד
+Runtime,זמן ריצה
+Is Home Folder,האם תיקיית הבית
+Field,שדה
+folder-open,פתיחת תיקייה
+Select Attachments,בחר קבצים מצורפים
+Address Line 1,שורת כתובת 1
+Max Attachments,מספר קבצים מצורפים מקסימלי
+You can use Customize Form to set levels on fields.,תוכל להשתמש בטופס מותאם אישית כדי להגדיר רמות בשדות.
+Add Subscribers,הוסף מנויים
+Verdana,Verdana
+Sales Manager,מנהל מכירות
+Currently Viewing,צופים כרגע
+Folder {0} is not empty,תיקייה {0} אינה ריקה
+Comment By,תגובה מ
+No further records,אין רשומות נוספות
+Allow Dropbox Access,אפשר גישה ל-Dropbox
+Add your own translations,הוספת תרגומים משלך
+Delayed,מושהה
+Liked By,סומן כ-אהבתי על ידי
+Cannot edit standard fields,לא ניתן לערוך שדות סטנדרטיים
+UPPER CASE,אותיות גדולות
+Enable Scheduled Jobs,אפשר משימות מתוכננות
+Only Allow Edit For,אפשר עריכה רק ל
+Missing Values Required,נדרשים ערכים חסרים
+Submit this document to confirm,שלח את המסמך הזה כדי לאשר
+Let's prepare the system for first use.,בואו נכין את המערכת לשימוש ראשון.
+Import Email From,ייבא דואר אלקטרוני מ
+Share {0} with,שתף {0} עם
+Property Setter,מגדיר מאפיין
+Only Administrator can delete Email Queue,רק מנהל יכול למחוק תור בדואר אלקטרוני
+pause,עצור
+Role,תפקיד
+Image,תמונה
+{0} is currently viewing this document,{0} כרגע צופים במסמך זה
+Import Log,ייבא יומן
+Name of {0} cannot be {1},השם של {0} אינו יכול להיות {1}
+Notes:,הערות:
+{0} shared this document with {1},{0} שיתף מסמך זה עם {1}
+Attachment Limit (MB),מגבלת קבצים מצורפים (MB)
+Reference Document Type,סוג מסמך ההתייחסות
+Select {0},בחר {0}
+Rename,שנה שם
+Fieldname {0} cannot have special characters like {1},שם השדה {0} לא יכול להכיל תווים מיוחדים כמו {1}
+End Time,שעת סיום
+Set Banner from Image,הגדר באנר מתמונה
+plane,מטוס
+Email Ids,מזהי דואר אלקטרוני
+Is Child Table,האם האם תת-טבלה
+Smallest circulating fraction unit (coin). For e.g. 1 cent for USD and it should be entered as 0.01,היחידה הקטנה ביותר במחזור (מטבע). לדוגמא סנט אחד לדולר ויש להזין אותו כ-0.01
+Valid email and name required,יש להזין דואר אלקטרוני תקף ושם
+1 Currency = [?] Fraction For e.g. 1 USD = 100 Cent,"מטבע אחד = [?] חלקים. לדוגמה, דולר אחד = 100 סנט"
+Running,רץ
+Heading,כותרת
+Float Precision,רמת דיוק לנקודה צפה
+Not Seen,לא נראה
+Confirm Your Email,אשר את הדואר האלקטרוני שלך
+Banner is above the Top Menu Bar.,שים את הבאנר מעל לשורת התפריטים העליונה.
+Limit,הגבל
+Service,שירות
+Avoid sequences like abc or 6543 as they are easy to guess,הימנע מרצפים כמו abc או 6543 כיוון שהם קלים לניחוש
+Document Name,שם המסמך
+Closed,סגור
+Add Signature,הוסף את החתימה
+Login Before,התחבר לפני
+qrcode,QRCode
+{0} Report,{0} דוח
+Website Theme Image Link,קישור לתמונת נושא אתר
+Validity,תוקף
+Is Single,הם בודד
+Print Format Builder,בונה פורמט ההדפסה
+Confirmed,אושר
+Report of all document shares,דוח של כל שיתופי המסמך
+Notes,הערות
+Company History,תולדות החברה
+Country,מדינה
+Multiple root nodes not allowed.,ישויות שורש מרובות אסורות.
+Administrator,מנהל
+Filter,סנן
+Could not find {0} in {1},לא ניתן למצוא את {0} ב {1}
+Text Color,צבע הטקסט
+{0} weeks ago,לפני {0} שבועות
+Enter url parameter for message,הזן פרמטר url להודעה
+Pending,ממתין ל
+Blogger,בלוגר
+Exception Type,סוג החריגה
+Calendar,לוח שנה
+Menu,תפריט
+Footer Item,פריט בכותרת תחתון
